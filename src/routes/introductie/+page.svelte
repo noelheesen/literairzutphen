@@ -64,5 +64,5 @@ Doen ’t veen en drassig land door zwaare raadren buigen
 </p>
 
 <p>
-    Hans Heesen
+    <b>Hans Heesen</b>
 </p>

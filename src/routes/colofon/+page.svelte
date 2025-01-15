@@ -7,5 +7,5 @@
     Om de teksten te verlevendigen en de belangstelling voor de beschreven auteurs te vergroten zijn er waar mogelijk portretfoto’s toegevoegd. Indien u, hetzij als geportretteerde hetzij als fotograaf, bezwaar heeft tegen plaatsing van een foto, hoor ik het graag: dan zal ik de foto verwijderen en proberen te vervangen door een andere.
     <br />
     <br />
-    Deze site is work in progress en zal dus regelmatig worden bijgewerkt en uitgebreid. Ik heb niet de illusie volledig te zijn. Aanvullingen, verbeteringen en tips zijn van harte welkom. U kunt deze sturen naar hans.heesen@gmail.com.
+    Deze site is work in progress en zal dus regelmatig worden bijgewerkt en uitgebreid. Ik heb niet de illusie volledig te zijn. Aanvullingen, verbeteringen en tips zijn van harte welkom. U kunt deze sturen naar <a href="mailto:hans.heesen@gmail.com">hans.heesen@gmail.com.</a>
 </p>

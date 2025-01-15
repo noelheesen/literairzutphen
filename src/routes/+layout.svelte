@@ -17,8 +17,8 @@
 	</menu>
 </header>
 
-<aside class="border-r-2 inline-block">
-	<menu>
+<!-- <aside class="border-r-2 inline-block">
+	<nav>
 		<li><a href="/">Home</a></li>
 		<li><a href="/introductie">Introductie</a></li>
 		<h4>Tijdvak</h4>
@@ -32,7 +32,7 @@
 		</ul>
 		<li><a href="/citaten-en-gedichten">Citaten, gedichten en teksten</a></li>
 		<li><a href="/colofon">Colofon / Contact</a></li>
-	</menu>
+	</nav>
 
 	<h4>Links</h4>
 	<ul>
@@ -40,6 +40,6 @@
 			<li><a href={link.url} target="_blank" rel="noopener noreferrer" title={link.title}>{link.text}</a></li>
 		{/each}
 	</ul>
-</aside>
+</aside> -->
 
 <main>{@render children()}</main>

@@ -1,3 +1,49 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+@layer components {
+    .image-lines-3 {
+        height: 4.924rem;
+    }
+
+    .image-lines-4 {
+        height: 6.899rem;
+    }
+
+    .image-lines-5 {
+        height: 8.374rem;
+    }
+
+    .image-lines-6 {
+        height: 10.098rem;
+    }
+
+    .image-lines-7 {
+        height:11.823rem;   
+    }
+
+    .image-lines-8 {
+        height: 13.547rem;
+    }
+
+    .image-lines-9 {
+        height: 15.272rem;
+    }
+
+    .image-lines-10 {
+        height: 16.997rem;
+    }
+
+    .image-lines-11 {
+        height: 18.721rem;
+    }
+
+    .image-lines-12 {
+        height: 20.446rem;
+    }
+
+    .image-lines-13 {
+        height: 22.17rem;
+    }
+}
