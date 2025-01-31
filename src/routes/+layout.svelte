@@ -11,11 +11,12 @@
 	<menu>
 		<ul class="flex float-right">
 			{#each ALPHABET as letter}
-				<li>{letter}</li>
+				<li><button type="button">{letter}</button></li>
 			{/each}
 		</ul>
 	</menu>
 </header>
+
 
 <!-- <aside class="border-r-2 inline-block">
 	<nav>
