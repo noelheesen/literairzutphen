@@ -1,19 +1,23 @@
 <script lang=ts>
 	import '../app.css';
-	import Links from '../../data/links.json'
+	// import Links from '../../data/links.json'
 	import { ALPHABET } from '$lib/constants';
+	import { scrollToWriter } from '$lib/actions/scroll-to-writer';
 
 	let { children } = $props();
 </script>
 
-<header class="h-12 sticky border-b-4 border-red-800">
+<svelte:window use:scrollToWriter></svelte:window>
+
+<header class="sticky border-b-4 border-red-800">
 	<h1>Literair Zutphen</h1>
-	<menu>
-		<ul class="flex float-right">
+	<menu class="float-right">
+		<ul class="flex">
 			{#each ALPHABET as letter}
 				<li><button type="button">{letter}</button></li>
 			{/each}
 		</ul>
+		<button id="drawer-toggle">DRAWER</button>
 	</menu>
 </header>
 
@@ -44,3 +48,19 @@
 </aside> -->
 
 <main>{@render children()}</main>
+
+<style>
+	header {
+		height: 3.4rem;
+	}
+	h1 {
+		display: inline-block;
+		font-family: Tangerine;
+		font-size: 2.3rem;
+	}
+
+	menu {
+		display: inline-flex;
+		column-gap: 0.4rem;
+	}
+</style>
