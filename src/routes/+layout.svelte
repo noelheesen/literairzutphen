@@ -10,7 +10,7 @@
 <svelte:window use:scrollToWriter></svelte:window>
 
 <header class="sticky border-b-4 border-red-800">
-	<h1>Literair Zutphen</h1>
+	<h1 id="site-title">Literair Zutphen</h1>
 	<menu class="float-right">
 		<ul class="flex">
 			{#each ALPHABET as letter}

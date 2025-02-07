@@ -1,0 +1,507 @@
+<article>
+    <h1>1900 – 1945</h1>
+
+    <section>
+        <p>
+            <img src="/images/" alt="">
+            Er was een tijd waarin <writer name="margoschartenantink" data-writer="margoschartenantink">Margo Scharten-Antink</writer> ‘vooraan onder de romanschrijfsters’ stond en de literaire wereld aan haar voeten lag. De roman <cite>Sprotje</cite> (1905), over het leven van een meisje uit het volk, was een onverbiddelijke bestseller. Schrijfster en historica Annie Romein-Verschoor noemde <cite>Sprotje</cite> het eerste ‘vrouwenboek’ na <cite>Sara Burgerhart</cite> van Betje Wolff en Aagje Deken dat recht had op een eigen plaats in de Nederlandse letterkunde. Margo Sybranda Everdina Scharten-Antink, geboren op Nieuwstad 124 (oude nummering) in Zutphen op 7 september 1869, debuteerde op zeer jeugdige leeftijd. Toen ze dertien was – de familie woonde toen in Bergen op Zoom – schreef ze op haar kamertje, in het geheim, haar eerste roman, <cite>George Couvron</cite>, die onder het pseudoniem Victorine d’Oxème als feuilleton in de plaatselijke krant verscheen. ‘Haar moeder zat die elken avond ernstig te lezen, terwijl Margo in dezelfde kamer haar huiswerk maakte. Niemand vermoedde iets, totdat op een middag, aan de koffiemaaltijd, een boek voor de jongejuffrouw werd binnengebracht, dat het inschrift droeg: “met den vriendelijken dank van de redactie van de Bergen op Zoomse courant.”’ Er volgde een scène. ‘Haar moeder ging naar de school om te vragen of Margo’tje in de toekomst niet een dubbele portie huiswerk kon krijgen.’ Met haar (officiële) debuut, de novelle <cite>Catharina</cite> (1899), gepubliceerd onder de naam M. Antink, oogstte ze de waardering van Lodewijk van Deyssel, wat niet niks was, want Van Deyssel was een houwdegen die bekend stond om zijn ongenadige ‘scheldkritieken’.
+            <br>
+            <img src="/images/" alt="">
+            In 1902 trouwde zij met de dichter-criticus Carel Scharten. Het paar vestigde zich in Parijs en daarna Florence. In nauwe samenwerking schreven zij <cite>Een huis vol menschen</cite> (1908), over hun Parijse pensionbelevenissen, gevolgd door een groot aantal romantisch getinte, zich grotendeels in Italië afspelende boeken zoals <cite>Het geluk hangt als een druiventros</cite> (1918) en <cite>Het leven van Francesco Campana</cite> (1923-25). ‘Dat deze samenwerking haar talent heeft geschaad blijkt uit de latere werken die zij alleen schreef.’ Zij publiceerde nog twee vervolgen op <cite>Sprotje</cite>: <cite>Sprotje heeft een dienst</cite> (1909) en <cite>Sprotjes verder leven</cite> (1910). Scharten-Antink overleed op 27 november 1957 in Florence.
+        </p>
+    </section>
+
+    <section>
+        <p>
+            Dat de rechtsgeleerde mr. <writer name="annesilberdinusdeblecourt" data-writer="annesilberdinusdeblecourt">A.S. (Anne Siberdinus) de Blécourt</writer> (Appingedam, 4 oktober 1873 – Den Haag, 8 november 1940), die in 1903 als ‘substituut-griffier der rechtbank’ naar Zutphen kwam, een vermelding in dit overzicht verdient is niet omdat hij ‘daar, in die vriendelijke kleine stad’, zoals in zijn ‘Levensbericht’ te lezen valt, een werkkring vond ‘die hem boeide, bevredigde en toch niet drukte’ en evenmin omdat hij er leefde ‘in goede verstandhouding met zijne ambtgenooten en ook met vele medeburgers’, of omdat ‘zijn wetenschappelijke scheppingsdrang’ er tot ontplooiing kwam, maar vanwege een werkje dat hij als student schreef: de geestige, in het dialect van zijn geboorteplaats geschreven bundel dorpsnovellen <cite>Fivelgoër Landleven</cite> (1901). De Blécourt woonde aan de Coehoornsingel 72. Hij verliet Zutphen in 1911 voor een glansrijke academische loopbaan: hij werd rector magnificus in Leiden. Fivelgoër Landleven zou hij de rest van zijn leven blijven zien als een kwalijke misstap, een jeugdzonde – reden waarom hij het boek ‘in de lijst zijner geschriften niet wenschte te zien opgenomen’. In Appingedam is een straat naar hem vernoemd.
+        </p>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="Christine Johanna Francesca Vetter">
+            <writer name="christinejohannafrancescavetter" data-writer="christinejohannafrancescavetter">Christine J.F. (Johanna Francesca) Vetter</writer>, geboren 16 juni 1859 aan de Groenmarkt 39 in Zutphen, heeft als schrijfster altijd in de schaduw gestaan van Stephanie Vetter (zie daar), wier tante zij was. Christine Vetter was hoofdonderwijzeres en schrijfster van schetsen, novellen en romans, waarover het katholieke <cite>Lectuur-Repertorium</cite> goed te spreken was: ‘verdienstelijke katholieke familieromans; geen hooger literatuur, doch gezond werk’ was het. Titels zijn: <cite>Held en martelaar. Oorspronkelijke novelle</cite> (1905), <cite>Drie: Drankellende – Onder verdenking – Hebzucht</cite> (1908), <cite>Kleine burgers, een schets uit het hedendaagse volksleven</cite> (1911), <cite>Zielestrijd. Roman uit de hedendaagsche wereld</cite> (1917), <cite>Circusmensen</cite> (1937). Vetter woonde achtereenvolgens aan de Proostdijsteeg 2, Korte Hofstraat 12, Nieuwstad 46, Turfstraat 25 en Groenmarkt 9. Zij was een invloedrijke figuur in Zutphen. Ze overleed in Amsterdam, op 31 oktober 1932. Haar verhaal ‘Sokkena’ is een schets van een volksbuurt in Zutphen.
+        </p>
+        <blockquote>
+Sokkena
+
+‘Peetr-olie…. peetr-olie!’ een ommezientje rust, dan opnieuw ‘peetr-olie…. peetr-olie!’ en langzaam, met de handen in de jaszakken, met het geheele lichaam zijn karretje zachtjes voortduwende, komt olie-Jacob, ook wel kortweg ‘Olie’ genoemd, de volkrijke achterbuurt in, waar op dezen mistigen November-morgen de menschen al even laat schijnen te wezen als in de deftige wijken. ‘Luie kerels…. liggen nog in ’t nest als rieke luu…’ moppert de koopman, en hij schreeuwt alweer: ‘peetr-olie…. peetr….’
+Daar wordt plotseling een deur opengerukt en een grove stem klinkt in de duisternis: ‘Biej noe gek, Olie! ’t is pas zes uur!’
+‘Hèèèèè…. bromt Jacob, maar de deur is alweer dicht en Olie ziet bij het schijnsel van een straatlantaarn, dat het werkelijk pas zes uur is en hij zich dus een vol uur verrekend heeft. ‘Potverdikke…. dâ’s ook lekker…. pas zes uur…. waor mô’k dat heele uur hènn! kump d’r van as de wekkerknol kapot is…. mô’k ‘m van arremoei wel laoten rippereeren…. pas zes uur…. in dee mist…. en âk weer in huus bin is ’t hallef zeuven en dan kan ‘k w’r umme riejen en dan bun ‘k um zeuven ure weer hier…. ’t is ’n spul, dàt is ’t….’ Olie sukkelde de duistere straat nog een eindje in, nu zonder te roepen…. hij geneerde zich: ’t was pas zes uur…. en wat was ie nu huiverig…. ’t vooruitzicht, daar een vol uur op en neer te moeten rijden met zijn karretje maakte hem nog kouder…. en vóór zeven uur kon hij in geen enkele woning terecht – nergens was ook al licht…. ja toch…. dáár, vlak tegenover hem, leek het wel alsof het gordijn, dat over een horretje gezakt was, een schijntje door liet…. maar wat hielp dat den kouden olieventer! Toch stuurde hij de kar in de richting van dat raam en keek het huisnummer aan: 34a…. las Olie hm! ’n halve kan peetr…. op de pof…. centen ho maar! brrr…. wat een mist…. zo’k ‘ns ankloppen?…. Ze is op: Sokke-Na…. zeker d’r vent vroeg nao ’t karwei…. verdikke wâ’n kolde…. alla ik kloppe…. en de daad bij het woord voegende tikte Jacob een paar malen tegen de onderste ruit. Een oogenblik later werd de huisdeur op een kiertje geopend en een vrouwenstem vroeg: ‘Is t’r iemand?’ ‘Jao vrouw Blok, ik bun ’t, olie-Jacob zâ’k maor zeggen…. ‘k heb mien een uur vergist met de tied en noe wô’k oe vrindelik verzeuken, of ‘k d’r astoebleef maar efkes in zal kommen…. ‘k bevreeze fenaol en ’t is nog ruim drie ketier….’ ‘Komp ’t’rin’, was ’t antwoord, ‘maar wès ’n bietjen stille…. Blok slöp nog en de kinder ook’. Jacob trok zijn kar op de klinkers vóór het huisje en kwam erin…. de huisvrouw liep op de kousen of liever over haar kousen had ze een paar genaaide lakensche sokken inplaats van sloffen of pantoffels…. vandaar haar bijnaam: Sokke-Na. Olie had ook de klompen aan de straatdeur laten staan en trad het vertrek binnen ‘op kousen-voeten’. Vrouw Blok wees hem een stoel aan – en beduidde hem, de voeten op de kachelplaat te zetten, wat de bezoeker terstond deed. – Nieuwsgierigheid was Olie’s ondeugd niet, maar nu had hij toch wel gewenscht, dat het lampje een tikje hooger was opgedraaid, dan zou hij eens kunnen rondkijken in het groote kille vertrek, waar ’s morgens om zes uur in de maand November de moeder al zat te breien in een omslagdoek bij een peetr-olie licht dat nog te min was voor een nachtpitje. – Zien kon de vroege gast dus niets, maar hooren deed hij heel duidelijk, hoe daar een zwaar snorkend geluid klonk uit de bedstede in het donkere gedeelte der kamer…. en van tijd tot tijd, wanneer het geronk even ophield, vernam hij het geklink der naalden en een onderdrukt hoesten van den vensterkant. – Plotseling klonk door de stilte een helder klokje: het klooster luidde het Angelus-ting-ting-ting…. vrouw Blok legde de kous neer en Jacob nam de muts van ’t hoofd…. Sokke-Na bad den Engel des Heeren…. na een oogenblik weer ting-ting-ting…. en voor de derde maal nog eens. ‘Na’ boog het hoofd en klopte op de borst…. toen trilde het schel en vroolijk door de mistige lucht: bim-bam-bim-bam…. herhaaldelijk en met schielijk opvolgende klanken en….
+‘Moeke…. Teuntjen wol opstaon….’, zei een dun stemmetje uit de duisternis….’ ‘Slaop nog maor ’n bötjen, mien jungsken’, zei moeder op fluisterenden toon maar toch goed verstaanbaar. ‘Mieneken slöp ook nog….’
+‘Nee Mieneken is al lang wakker’, riep nu een ander mondje en moeke ging naar de tweede bedstede en nam op iederen arm een kindje. Het waren, voor zoover olie-Jacob in het halfdonker zien kon, twee kleine bleekneuzen, die zeker glaasjes melk en eitjes en stukjes vleesch alleen maar van hooren zeggen kenden en die bepaald versterkende bouillon nog nooit hadden geroken, laat staan geproefd. ‘Dag Olie’, zei Mieneke dadelijk en toen in éénen adem: naam des Vaders…. en des Zoons…. en des heiligen Geestes…. Amen!…. Waorum is Olie noe al hier, Moeke?’
+‘Ssstt…. eerst Teuntjen ’n kruuske….’ en het knaapje deed gelijk zijn zusje en herhaalde evenals zij: ‘Waorum is Olie noe al bie ons?’
+‘Jacob was zoo kold,… hee had zich een uur vergist, en noe heffe hier maor zoolange bie ’t vuur gezèten – dat moche toch wel?’ Vrouw Blok had de kinderen elk op een stoel gezet en was bezig, ze de kousjes aan te trekken. Mieneken keek voorover gebogen naar de gebukte moeder en één handje loslatend van de zitting, waaraan zij zich vasthield, fluisterde zij nauw-hoorbaar:
+‘Nee, dat moche nèèt!’
+‘Maor kind, mos Olie dan maor een heel uur in de kolde loopen?’
+‘Hee lig altied te schelden’…. zei Mieneken.
++‘Schelden? wèè dan? oe toch nèèt?’
+‘Nee, mien nèèt…. maor oe!’
+‘Mien en wat zegte dan?’
+‘Vrouw op de pof’, sprak het kind nu heel luid, ‘en dâ bun ie dan, moeke!’ ‘Zoo, bun ik dat? noe dan hêk völle namen. Ze neump mien ook als Sokke-Na hè!’
+‘O, maor dà’s geen scheldwoord’…. wierp Mientje tegen: dà’s maor veur de vòòten…. maor dat andere dàt zeg Oolie um daj nee betaalt!’ Die bukkende houding moest zeker erg inspannend wezen voor de niet sterke moeder: ze had een hoofd als vuur, toen ze zich ophief. ‘Moej maor lèèver nèè weer tegen ’t kind zeggen, Olie’…. sprak ze Jacob aan, ‘ik hebbe oe ummes nog altied betaald, hêk neet?’ Jacob was verlegen…. dat hij nu ook juist hier bij Na een schuilplaats gezocht had…. kon al niet gekker treffen!…. en betaald had ze…. nog altijd! ‘Wat ’n biedehandte vège….’, mompelde hij, het meisje aanstarende, dat op haar beurt hem onvervaard aankeek…. hier bij moeder was niets voor haar te vreezen…. ‘wat ’n vège…. zoj toch zeggen: zoo’n kleinen aap…. alles heurt ze, de blagen (kind), noe ‘k hebbe d’r niks args mee gemeend heur ie, vrouw Blok!…. dâ kan ‘k oe betuugen med ’n woord van waorheid…. niks heur ie!’ ‘Noe, dan is ’t goed heur! Och, ’t gèf mien zoovölle nèèt, wat ze zeggen, maor ie krieg t’r zoo’n biename mee en de kinder neumt ’t: schelden. Zit noe efkes, dan kriej ’n köpken koffie’. ‘Nee, lao ‘k dat noe lééver nèèt doon, ’t is mien tied, heur maor: zeuven ure’. ‘Jao, dat ’s op ’t Klooster, noe hei j’nog vijf menuten…. hierzoo, dan buj heelemaole warm, van binnen en van buiten!’ Jacob dronk de koffie uit…. ’t was niet veel sops…. proefde hij wel…. peekoffie (aant.) met gebrande stroop…. de kinder stipten d’r sneetjes wittebrood in…. Seldremonika wad ’n wonder, dat de schaopen d’r zoo schrieltjes uutzaggen…. dan moz ie bie hùm kommen…. Kees en Jans hè…. twee dubbele sneejen roggebrood met smout d’r tusschen speulden ze maor fiebeldefors nao binnen…. en Zondags, as de vrouw wittebrood met solo gaf…. ze atten met z’n tweeën een acht cents mikke op, aj ze hun gang lieten gaon! Olie stond op enschoof den stoel weer op de plaats, waar hij behoorde te staan, stijf tegen den muur, naast twee andere. ‘Noe, vrouw Blok, dan zâk oe maor vrindelijk bedanken veur alles! dag beste meid, dag mien jongen!’
+‘Niks te danken, Jacob, aj straks langes kompt, reik mien dan ’n halve kanne olie an astoebleef!’
+‘Wi j’ ‘m noe sebiet hebben? geef oe kenneken dan maor!’
+‘Nee, dâ kan ‘k nèèt, ‘k mot zoo eerst ’t lempken vullen en dan geet ‘r net ’n halve kanne in -’.
+‘Noe, lao ‘k d’r maor effen ’n slumpken (weinig) in tappen, dan gao ‘k strakjes deur…. waor hei j’ ’t kenneken? zoo, jao d’r is ook nog wat in…. hierzoo’, en de venter reikte het nu geheel gevulde halve Liters kannetje aan de huisvrouw terug.
+‘Hier zoo Olie, zes cent….’
+‘Bi j’ wel snik, zeg! veur zoo’n fitsken olie! oew kenneken was nog meer as hallef vol! niks d’r van, ik komme d’r nog ’s veur schulen!’
+‘Noe, dank oe dan wel heur!’
+‘Van ’s gelieken, goeie morgen, dag kinder!’
+‘Dag Olie’, zei Mienke, en: ‘dag Olie’, papegaaide Teuntje.
+‘Morgen Jacob’, sprak moeder, ‘en goeie zaken vandaag!’
+En een paar tellen later klonk Olie’s geroep peetr-olie…. peetr-olie…. en kwamen de huismoeders en kinderen hun voorraad voor een halve week opdoen.
+        </blockquote>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="">
+            Over de dichtende drogist <writer name="hermanrevelman" data-writer="hermanrevelman">Herman Revelman</writer>, geboren in Zutphen op 15 december 1861, is in de letterkundige archieven en naslagwerken niet meer te vinden dan de summiere vermelding dat hij drie bundels op zijn naam bracht met verzen gewijd aan Zutphen en plaatselijke gebeurtenissen: <cite>Ernst en luim</cite> (Zutphen 1907), <cite>Gedichten</cite> (Zutphen 1909) en <cite>Gedichten; Tweede bundel</cite> (Zutphen 1910). In zijn winkel aan de Groenmarkt 29 verkocht hij ‘drogerijen, chemicaliën, verfwaren, vensterglas, minerale wateren, carboleum enz.’
+            <br>
+            <img src="/images/" alt="">
+            Zijn verzen verkocht hij niet; zijn bundels waren ‘niet in den handel’. Maar hij gaf ze wel gratis mee, zoals op een reclamebiljet dat de klant opriep zijn benodigdheden uitsluitend bij Revelman te kopen. Naast aanbevolen producten als ‘zuiver marmerslijp in pakken van 15 cent’, ‘Vlek-weg stiften à 10 cent’ en ‘Dr. Brown’s 1a middel tegen kaalhoofdigheid potje ƒ1,-’ stonden bijvoorbeeld twee van Revelmans gedichten afgedrukt. Daaronder een lofzang op ‘Zutphen’s taal’ – uiteraard in het Zutphens:
+        </p>
+        <pre>
+In de Mei, waren twee vinkskes getrouwd,
+    zèe hadden van heuj en van veerkes,
+hun eenvoudig nesjen gebouwd,
+    het duurde nèet lange,
+of, niks bange,
+    stakken vier lèeve vinkeveugeltjes,
+met heele kleine vleugeltjes
+    hun kupkes veurzichtig oaver ’t rendjen…
+oaver ’t uuterste kentjen,
+    met hun eugjes, keken ze heel nieuwsgierig
+en wierig
+    en wies
+van uut hun kleine paradies
+    noar de meizoentjes, bleumkes en ries.
+Dèe kleintjes vonden alles, zoo nieuw en zoo vremd,
+    zoo licht, onbeklemd,
+un zoeltje, weegde hun huusken,
+    zoo knutterig lekker,
+    hun warm, olderlik kluusken.
+As ’t ’s oavends donker werd, oaver velden en weiden,
+    de olders zachtkens heur vleugeltjes spreidden,
+warmde de liefde ze donzig en zacht,
+    tegen de kolde van den duusteren nacht;
+in hun onneuzelheid, geleufden ze, dat altied zo deur,
+    hun lèven zol wèzen in dèez zonnige kleur.
+        </pre>
+        <p>
+            Revelman dichtte voor zijn plezier en heeft met zijn werk nooit de kritiek gezocht, maar hij kon niet voorkomen dat de kritiek hem wel vond. Op 19 oktober 1912 verscheen een bespreking van Revelsmans dichtkunst in <cite>Rostra</cite>, het <cite>Orgaan van den Nederlandschen Gymnasiastenbond</cite>. Zij was ongetwijfeld afkomstig van een snaakse Zutphense gymnasiast die zijn naam niet prijsgaf maar zijn recensie, gedrenkt in vileine, jeugdige spot, ondertekende met het anonieme ‘Criticus’. ‘Ofschoon deze moderne en hoogst origineele dichter te bescheiden geweest is om zijn gedichten de wereld in te sturen,’ schreef hij, ‘en hij dus slechts een kleine kring van bewonderaars er van laat genieten, heeft hij mij toch toegestaan hier eene beoordeeling over zijne werken neer te schrijven.’ Waarna de arme dichter-drogist meedogenloos het graf in geprezen werd.
+            <br>
+            Een tweede recensie, op 10 september 1924 in de rubriek ‘Van Alles Wat’ in <cite>Het Volk</cite>, ondertekend door een zekere ‘H’, was zo mogelijk nog vernietigender. ‘Het duizelt ons een weinig,’ schreef H. ‘Een lichtzinnige vriend stuurde ons een gedicht, dat op „Koninginnedag” in Zutphen aan het volk werd uitgereikt. Het was van den drogist Herman Revelman, die op de Groenmarkt woont. Het was gedrukt op prachtig, geschept Hollandsch papier. En het was zoo alles overdonderend van onzin in grootschen stijl, dat zelfs wij aan de rubriek „Van Alles Wat”, die veel gewend zijn, elkaar aankeken, de hand over ons voorhoofd streken en duizelig elkaar afvroegen of we soms nachtmerrie hadden. Maar het papier bleef geduldig liggen en droeg schaamteloos de dolhuis-poëzie van den drogist uit Zutphen, opgedragen (de poëzie) aan H. M.’ Na ruim geciteerd te hebben uit Revelmans Koninginnedagvers (‘dit ontzettende produkt’), besloot de recensent met: ‘Als zelfs drogisten aan ’t dichten slaan, past het overigens niet de oranje-hysterie nog smadelijk te bejegenen. „Koningin en dichter heil!” Dat is het eenige, wat wij nog te zeggen weten!’
+            <br>
+            Vier maanden later, op 1 januari 1925, trok Herman Revelman zich terug uit de zaak. Hij verhuisde naar Schupstoel 4, waar hij woonde tot zijn dood, op 10 januari 1931. In de rubriek ‘Zutphen in citaten, gedichten, teksten’ vindt u de complete tekst van zijn lange verhalende, in het Zutphens geschreven gedicht ‘Hoe Jan van Wichmond en zin vrouw op de Zutphensche karmis kwammen (1856) en hoe Nel zin vrouw ut jaloersche niedigheid op den kop van een leeuw in de dreimulle ging zitten’.
+        </p>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="Antony Cornelis Christiaan de Vletter">
+            <writer name="antonycornelischristiaandevletter" data-writer="antonycornelischristiaandevletter">A.C.C. (Antony Cornelis Christiaan) de Vletter</writer>, schrijver van vele tientallen jongensboeken, is een echte Haagse auteur: geboren in Scheveningen, op 17 september 1866, is hij Den Haag bijna zijn hele leven trouw gebleven. Bijna: toen hij in 1908 na de dood van Pieter Louwerse (tekstdichter van <i>classics</i> als ‘Op de grote stille heide’ en ‘Waar de blanke top der duinen’) de redactie van het jeugdblad <cite>Voor ’t Jonge Volkje</cite> overnam, verhuisde hij naar Warnsveld; een-jaar later keerde hij echter al terug naar het onderwijs en naar Den Haag, waar hij op 9 november 1935 overleed. De Vletter is vooral bekend als schrijver van circa vijftig kinderboeken. Hij debuteerde met <cite>In de vakantie</cite> (1893). Met name zijn Zeven jongens-serie, waarvan <cite>Zeven jongens en ’n ouwe schuit</cite> (1905; dertiende druk in 1980) de eerste was, had veel succes. Maar De Vletter schreef ook (toneel)werk voor volwassenen. Onder het pseudoniem Sinus publiceerde hij twee romans voor volwassenen: <cite>Hanepen</cite> (1897), als antwoord op de spiritistische satirische roman <cite>Kippeveer of het geschaakte meisje</cite>, van Cosinus (J. Huf van Buren) en <cite>Wereldkampioen</cite> (1899), over de bedrieglijkheid van de wielerwereld.
+        </p>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="">
+            Naphtalie de Rosa en Joseph Pardo noemden ze zichzelf, de journalisten <writer name="jeanlouispisuisse" data-writer="jeanlouispisuisse">Jean-Louis Pisuisse</writer> en <writer name="maxblokzijl" data-writer="maxblokzijl">Max Blokzijl</writer>, toen ze in 1907 vermomd als Italiaanse straatmuzikanten door Nederland trokken. Het verslag van hun reis, dat als feuilleton in het <cite>Algemeen Handelsblad</cite> verscheen voor het onder de titel <cite>Avonturen als straatmuzikant</cite> in boekvorm uitkwam, had zo’n succes dat ze van 1908 tot 1913 als zangers overal werden uitgenodigd, tot in Nederlands-Indië, China, Japan en Rusland aan toe. Voor hun repertoire bedachten ze de term ‘levenslied’. Ze eindigden hun tournee – ongepland – in Zutphen, waar ze onderdak vonden in een logement in de Barlheze en in een obscuur kroegje in de beruchte wijk Polsbroek niet alleen een vrolijke avond beleefden maar ook bijna allebei een echtgenote vonden. ‘De Polsbroek vonden we makkelijk, maar geen café. Alleen scheen achter een ruit boven een der deuren een eigenaardig rood licht, als uit een rood-glazen ganglantaarn. Toch moesten we dáár wezen, want toen we aan een troepje buurtbewoners – zelden zag ik zulk een verzameling gevangenistypen bijeen – naar het café vroegen, verwezen zij ons, schoon met eenige aarzeling, daarheen.
+            <br>
+            Wij schelden en de deur werd opengemaakt voor zoover een ketting, die daarachter gespannen was, het toeliet. Een verwelkt vrouwenhoofd loerde door de kier.’
+            <br>
+            Het volledige verslag van hun avontuur in Zutphen vindt u onder ‘Zutphen in citaten, gedichten, teksten’.
+            <br>
+            Vijf jaar later was Pisuisse opnieuw in Zutphen, getuige een brief die hij op 5 januari 1912 vanuit het restaurant van Grand-Hotel Du Soleil schreef aan zijn geliefde, de actrice Fie Carelsen, met wie hij een jaar later zou trouwen. Hij verzekert haar dat ze ‘nog altijd mijn eigen, slechte, zwarte schat-van-‘n-Vrouw-van-wie-ik-op de wereld ’t meeste hou – dat rijmt! – en die me boven alles gaat’ is; spreekt zijn verwachting voor die avond uit:  ‘Zutphen belooft weer leeg te zijn: honderd plaatsen besproken’, vraagt of ze kans ziet hem tussendoor in Arnhem te ontmoeten, en besluit met: ‘In elk geval heb ik je Zondag weer in m’n armen en hoe ik in werkelijkheid wat ik nu doe in gedachten: je zoenen op je oogen, je haar en je stouten mond… Om van andere plekjes niet te spreken. Dag, Liefste. Altijd, Jouw Mannie.’
+        </p>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="Robert van Gulik">
+            <writer name="robertvangulik" data-writer="robertvangulik">Robert van Gulik</writer> werd op 9 augustus 1910 geboren op Coehoornsingel 58 als achtste kind van Officier van Gezondheid dr. W.J. van Gulik, die met verlof was uit Nederlands-Indië. Juli 1912 vertrok het gezin naar Nijmegen. Hij studeerde Sanskriet, Chinees en Japans in Leiden en Utrecht, trad in 1935 in dienst bij het Ministerie van Buitenlandse Zaken en werkte als diplomaat in Tsjoenking, New Delhi, Beiroet, Kuala Lumpur en Tokio. Gefascineerd door de historische figuur van Rechter Tie, die leefde tijdens de Tang-dynastie (630-700 na Chr.), schreef hij een reeks van zeventien detectives over Rechter Tie, door hem zelf geïllustreerd, waarvan de eerste in 1956 verscheen: <cite>Labyrint in Lan-fang</cite>. Andere titels zijn: <cite>Het Chinese lakscherm</cite> (1958), <cite>Het rode paviljoen</cite> (1961), <cite>De nacht van de tijger</cite> (1963). In 1964 schreef Van Gulik het boekenweekgeschenk, <cite>Vier vingers</cite>, dat uiteraard ook over Rechter Tie ging.
+            <br>
+            Van Guliks Rechter Tie leeft, anders dan de historische figuur, in de 17de-eeuw, tijdens de Ming-dynastie (1368-1644). Van Guliks werk is vertaald in het Bulgaars, Chinees, Deens, Duits, Engels, Ests, Fins, Frans, Grieks, Hebreeuws, Hongaars, IJslands, Indonesisch, Italiaans, Japans, Koreaans, Lets, Pools, Portugees, Roemeens, Russisch, Slowaaks, Spaans, Tsjechisch, Turks, Vietnamees en Zweeds.
+            <br>
+            Van Gulik stierf op 24 september 1967, op 57-jarige leeftijd, in Den Haag.
+            <br>
+            In <cite>NRC Handelsblad</cite> (27 februari 1984) wees Alfred Bos op de opvallende overeenkomsten tussen Umberto Eco’s bestseller <cite>De naam van de roos</cite>, uit 1980, en Van Guliks (oorspronkelijk in het Engels verschenen) Rechter Tie-roman <cite>Het spookklooster</cite>, uit 1963. In de wijk Leesten is een laan naar hem genoemd. De website rechtertie.nl houdt de talrijke fans gedetailleerd op de hoogte van alle wetenswaardigheden omtrent Van Gulik en zijn oeuvre.
+        </p>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="H.W.Ph.E. van den Bergh van Eysinga">
+            Het kan zijn – ik citeer een recensie uit het literaire tijdschrift <cite>Den Gulden Winckel</cite> – dat ‘zij die het vermogen hebben intens de schoonheid te genieten en de roeping voelen er over te spreken, dikwijls in de verzoeking komen zelf “aan schoonheid te gaan doen”’. En zo was het ook gesteld met de dichter die het onderwerp – in dit geval meer: lijdend voorwerp – was van de recensie: de predikant <writer name="hwphevandenberghvaneysinga" data-writer="hwphevandenberghvaneysinga">H.W.Ph.E. van den Bergh van Eysinga</writer>, die juist zijn poëziedebuut had gemeend te moeten maken met de bundel <cite>Roode rozen</cite> (1916). De recensent gaat nog even door met kraken: ‘Ik vind deze verzen minderwaardig en onwaardig omdat de dichter de beweging zijns geestes organiseert in de formules van anderen wier gevoelens slechts zoo ongeveer met de zijne konden overeenstemmen.’ En voor wie de boodschap nog niet begrepen had, voegt hij er nog aan toe dat het ‘slechte verzen’’ zijn, die de dichter heeft gewrocht.
+            <br>
+            <img src="/images/" alt="">
+            Nu moet gezegd, dat wie de rest van het oeuvre en het leven van Van den Bergh van Eysinga overziet, geneigd is de recensent gelijk te geven. Titels als <cite>Het bankroet van religie en christendom in de moderne maatschappij</cite> (1898), <cite>De ziel der menschheid</cite> (1914) en <cite>Revolutionnaire cultuur</cite> (1919) verraden de politiek getuigende schrijver, niet de dichter. Van den Bergh van Eysinga (Den Haag 9 augustus 1868 – Zutphen 15 april 1920) keerde na <cite>Roode rozen</cite> dan ook niet meer terug als dichter. Hij vestigde zich in 1896 in Zutphen, trad als een van de eerste predikanten toe tot de SDAP, trachtte via geschriften, lezingen en cursussen het volk tot ontwikkeling te brengen en ‘op bijeenkomsten belegd door revolutionaire groepen in Zutphen en omgeving’ hield hij ‘pleidooien voor communisme en revolutie’ die ‘grote beroering’ wekten. Het was de tijd van de Russische Revolutie. En van de socialistische verzen van Herman Gorter, Henriëtte Roland Holst-van der Schalk en A.E. van Collem. Dus rozen waren het dan misschien niet direct geweest, die verzen van Van den Bergh van Eysinga, maar dat ze rood waren is een ding dat zeker is! Lees maar:
+        </p>
+        <blockquote>
+Niet dat gij slaven maakt en menschen keept
+tot bloedens toe in Arbeids sombre huizen,
+niet dat gij wegduwt onder goorte en luizen
+de kindren Gods, of hen ter slachtbank zweept,
+
+en neer hen bliksemt waar granaten gruizen,
+en vuur raket, en gij uw winsten sleept,
+niet dit is ’t booze dat uw ziel verscheept
+op vloed van hel, waar rode vlammen suizen,
+
+niet dit is de ergste en Godvergeten daad,
+dat vrouwen stierven in uw bed van zonde,
+hun kindren doolden, kudde in pijngeblaat;
+
+Maar dat uw zielen, waar ze ’t leven schonden,
+zoo knusjes leutren in hun laf gepraat,
+dit sleurt ze neer in d’ eeuwige helleronden.
+        </blockquote>
+        <p>
+            Van den Bergh van Eysinga woonde achtereenvolgens aan de toenmalige adressen Berkelsingel 15, Schupstoel 5, Weg naar Warnsveld 14 en Weg naar Warnsveld 116. Hij werd begraven op de begraafplaats tegenover zijn huis. Op zijn graf – inmiddels geruimd – stond een gedenkteken van beeldhouwer Hildo Krop.
+        </p>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="Marijke Reesink">
+            Op 29 november 1919 werd kinderboekenschrijfster <writer name="marijkereesink" data-writer="marijkereesink">Marijke Reesink</writer> geboren aan de Rozenhoflaan 11 in Zutphen. Zij schreef prentenboeken, die niet alleen in Nederland maar ook in het buitenland succesvol waren, waar ze door gerenommeerde uitgeverijen als Oxford University Press, Bodley Head en MacGraw-Hill uitgebracht werden. Bekende titels zijn <cite>De wensballonnen</cite> (<cite>The Wishing Balloons</cite>/<cite>Die Wunschballons</cite>/<cite>Ønske-ballonerne</cite>, 1971) en <cite>Het prinsesje dat altijd wegliep</cite> (<cite>The Princess Who Always Ran Away</cite>/<cite>La princesa que siempre se escapaba</cite>, 1980). Marijke Reesink richtte in 1963 samen met haar man Jean Louis Boele van Hensbroek Lemniscaat op, een van de eerste uitgeverijen die mooie prentenboeken voor kinderen uitgaven. Ze overleed op 6 november 2013 in Brummen.
+        </p>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="">
+            <writer name="stephanievetter" data-writer="stephanievetter">Stephanie Vetter</writer>, het succesvollere nichtje van de eerder genoemde Christine Vetter, is in Vlaanderen veel bekender geworden dan in eigen land dankzij haar huwelijk met de Vlaamse volksschrijver Ernest Claes, auteur van de vele tientallen malen herdrukte ‘modern classic’ <cite>De witte</cite> (1920). Stephanie Claes-Vetter, zoals ze in België heet, werd als Johanna Maria Stephanie Vetter op 25 december 1884 geboren aan de Coehoornsingel A355-4 (nu nr. 40) in Zutphen. Haar moeder was een Vlaamse, en de Vetters woonden tijdens Stephanies jeugd behalve in Zutphen in Brussel, Wespelaar, Brummen en Rotterdam. Na de dood van haar vader, in 1904, verhuisde het gezin naar Den Haag. Hier begon zij met schrijven. Van 1909 tot 1914 was zij redactrice van het katholieke damestijdschrift <cite>De Lelie</cite>. In augustus 1910 leerde zij tijdens een Mariacongres in de abdij van Averbode Ernest Claes kennen. Na hun huwelijk in 1912 verhuisde ze naar Vlaanderen. Daar maakte ze naam met ‘psychologisch uitgediepte romans, ontleend aan het leven der gegoede Brusselsche burgerij’, die haar een vooraanstaande plaats in de Vlaamse literatuur bezorgden. Het <cite>Lectuur-Repertorium</cite>, dat alles wat werd uitgegeven van ‘zedelijke kwalificaties’ voorzag, was er zeer enthousiast over. Kenmerken van Vetters werk waren dan ook ‘vrouwelijke voornaamheid’, ‘keurige taal’, ‘levensware en toch geïdealiseerde figuren’, ‘Vlaamsch-doorvoelde mentaliteit’ en bovenal ‘princiepsvaste katholieke levenshouding’.
+            <br>
+            Vetter debuteerde in 1915 met de briefroman <cite>Eer de mail sluit</cite>, waarover de Vlaamse schrijver August Van Cauwelaert oordeelde dat het fonkelde van radde gevatheid en geestigheid. Na wat kort werk volgden vier grote Brusselse romans: <cite>Stil leven</cite> (1926), <cite>Miete</cite> (1932), <cite>Als de dagen lengen</cite> (1940) en <cite>Haar eigen weg</cite> (1944). In 1960 verscheen haar laatste roman: <cite>Angst</cite>. Haar voorlaatste roman, <cite>Martine</cite> (1954), werd in 1965 herdrukt in de uitgave <cite>Ernest Claes en Stephanie Claes-Vetter vertellen</cite>. Op de flap geeft de uitgever een wervende samenvatting van het verhaal die ik u niet wil onthouden, omdat zij in een notendop laat zien waarom Vetters werk ooit zo geliefd was maar nu totaal vergeten is:
+            <br>
+            ‘Met noord nederlandsche stijlvoornaamheid en een vleugje Vlaamse gemoedelijkheid vertelt Stephanie Claes-Vetter over een Brusselse bourgeois-familie waar de onwettige dochter op zoek gaat naar haar vader, tot zij de beminnelijke doch zwakke mens ontdekt. Het tekort in haar leven kan echter niet meer worden goedgemaakt. Zij leert nochtans van haar vader houden en haar moeder begrijpen, alhoewel die ooit eerst aan haar eigen trots en dan pas aan haar kind heeft gedacht.’
+            <br>
+            Stephanie Vetter overleed op 10 oktober 1974 in Brussel.
+        </p>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="Leo Faust">
+            In alle opzichten een buitenbeentje in de Nederlandse literatuur is de figuur van <writer name="leofaust" data-writer="leofaust">Leo Faust</writer>. Journalist, romancier, toneelschrijver en bovenal Parijs-kenner. Geboren op 1 juli 1878 aan de Rozengracht 212 (oude nummering) in Zutphen als Leopold Marie Hubertus Faust, begon hij op twaalfjarige leeftijd zijn journalistieke loopbaan bij de <cite>Nieuwe Courant</cite>, het orgaan van de Werkgeversbond. In 1912 vertrok hij naar Nederlands-Indië, waar hij redacteur werd van het <cite>Batavia’s Nieuwsblad</cite> en vervolgens het <cite>Nieuws van de dag voor Nederlandsch-Indië</cite>. Deze laatste krant stuurde hem in 1914, aan de vooravond van de Eerste Wereldoorlog, als correspondent naar Parijs. Dat bleek een schot in de roos, want Faust maakte zich de stad eigen als een bankovervaller de plattegrond van de bank die hij wil beroven. Nederlanders die naar Parijs wilden, konden al gauw niet meer om Leo Faust heen. Hier Parijs, hier Leo Faust. Als correspondent van <cite>De Telegraaf</cite> maakte hij reclame voor ‘deze schoone, verrukkelijke stad’. Het was de tijd dat Parijs nog een exotisch oord was met een magische klank, een mondaine metropool waar een Nederlander zich al snel een lomp boertje van buuten voelde, die graag een handje geholpen werd om niet te verdwalen. Welnu, dat helpende handje leverde Faust.
+            <br>
+            Had hij zijn eerste ervaringen in de Franse hoofdstad te boek gesteld in <cite>Faubourg en boulevard in oorlogstijd; Dagboek van een Hollandschen journalist te Parijs</cite> (1915), in 1921 publiceerde hij een <cite>Nieuwe gids van Parijs; (Parijs in tien dagen)</cite>. Zo’n nieuwe gids was nodig, want: ‘In de plaats van het oude Parijs is een geheel nieuwe stad verrezen, waar zelfs de vreemdeling die tot kort voor den oorlog zich beroemen mocht hier den weg te weten “als in zijn zak”, thans met den mond vol tanden staat.’ Het werd een groot succes, want dankzij Leo Faust wisten de Nederlanders nu weer welke hotels en welke restaurants ze moesten bezoeken. En passant beval Faust daarbij van harte ‘Restaurant Au Neuvième Art’ aan, gevestigd aan de Rue Pigalle no. 55 en bijgenaamd ‘Het Restaurant voor den Hollander in Parijs’, dat adverteerde met ‘Hollandsche Gerechten, opgediend door Hollandsche kellners’. En hij maakte er geen geheim van, sterker: het strekte tot eens te meer aanbeveling, dat dit restaurant ‘onder leiding van Mevr. Leo Faust’ stond – Faust was getrouwd met een Française. Beter kon je het als Nederlander toch niet hebben?!
+            <br>
+            Er volgden meer Parijs-boeken: <cite>De ziel van Parijs. Een boek voor de vrienden van Parijs en die het willen worden</cite> (1924), een boek met persoonlijke indrukken, en <cite>Parijs bij nacht</cite> (1928, in 1937 herdrukt als <cite>Parijs om middernacht van 10–4</cite>), waarin de Parijse uitgaanswereld werd geschetst, van bars, nachtclubs, cabarets, theaters en restaurants. Vanuit zijn restaurant, inmiddels verhuisd naar rue Pigalle no. 36, organiseerde Faust (‘Bij Leo Faust’, Hollandsch koffie-uurtje!) jarenlang iedere zaterdagavond een ‘ommeganck’ door Parijs-bij-nacht, langs de place Pigalle (’s-nachts vol licht, getoeter en stemmen-geroes en naar drie kanten plant haar levendigheid zich als een zeester voort’), de rue Pigalle (‘daar straalt en trilt het als in een wit-gloeiende oven, en men durft nauwelijks erin te gaan, zoo lijkt het alsof men zich aan het vuur zou schroeien’), langs de ‘onafgebroken keten van helverlichte vermaakhuizen’ met roemruchte namen als ‘Le Libertin’, ‘Le Chat noir’ en natuurlijk de ‘Moulin Rouge’.
+            <br>
+            Faust wist precies hoe hij de Nederlandse nieuwsgierigheid moest prikkelen: ‘Dat men het naakt dansen kan opvoeren tot de hoogte van werkelijke kunst, ik geloof, dat niemand ons dit zoo mooi heeft getoond als Joan Warner. De wufte zaal werd stil wanneer zij verscheen. Zij verscheen in een nauwsluitende, lange witte robe, en droeg in een van haar prachtige handjes een groote struisveeren waaier, waarmee zij zeer gracieus manoeuvreerde. Niet lang echter duurde het of, zonder dat iemand het merkte, had zij in den rug een paar drukknoopjes losgemaakt. De jurk gleed af, snel doorgegeven aan een andere danseres, die het kleedingstuk wegmoffelde. En Joan Warner danste naakt, slechts zich bedekkend met de groote waaier.’
+            <br>
+            Oh la la!
+            <br>
+            In 1936 debuteerde Leo Faust als romanschrijver met <cite>De ziekte, die liefde heet; Een Parijsche roman</cite>, die werd gevolgd door nog twee romans: <cite>Het cancan-danseresje; Parijsche roman</cite> (1938) en <cite>De clowns</cite> (1940). De Tweede Wereldoorlog betekende het einde van het Faust-tijdperk. Door zijn restaurant te verkopen en met wat hij verdiende met het schrijven van toneelstukken in het Frans kwam hij de oorlog door. Na de bevrijding keerde hij terug naar Nederland. Hij werd handelscorrespondent en uitgever van het personeelsorgaan voor een scheepswerf in Dordrecht. Als schrijver liet hij nog tweemaal van zich horen. In 1954 publiceerde hij onder de naam Clara de Oude-Vanklaar bij een Antwerpse uitgeverij de autobiografische roman <cite>En toch kwam de lente</cite>, en in 1956 verschenen onder de titel 36, <cite>Rue Pigalle, een bar op Montmartre</cite> zijn herinneringen aan zijn tijd in Parijs, waar hij – volgens de overlevering – nooit meer terug was geweest. Leo Faust overleed op 22 september 1974 op 96-jarige leeftijd in een verpleeghuis in St. Annaland, Zeeland.
+        </p>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="">
+            De tweelingzusjes Lite (voluit Frauck Juliana Geertruyd Wilhelmina Constantia) en Jo (voluit Johanna Ignatia Daniela Anna Jacoba) Engelberts verwierven zich een plaats in de Nederlandse literatuur met het schrijven van historische romans. De een deed dat onder de initialen <writer name="liteengelberts" data-writer="liteengelberts">L.E.</writer>, de ander onder de naam <writer name="ignatialubeleyengelberts" data-writer="ignatialubeleyengelberts">Ignatia Lubeley</writer>. Ze werden op 19 mei 1880 geboren in Vorden en woonden van hun vierde tot hun zeventiende in Zutphen, in het monumentale huis van hun grootouders aan de Pelikaanstraat C313, dat helaas is afgebroken: het stond op de plek waar nu Ben Harmsen Beeld & Geluid zit. Dit huis ademde de geur van het verleden. Het had een romantische binnenplaats, een grote tuin, een koetshuis waar een achttiende-eeuws rijtuig stond en ruime zolders met allerlei verborgen plekjes. De opvoeding was, ‘comme il faut’, in handen van een Zwitserse gouvernante, en vanaf hun twaalfde bezochten de zussen als ‘dagscholier’ de kostschool van ‘Mej. de Puy’ in Huis Welgelegen in Warnsveld. Vader Engelberts, officier van justitie van beroep, was een liefhebber van boeken (‘die alle muren van zijn kamer verborgen’), met speciale belangstelling voor geschiedenis en genealogie, die zijn kinderen graag verhalen vertelde. Later woonde de familie in Maastricht, Zierikzee en Assen.
+            <br>
+            Lite schreef haar eerste verhaal op haar twaalfde. Net als later Hella Haasse baseerde ze haar romans, novellen en verhalen geheel op bestaande bronnen – briefwisselingen, dagboeken en andere documenten – die ze in familiearchieven vond. Hoewel haar hele oeuvre zich afspeelt in een wereld van trekschuiten en diligences, pruiken en hoepelrokken, deftige patriciërswoningen en kastelen, kon het volgens <cite>De Zeister Courant</cite> van 5 oktober 1929 zelfs ‘de jeugd van vandaag, die alle automerken van buiten kent en alle vliegtochten in gedachten volgt’ nog bekoren. Drie van haar boeken zijn geheel of gedeeltelijk gesitueerd in Zutphen: <cite>Mietje van der Dussen</cite> (1918), over de Amsterdamse gezusters Van der Dussen die tijdens de oorlog met Frankrijk eind 18e-eeuw naar de Achterhoek verhuizen, <cite>De sterkste</cite> (1919), over de belevenissen van een Zutphense burgemeestersdochter, en <cite>De oude strijd om het bestaan</cite> (1924), dat in de Patriottentijd speelt en handelt over de Zutphense regentenfamilie Verstege. Om een proeve van L.E.’s stijl te geven volgt hier het begin:
+        </p>
+        <blockquote>
+Juli, 1769, Zutphen
+De oude Bartholt Verstege, ontvanger generaal van de Graafschap Zutphen, zat in zijn grooten leuningstoel en rookte zijn lange Goudsche pijp. In de hooge, smalle kamer, met de hooge ramen hing de blauwe tabakswalm welke reeds lang de glans van den spiegel en van de gewreven houten meubels verdoft had.
+Het was Zondag – Zondagavond, een stille, zachte Juliavond. – Bartholt Verstege had zijn Zondagsche lakensche rok nog aan, met de gesteven, kostbare kanten jabot, en had de zorgvuldig gepoederde pruik op, omlijstend het bleeke, gerimpelde gezicht. Hij staarde zonder zien, door het opgeschoven raam naar de huizen aan de overkant van de stille straat – het Oude Wand te Zutphen.
+Hij kon het uitzicht droomen; hij woonde reeds zooveel jaren in dat huis, ongetrouwd, met zijn knecht en een dienstbode. Alle avonden ’s zomers zat hij daar voor zijn venster; ’s winters voor zijn haard – stil – rustig. Drukte en leven kon hij niet verdragen – daarvoor was zijn gezondheid te zwak, vooral den laatsten tijd. Zijn ambt van ontvanger generaal woog hem dikwijkls zwaar; maar hij kon de inkomsten ervan niet missen. Pensioenen bestonden er niet.
+        </blockquote>
+        <p>
+            Andere titels van L.E. zijn: <cite>Silhouetten</cite> (1906), <cite>Twee levens</cite> (1910) en <cite>Een vergeten proces</cite> (1925).
+        </p>
+        <p>
+            Ignatia Lubeley debuteerde vier jaar na L.E. met een bundel <cite>Novellen</cite> (1910). Ook zij schreef historische romans en novellen, zoals <cite>In de provincie</cite> (1928), <cite>Eenvoudige levens</cite> (1931) en <cite>Om het bezit</cite> (1940). Haar boeken, niet aan historische bronnen maar aan de fantasie ontleend, waren behalve minder talrijk ook minder succesvol dan die van haar zus.
+            <br>
+            De zussen woonden hun hele leven bij elkaar. Ze stierven in Huis ter Heide, bij Zeist: Lite op 27 september 1929, Jo op 17 september 1953.
+        </p>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="Gerda Christina van der Horst-van Doorn">
+            De journaliste en schrijfster <writer name="gerdachristianavanderhorstvandoorn" data-writer="gerdachristianavanderhorstvandoorn">Gerda C. (Christina) van der Horst-van Doorn</writer>, geboren 7 juli 1880 in Zutphen, verbleef van 1909 tot 1920 in Nederlands-Indië en schreef ‘koloniale literatuur, meestal gezond en met uitstekende tendenz’, al bevatten haar boeken ‘een enkele maal een paar details die beter weggebleven waren’. Aldus het <cite>Lectuur-Repertorium</cite>, de boekenkeuring die alles wat verscheen langs de katholieke meetlat legde.
+            <br>
+            <img src="/images/" alt="">
+            Enkele titels van haar hand zijn: <cite>Tineke. Een verhaal uit het Indische kinderleven</cite> (1918) <cite>Een Hollandsch gezin in Indië</cite> (1921), <cite>Kitty’s leed en vreugde. Van Indisch meisjesleven</cite> (1923), <cite>Zonnebrand en schaduw. Roman van plantersleven in de Preanger</cite> (1924), <cite>Ik wil</cite> (1927) en <cite>Wim Terhorst en zijn vriend Sarip. Een jongensleven in Indië</cite> (1946). Zij overleed op 13 december 1958 in Leersum.
+        </p>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="Dirk Adrianus Michel Binnendijk">
+            In het Interbellum, de periode tussen de beide Wereldoorlogen, werd de literaire gemeenschap in Nederland in tweeën gedeeld door een discussie over de vraag of je een literair werk puur op zichzelf moest beoordelen en de persoon van de schrijver er niet toe deed, of dat het juist ging om de persoonlijkheid van de schrijver, en hoe die zich manifesteert in zijn werk. Deze strijd, want dat werd het, is de geschiedenis ingegaan onder de noemer ‘vorm of vent’. De kreet is van de dichter J.C. Bloem (zie verderop), die in 1932 een essay aan dit onderwerp wijdde. De voornaamste ‘ventisten’ waren E. du Perron en Menno ter Braak. Aanhangers van de ‘vormcultus’ waren onder meer Martinus Nijhoff en <writer name="dirkadrianusmichelbinnendijk" data-writer="dirkadrianusmichelbinnendijk">D.A.M. Binnendijk</writer>. Laatstgenoemde was zelfs de aanstichter van het debat.
+            <br>
+            <img src="/images/" alt="">
+            Dirk Adrianus Michel Binnendijk (Leiden, 12 oktober 1902) bracht zijn jeugd door in Zutphen, waar zijn vader eigenaar was van Grand Hotel Du Soleil aan de Zaadmarkt 91 – Binnendijk Sr. kwam al ter sprake als de initiatiefnemer van het standbeeld ter ere van Sir Philip Sidney. Al op het Zutphense gymnasium publiceerde D.A.M. Binnendijk (alom uitgesproken als Dam Binnendijk) zijn eerste gedichten. Dat deed hij in <cite>Rostra</cite>, het tijdschrift van de Nederlandse Gymnasiastenbond. Tijdens zijn studie geschiedenis in Amsterdam raakte hij bevriend met Menno ter Braak en leerde hij zo ongeveer alle andere schrijvers van zijn generatie kennen: Martinus Nijhoff, Hendrik Marsman, Jan Campert, enz. Hierdoor was hij bij uitstek de geschikte man om een stand-van-zaken-bloemlezing samen te stellen, wat hij deed met <cite>Prisma. Bloemlezing uit de Nederlandsche poëzie na 1918</cite> (1930). In de inleiding zette Binnendijk zijn literatuuropvattingen uiteen die de aanleiding werden tot de richtingenstrijd: vorm of vent?
+            <br>
+            Binnendijk kwam als verliezer uit de strijd en verloor daarmee voorgoed zijn centrale rol in het literaire leven. En dat betekende wat, want er kon weinig gebeuren op literair, of zeg maar cultureel gebied, of Binnendijk had er op de een of andere manier de hand in. Hij was redacteur van het literaire tijdschrift <cite>De Vrije Bladen</cite>, een van de eerste leden van de Filmliga, hij schreef over dans, musical, toneel en film in het tijdschrift <cite>Rythme</cite>, hij was medesamensteller van de letterkundige jaarboeken <cite>Erts</cite> en <cite>Balans</cite>, hij schreef poëziekritieken voor de <cite>NRC</cite>, kunstkritieken voor <cite>De Telegraaf</cite>… en dat allemaal vóór zijn achtentwintigste.
+            <br>
+            In het jaar waarin Binnendijk zijn bloemlezing presenteerde, verscheen ook zijn eigen debuutbundel, getiteld <cite>Het andere land</cite> (1930). Erg enthousiast waren de reacties niet. ‘De poëzie van Binnendijk draagt niet het karakter van debutantenwerk; zij is niet jong,’ schreef een recensent. ‘Zijn verzen zijn zuiver maar zwak, eer nabloei dan belofte. Men ontwaart er een beperkt talent in, dat binnen zijn grenzen tot een zekere mate van voltooidheid geraakte. Het houdt weinig gevaar voor verslapping in, het geeft ook weinig hoop op vernieuwing […] Het levensverhaal eener persoonlijkheid, gelijk het werk van elk dichter van betekenis is, bevat deze poëzie nog niet, zij is zelfs nog nauwelijks de aanvang ervan.’ U begrijpt, duidelijk een ‘ventist’, deze recensent, en op een vogelvrij verklaarde dichter was het natuurlijk lekker prijsschieten.
+            <br>
+            Arme Dam.
+            <br>
+            Toch kreeg Binnendijk ook bijval. De broers Van het Reve, Karel en Gerard, kregen Nederlandse les van hem op het Vossius-gymnasium, waarin Binnendijk er voortdurend op hamerde: ‘Onzuiver schrijven is onzuiver denken.’ In zijn roman <cite>Moeder en zoon</cite> schreef Gerard Reve: ‘Ik zal Binnendijk altijd dankbaar blijven voor zijn onderricht.’
+            <br>
+            Bijval kwam er ook van W.F. Hermans. Toen hem in 1952 een proces werd aangedaan wegens de ‘antikatholieke passages’ in zijn roman <cite>Ik heb altijd gelijk</cite>, vroeg hij D.A.M. Binnendijk als getuige-deskundige op te treden. De ironie van het lot wilde dat Binnendijk dezelfde opvattingen die zijn eigen literaire ‘downfall’ hadden betekend, voor de rechtbank nog eens mocht herhalen: dat een literair werk een autonoom, op zichzelf staand product is; dat het daarom los van zijn schepper beoordeeld moet worden; en dat een schrijver derhalve niet verantwoordelijk is voor de uitspraken van zijn personages. De rest is geschiedenis: Hermans werd vrijgesproken.
+            <br>
+            Van september 1945 tot zijn pensioen op 1 januari 1968 was Binnendijk chef van de afdeling Kunstzaken van de gemeente Amsterdam. In 1973 was hij betrokken bij de oprichting van het Amsterdams Fonds voor de Kunst. Hij overleed op 1 juni 1984 in Amsterdam. Simon Vestdijk meende, terugblikkend op Binnendijks oeuvre: ‘Er zijn weinig essays van hem, die ons bijblijven anders dan als representanten van een hoogstaand gemiddelde; hij heeft echter enkele onvergetelijke verzen geschreven.’ Dat laatste vond Gerrit Komrij niet, want die nam in zijn ‘Dikke Komrij’ niet één gedicht van Binnendijk op.
+            <br>
+            Of Vestdijk het bij het rechte eind had of Komrij, mag u zelf beoordelen:
+            <br>
+            <br>
+            Dagtaak
+        </p>
+<pre>
+Zijn schedelruimte is een kleine doos,
+Waarop, waaraan: wat haar, een snor, een baardje.
+Hij lepelt lusteloos een slagroomtaartje
+En met zijn zakdoek veegt hij dan een poos.
+
+Niemand, die op hem let. Wie zou hem kennen?
+Hij kent zichzelf niet, maar geniet oprecht
+Van ’t lege leven, dat hem opgelegd
+Is sedert lang, om langzaam aan te wennen.
+
+Wat staat hem verder nog te doen op aarde,
+Dan ’s morgens wandlen, ’s middags tea-en,
+’s Avonds wat biertjes en met deze en die een
+Beknopt gesprek over wat hij ontwaarde?
+
+Als dan de lampen dooven op het plein,
+Neemt hij zijn oude, trouwe paraplu
+Onder de arm, gaat huiswaarts zonder groet, nu
+En altijd alleen en onwaarschijnlijk klein.
+</pre>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="Hendrik Johannes Haarman">
+            <writer name="hendrikjohanneshaarman" data-writer="hendrikjohanneshaarman">Hendrik Johannes Haarman</writer> werd op 28 november 1914 geboren in Deventer en bracht zijn middelbare schooljaren, van 1926 tot 1931, door in Zutphen. Daarna verhuisde het gezin naar Assen. Haarman schreef tussen 1941 en 1955 dertien jongensboeken, waarvan er elf een titel dragen die begint met ‘De strijd om…’ en tien gaan over de drie HBS-vrienden Henry van de Stopel, Wim Boelens en Klaas Karstens, die in elk avontuur een misdaad (helpen) oplossen. Haarman zelf stond model voor Henry. De eerste boeken spelen in de omgeving van Deventer en Zutphen, de latere in Den Haag, de stad waar hij onderwijzer was en op 12 september 1956 overleed. Een van Haarmans bekendste boeken is <cite>De strijd om de TT</cite> (1950), waarin Henry, Wim en Klaas, die in ‘het kleine Gelderse provinciestadje Z.’ Wonen, de door ongure types gestolen motor van hun goede vriend Jan helpen terugvinden. Deze Jan, een groot liefhebber van motoren, heeft een nieuw model klep uitgevonden die hij gemonteerd heeft in een 500cc race-motor. Op de valreep komt alles goed. Jan finisht als eerste. De omslagen van Haarmans boeken, getekend door Iep Valkema, zijn van grote schoonheid.
+        </p>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="Charles Behrens">
+            Voordat Chris Schriks, oprichter en eerste directeur van De Walburg Pers, in 1994 een monografie over hem schreef zullen maar weinig mensen <writer name="charlesbehrens" data-writer="charlesbehrens">Charles Behrens</writer> hebben gekend, en dat is eigenlijk niet goed te begrijpen. Behrens was namelijk niet een alleskunner maar toch zeker een veelkunner. Om tot die conclusie te komen hoef je alleen maar de ondertitel te lezen die Schriks zijn boekje gaf: <cite>Portret van een journalist, vertaler, schrijver, boekverzorger, illustrator, graficus en briefschrijver</cite>. Vooral in zijn hoedanigheid als briefschrijver verdient hij een plaatsje in de Nederlandse literatuur. Een correspondentschap voor de <cite>NRC</cite> bracht Charles Glaude Behrens (Zutphen, 11 juli 1907 – Eskilstuna, Zweden, 27 augustus 1965) in 1930 naar Zweden, waar hij de rest van zijn leven bleef wonen. Dat Behrens een goed waarnemer was, met oog voor het gewone en onopvallende en voor de natuur, was al gebleken door de vier delen (Gelderland, Utrecht, Noord-Holland en Zuid-Holland) die hij in de jaren dertig schreef voor de serie <cite>Zwerftochten door ons land</cite> en door de impressies die hij in de rubriek ‘Langs de straat’ schreef voor het <cite>Haarlems Dagblad</cite>. Maar deze eigenschap kwam pas optimaal tot haar recht in de <cite>Brieven van Charles Behrens over Arlabäcken</cite> (1980). In 1962 had Behrens 56 hectare bos en land weten te bemachtigen met een boerderij en een vakantiehuis. Over dit landgoed, genaamd Arlabäcken, schreef hij brieven die in hun observaties en overdenkingen herinneren aan <cite>The Natural History of Selborne</cite> van de Engelsman Gilbert White, een klassieker in het genre uit 1789 die eveneens uit brieven bestaat.
+            <br>
+            Behrens schreef deze brieven aan zijn goede vriend Tom van Koolwijk in Zutphen, die net als hij in het boekenvak zat. Hij was namelijk uitgever van de Walburg Pers. Van Koolwijk vond de brieven, die nooit voor publicatie bestemd waren, te bijzonder om ze voor zichzelf te houden. En dus maakte hij er een boekje van. Het nawoord hierbij werd geschreven door een gezamenlijke vriend van Behrens en Van Koolwijk: Chris Schriks. U ziet, de cirkel is rond.
+            <br>
+            Bezoekers van het Stedelijk Museum aan de Rozengracht zullen zich het fraaie antieke interieur van een apotheek herinneren. Het grootste deel hiervan is afkomstig uit de apotheek van Behrens’ vader aan de Houtmarkt 73. Chris Schriks, in zijn nawoord bij <cite>Brieven van Charles Behrens over Arlabäcken</cite>:
+        </p>
+        <blockquote>
+De enige keer dat we [Charles Behrens, Tom van Koolwijk en Chris Schriks – HH] elkaar gedrieën hebben getroffen was in de tuin van hotel ’s-Gravenhof te Zutphen. […] Charles Behrens wist van mijn streven: een drukkerij op te zetten en in aanzet een uitgeverij. De ambiance van Zutphen en Gelderland leende zich daartoe bijzonder. We zochten een naam voor de uitgeverij, een naam die bovendien ook bruikbaar zou moeten zijn voor de drukkerij. […] Het moest een naam zijn die karakter had èn een zekere culturele waarde impliceerde, een naam die solide en hanteerbaar was. Het moest een naam worden die affiniteit zou hebben met het Gelderse en bijzonder met het Zutphense. De naam moest ten slotte waardeerbaar zijn in de rest van het land, hij moest even vertrouwd klinken in Drente als Limburg, Zeeland of Noord-Holland. En ten slotte moesten we in de naam iets van onze identiteit kunnen terugvinden. Het woord Pers had voor een drukker die het ambacht waardeerde om vele redenen de voorkeur. […] Het werd een suggestie van Charles Behrens: De Walburg Pers.
+        </blockquote>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="Menno ter Braak">
+            Door zijn vriendschappen met D.A.M. Binnendijk (zie daar) en Maas Holleman kwam schrijver, essayist, criticus <writer name="mennoterbraak" data-writer="mennoterbraak">Menno ter Braak</writer> (Eibergen, 26 januari 1902 – Den Haag, 15 mei 1940) al regelmatig in Zutphen, maar na zijn huwelijk met Ant Faber, dochter van J.L. Faber, bijgenaamd ‘de rooie dominee’, werd Zutphen een tweede thuis voor hem. Ter Braak ontmoette haar op dinsdag 3 november 1931, toen hij, als mede-oprichter van De Nederlandse Filmliga, op uitnodiging van dominee Faber voor het Instituut voor Arbeidersontwikkeling in Zutphen een lezing hield over ‘De filmkunst en hare problemen’. De <cite>Briefwisseling tussen Menno ter Braak en Ant Faber 1931-1938</cite> werd in 2009 gepubliceerd, net als de <cite>Briefwisseling tussen Menno ter Braak en D.A.M. Binnendijk 1923-1940</cite> (2009) en de <cite>Briefwisseling tussen Menno ter Braak en M.J.W. Holleman 1920-1935</cite>, 2010). Ter Braak, het zij ten overvloede gezegd, was een zeer productief brievenschrijver.
+            <br>
+            Vanuit huize Faber, Rozenhoflaan 2, liet Ter Braak op 25 augustus 1932 aan E. Du Perron (‘Beste Eddy’), zijn mederedacteur bij het tijdschrift <cite>Forum</cite>, weten dat hij zijn roman <cite>Dr. Dumay verliest</cite> (1933) had voltooid: ‘Inmiddels maakte ik Dumay af en gisteren zond ik het manuscript aangeteekend naar Gistoux. Het zijn 253 pag. geworden; het laatste hoofdstuk vloog eruit en komt mezelf voor, het beste te zijn. Overigens heb ik nog geen afstand kunnen krijgen. Volgens Ant is het veel beter dan Hampton Court; ik zelf kan wel zien, dat het minder “kaal” is, maar voor de rest wacht ik eerst af, tot er tijd tusschen schrijven en overlezen is gekomen.’
+            <br>
+            Ter Braak kwam niet alleen in Zutphen voor familiebezoek, maar ook als hij zich even ongestoord op zijn werk wilde kunnen concentreren. ‘Beste Eddy,’ schreef hij op 3 november 1935, ‘Deze week was zoo vol van vermoeiende en bovendien veelal zeer deprimeerende besognes, dat ik niet tot schrijven kwam en nu maar voor een paar dagen naar Zutfen ben gevlucht om wat rust te hebben.’
+            <br>
+            Het huwelijk met Ant Faber had plaats in het Zutphense gemeentehuis, op 2 augustus 1933. De receptie was in de tuin van Hotel du Soleil, het hotel van vader Binnendijk – D.A.M. Binnendijk, die nog een blauwe maandag met Ants oudere zuster Bert had gevreeën, was als enige gast van buiten de familie aanwezig – met aansluitend een zesgangenmenu met koninginnensoep en tarbot.
+            <br>
+            Toen de Duitsers op 1 september 1939 Polen binnenvielen hield Ter Braak een maand lang een journaal bij:
+        </p>
+        <blockquote>
+Zutphen, 15 Sept.
+Warschau nog niet gevallen; de Fransen beginnen in Duits gebied door te dringen. Welke betekenis dit alles heeft, kan men nog niet overzien, maar er is een treffende tegenstelling tussen de snelle oorlog in Polen met grote reclame erbij, en de langzame oorlog aan de Saar zonder enige reclame. Wij hebben in de loop van de laatste jaren echter zoveel vertrouwen in de reclame gekregen, dat het laatste ons nog steeds geen vertrouwen inboezemt. Ik hoop ten onrechte. Het belang van deze legerbewegingen blijft voor mij overigens volkomen abstract; de enige reden, waarom oorlog oorlog is, is te zoeken in het drama van het individu, dat voor de toekomst vecht zonder te weten of het toekomst heeft; de rest is schaakprobleem, anecdote… zij het dan ook, dat deze schaakproblemen en anecdoten over onze toekomst zullen beslissen, als wij er een hebben.
+        </blockquote>
+        <p>
+            Toen de Duitsers Nederland binnenvielen benam Ter Braak zich het leven door middel van een overdosis Veronal. Ant Faber overleed 57 jaar later, op 28 augustus 1997.
+        </p>
+    </section>
+    
+    <section>
+        <p>
+            <img src="/images/" alt="Henricus Jacobus Köhler">
+            <writer name="henricusjacobuskohler" data-writer="henricusjacobuskohler">H.J. (Henricus Jacobus) Köhler</writer>, geboren 28 maart 1863 in Soerakarta, Java, is een van die schimmige figuren die zo goed als onvindbaar zijn in welk naslagwerk, op welke website dan ook. Hij is de schrijver van <cite>Habinsaran, het land van den zonnestraal. Mijn leven onder Bataks</cite>, in 1926 uitgegeven door W.J. Thieme & Cie. In mijn aantekeningen heb ik het volgende over hem genoteerd: hij was ambtenaar in Nederlands-Indië, leidde een bewogen zwerversbestaan, achtereenvolgens als zeeofficier, tabaksplanter op Java, mijnadministrateur op Sumatra, soldaat in het Transvaalse leger in Zuid-Afrika en journalist op Java. Èn… hij woonde samen met zijn vrouw, twee zoons en vier dochters in Zutphen. Dat deed hij in elk geval ten tijde van de verschijning van zijn boek, want de inleiding ondertekende hij met ‘Zutphen, 1 Februari 1926’. Köhler droeg zijn boek ‘met gevoelens door aangename herinneringen opgewekt’ op ‘aan de Radja’s van Habinsaran’, want dat waren: ‘Prachtkerels, die gewezen kannibalen.’ Waar en hoe lang hij in Zutphen woonde – in elk geval tot 1935 –, en wat er van hem geworden is… ik heb het niet kunnen achterhalen.
+        </p>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="H.W. Plomp">
+            In 1929 verscheen in ‘Altijd Mooi: Keminks Nieuwe Jeugdserie’ <cite>De Beukenhof; een verhaal van adellijke willekeur en van ’t harde leven der hofhoorigen in de 15e eeuw in den omtrek van Zutfen</cite>, van de hand van <writer name="hwplomp" data-writer="hwplomp">H.W. Plomp</writer>, hoofd der openbare lagere school te Empe. In 1935 werd op de Jubileum Propaganda Avond van de Ned. Ver. tot Afschaffing v. Alcoholhoudende Dranken, in Doetinchem, Plomps toneelstuk in twee bedrijven Weifelingen opgevoerd, waarna de bekende volksdichter Willem van Iependaal de avond met declamatie en accordeonmuziek afsloot. Nadere gegevens over deze schrijver ontbreken.
+        </p>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="">
+            In Rotterdam zal men <writer name="gerritleopoldusantoniusott" data-writer="gerritleopoldusantoniusott">Leo (Gerrit Leopoldus Antonius) Ott</writer> een typisch Rotterdamse schrijver noemen. Toch bracht hij de eerste tien jaar van zijn leven in Zutphen door, waar zijn vader aan de Korte Hofstraat 4 een ‘magazijn van rookartikelen en gros en détail’ dreef.
+            <br>
+            Ott werd er geboren op 20 oktober 1898. In 1908 verhuisde de familie naar Rotterdam. Ott werd hoofdredacteur van het <cite>Rotterdams Nieuwsblad</cite> en schreef biografieën van Cornelis Verolme, Frits Philips en Hendrik Chabot. Oorspronkelijk was Ott muzikant. Zo begeleidde hij Louis en Heintje Davids en Corrie Vonk, en was hij in de jaren twintig bij het Amsterdamse Tuschinski-theater in dienst als organist om de stomme films muzikaal te omlijsten.
+            <br>
+            Na de intrede van de geluidsfilm, in 1929, raakten in enkele jaren tijds zo’n tweeduizend ‘bioscoop-muzikanten’ brodeloos. Hierdoor besloot Ott zijn bakens te verzetten en een roman te gaan schrijven. Dat werd <cite>Muzikale confectie</cite> (1931). Een schrijver was geboren. Ott schreef ‘documentaire’ romans over het kunstenaarsleven en over Rotterdamse onderwerpen: <cite>De haven</cite> (1932), <cite>Artiesten</cite> (1933), <cite>Menschen onder schijnwerpers</cite> (1935). Uit <cite>Artiesten</cite>:
+        </p>
+        <blockquote>
+De kalender wees, als ieder jaar om dien tijd, 1 April. Zwaar zwoegden tooneelknechts en portiers van het Alhambra-Variété met ontelbare koffers en kisten, moeizaam getorst uit een grooten vrachtwagen, waarop met geweldige schreeuwletters stond: Merlini, de Koning der Mysteriën. Zij sleepten de zware stukken naar de tooneelruimte, waar de assisten van Merlini deze met een hautain knikje in ontvangst namen. Het talrijke gevolg van den grooten illusionist zou zich voor dezen eenvoudigen kruiersarbeid waarlijk te verheven achten. Hun taak lag elders. De dames, waarvan er twee bijna volmaakte dubbelgangsters waren, (hetgeen voor verschillende trucs zijn voordeel had), beheerschten volkomen de techniek der verschijningen en verdwijningen, de heeren bewogen zich in schitterende uniformen op het tooneel om de apparaten aan te dragen en ook dikwijls om door enkele beslissende manipulaties het schijnbaar bovennatuurlijke tot een gewoon feit te degradeeren.
+        </blockquote>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="">
+            <writer name="tberjawit" data-writer="tberjawit">T. Berjawit</writer> was het pseudoniem waaronder de op 20 januari 1920 in Zutphen geboren Berry (Berend Jan) Withuis als scholier in 1937 <cite>Vijf jongens en een woonwagen. Een spannend verhaal voor jongens</cite> schreef. Het verscheen bij uitgeverij Helmond in de serie ‘Nederlandsche Jeugdbibliotheek’, beter bekend als de ‘kwartjesboeken’. In 1932 was Helmond gestart met de uitgave van jeugdboeken, die op slecht papier werden gedrukt maar mede hierdoor betaalbaar bleven voor ouders die weinig te besteden hadden, en dat waren er nogal wat in de crisistijd. Tot 1941 verschenen er 272 titels, 101 meisjesboeken en 171 jongensboeken. De reeks is geschreven door 63 Nederlandse en 6 buitenlandse auteurs. Sommige auteurs schreven onder één of meer pseudoniemen. T. Berjawit leverde nog twee kwartjesboeken af: <cite>Hoteldieven gesnapt. Een spannend verhaal voor jongens</cite> en <cite>In eer hersteld. Een spannend verhaal</cite> (beide 1940), waarna hij het schrijven jongensboeken liet voor wat het was en zich op het schaken richtte. Ruim dertig jaar lang drukte hij zijn stempel op de Nederlandse schaaksport als schaakjournalist, organisator van schaaktoernooien (hij was een van de initiatiefnemers van het IBM-toernooi dat in Amsterdam van 1960 tot en met 1981 werd gehouden) en schrijver van leerboeken zoals <cite>Jeugdschaak, Juniorenschaak</cite> en <cite>Schaak zelf!</cite>, de eerste officiële lesmethode van de KNSB. Withuis overleed op 16 januari 2009 in Zutphen. Dochter Jolande Withuis schreef over hem het verhaal <cite>De oorlog van mijn vader. Spoorzoeken in Brummen</cite> (2017), dat opent met:
+        </p>
+        <blockquote>
+Eind september 1945 keerde mijn vader, die toen nog niet mijn vader was, uit het Duitse Ruhrgebied terug in zijn geboorteplaats Zutphen. Hij was vijfentwintig jaar, naar hedendaagse begrippen jong, maar zijn oorlogservaringen hadden zijn gezondheid aangetast en hem veranderd in een getourmenteerd man. Aan de buitenlant was dat niet te merken. Met zijn pikzwarte golvende haar, scherpe blik, alerte geest en niet aflatende humor maakte hij een vitale indruk. Aantrekkelijk, te oordelen naar de weinige foto’s die er van hem zijn, maar om vrouwen gaf hij niks. Schaken en politiek waren zijn interesses en die deelde hij met mannen.
+Foto’s van de verwoeste staat waarin Zutphen bij de bevrijding verkeerde raken mij altijd zeer, aangezien ik me dan steevast voorstel hoe het voor mijn vader was om na al die jaren de IJssel te passeren over een noodbrug en meteen daarachter de ravage aan te treffen waarin zijn stad was veranderd. De befaamde torens stonden nog overeind maar in de lommerrijke buurt achter de brug hoopte het puin zich op. Puin van bijvoorbeeld het Christelijk Lyceum, de school van zijn jongste zus, en van de mooie oude brug over de Berkel naar het ietwat groot en deftig uitgevallen station. Zou hij vanaf dit station naar naziland zijn afgevoerd?
+        </blockquote>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="">
+            <writer name="christinaelizabethpothastgimberg" data-writer="christinaelizabethpothastgimberg">C.E. Pothast-Gimberg</writer> werd op 19 januari 1900 als Christina Elizabeth Gimberg geboren aan de Frankensteeg 22 in Zutphen, waar haar vader archivaris was. In een interview vertelde ze dat ze opgroeide in de schaduw de Walburgkerk, ‘die ik niet alleen van buiten kende, maar ook van binnen, omdat ik vaak met vader meeging, als hij voor zijn publicaties een paar grafschriften moest ontcijferen of het oude doopvont liet fotograferen. Vaak zat ik in de beroemde Librije voor een groot boek aan de ketting, want boeken hadden mijn aandacht, waar ik ze maar tegenkwam. In die tijd las ik alles, dat ik maar onder ogen krijgen kon. Een onverzadigbare leeshonger bezat ik, die ik stilde met alles, dat ik maar te pakken kon krijgen. Mijn vader vond het vanzelfsprekend, dat ik met een boek ergens in een hoekje zat, mijn moeder vond me lui, omdat ik liever las dan stof afnam, of breide.’  In hetzelfde interview vertelde ze dat ze al op jonge leeftijd in een schoolschrift een roman schreef: ‘over Jonker Frits, die alle deugden en heerlijkheden bezat, die mij ontbraken. Deze “roman” werd trouwens gevolgd door nog meer onafgemaakte… Later schreef ik verhalen, die ik wél afmaakte; toen was ik veel ouder, een jaar of negentien.’
+            <br>
+            Zij werkte als onderwijzeres in de Achterhoek en, vanaf haar twintigste, in Amsterdam. Haar eerste boek was een bundel kerstverhalen getiteld <cite>De Kerstschoof</cite> (1938). Daarna volgden een stuk of dertig kinder- en meisjesboeken, waarvan <cite>Corso het </cite>ezeltje, in 1959 uitgeroepen tot kinderboek van het jaar, het bekendst werd. Aan de Walburgkerk ontleende ze de inspiratie voor <cite>Rondom de toren</cite> (1949), de net onder Zutphen boven op de rivierduinen aan de IJssel gelegen uitspanning Bronsbergen werd vereeuwigd in <cite>Want het veerhuis roept</cite> (1950)
+            <br>
+            C.E. Pothast-Gimberg overleed op 15 november 1975 in Sneek.
+        </p>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="Willy Pétillon">
+            De naam <writer name="willypetillon" data-writer="willypetillon">Willy Pétillon</writer> zal, net als die van Pothast-Gimberg, voor bezoekers van tweedehands-boekenmarkten een vertrouwde klank hebben, want op kramen met oude kinderboeken kom je haar boeken nog regelmatig tegen. Boeken voor ‘opgroeiende meisjes’ zijn het veelal, met titels als <cite>Lydia’s moeilijkheden</cite> (1924) en <cite>Marianne’s groote reis</cite> (1929), <cite>Secretaresje</cite> (1933) en <cite>Mevrouwtje</cite> (1938). Petillons boeken waren ‘soms wat sterk modern’, oordeelde het <i>Lectuur-Repertorium</i>, want ze bevatten ‘minder stichtende toestanden’, zoals ‘scheidingsgeschiedenissen’, die weliswaar door de schrijfster werden ‘afgekeurd’, maar toch. Ander bezwaar: hoewel de boeken ‘vlot geschreven en prettig verteld’ waren, waren ze ‘telkens opvallend neutraal’.
+            <br>
+            <img src="/images/" alt="">
+            Pétillon, die als Hendrika Willemina Mulder op 23 juni 1883 werd geboren in Vlissingen, dankte haar auteursnaam aan haar huwelijk met de journalist A.F. Pétillon. Na diens dood hertrouwde ze met de jeugdboekenschrijver A.B. van Tienhoven. Van 1903 tot 1905 woonde ze aan de Nieuwstad A61 in Zutphen. Na haar dood, op 13 april 1948 in Den Haag, verschenen nog twee spiritistische romans: <cite>Het lichtend pad; Een roman voor hen, die twijfelen aan het leven na de dood</cite> (1948) en <cite>Durf het aan!</cite> (1951). In Amsterdam is een straat naar haar vernoemd.
+        </p>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="Johannes Wagenaar">
+            <writer name="johanneswagenaar" data-writer="johanneswagenaar">Jan (Johannes) Wagenaar</writer>, geboren 6 juni 1888 in Alphen aan de Rijn, werd in 1919 buitenlands correspondent van de nv H.J. Reesink en Co. In 1923 verscheen het eerste van een reeks jongensboeken: <cite>De bannelingen van de Achterhoek</cite>. In gestaag tempo volgden <cite>Het geheim van de bosrand</cite> (1924, een vervolg op het eerste boek), <cite>De schatten van de oude slotheer</cite> (1925), <cite>Waterwilg</cite> (1927), <cite>Tusschen kannibalen en kokospalmen</cite> (1927), <cite>De buit van de steenarend</cite> (1930), het zich in de Achterhoek afspelende <cite>De vlucht van Nol Walders</cite> (1932), <cite>Huid voor huid</cite> (1932) en <cite>Nachtelijk avontuur</cite> (1943).
+            <br>
+            <img src="/images/" alt="">
+            In november 1945 werd Wagenaar in de noodgemeenteraad gekozen als wethouder van Onderwijs namens de PvdA. De firma Reesink was daar niet blij mee en stelde hem voor de keus: ‘Als je wethouder wordt, verlies je je baan.’ Wagenaar werd wethouder en bleef dat tot zijn dood, op 1 april 1951 (Wikipedia zegt: 14 oktober!). Wagenaars eerste adres in Zutphen was Kattenhavenstraat 3. Later verhuisde hij naar de Heeckerenlaan 2 en Deventerweg 56. Hij werd begraven op de oude begraafplaats aan de Warnsveldseweg. Uit <cite>De bannelingen van den Achterhoek</cite>:
+        </p>
+        <blockquote>
+De auto was intusschen de IJsselbrug gepasseerd en snelde door het rustige Zutphen. In vijf minuten was men bij Warnsveld; de auto wendde rechts den hoek om en bleef staan voor de uitspanning ‘Het Jachthuis’.
+‘Kom jongens,’ zei de heer van Doorn, ‘nog een kop thee op den valreep.’ Na de ondervinding, die de knapen dien dag hadden opgedaan, waren ze niet verwonderd, toen ook hier de waard als van zelf sprekend met een groot blad kwam aandragen. Maar behalve de thee, kwamen er ook zes groote papieren zakken op hun tafel te staan, gevuld met gemeubileerd broodjes.
+        </blockquote>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="Johan Willem Frederik Werumeus Buning">
+            <writer name="johanwillemfrederikwerumeusbuning" data-writer="johanwillemfrederikwerumeusbuning">J.W.F. (Johan Willem Frederik) Werumeus Buning</writer> (Velp, 4 mei 1891 – Amsterdam, 16 november 1958) deed in 1911 zijn eindexamen hbs in Zutphen en werd kunstredacteur van <i>De Telegraaf</i>, waarvoor hij literaire, toneel- en danskritieken schreef, redacteur van <cite>De Vrije Bladen</cite>, vertaler (van o.m. <cite>Don Quichot</cite> en <cite>Moby Dick</cite>), schrijver van kookboeken (<cite>Avonturen met een pollepel</cite>, 1939), van reisliteratuur (<cite>De gewaarschuwde reiziger</cite>, 1944), essayist en dichter.
+            <br>
+            <img src="/images/" alt="">
+            Dat hij gedichten schreef is te danken aan Adriaan Roland Holst, die met hem bevriend was en hem daartoe aanspoorde. In 1921 verscheen zijn eerste bundel, <cite>In memoriam</cite>, over de dood van zijn geliefde. Daarop volgde <cite>Hemel en Aarde</cite> (1927), waarin Werumeus Buning de vorm van de ballade uitprobeerde. Het leverde zijn grootste succes op, de ballade <cite>Mária Lécina; Een lied in honderd verzen met een zangwijs</cite> (1932), waarvan hier het eerste vers:
+        </p>
+<pre>
+Mária Lécina loopt te zwieren
+in groene zijde en zwart satijn
+met vogels en rozen en anjelieren
+in een doek zo wit als de maneschijn
+    ?Porqué, Mária?
+</pre>
+        <p>
+            Tijdens de Tweede Wereldoorlog maakte Kees Stip er met Dieuwertje Diekema; Een lied in dertig verzen waar geen woord Spaansch bij is (1945) een parodie op:
+        </p>
+<pre>
+Dieuwertje Diekema staat te draaien
+in fil d’écosse en crêpe de chine,
+en menig man gaat naar de haaien
+die Dieuwertje Diekema heeft gezien.
+</pre>
+        <p>
+            Een tweede ‘evergreen’ leverde Werumeus Buning in 1935 met de ‘Ballade van den boer’:
+        </p>
+<pre>
+Er stonden drie kruisen op Golgotha,
+Maar de boer hij ploegde voort.
+</pre>
+        <p>
+            Tijdens de oorlog nam Weumeus Buning een weinig principiële houding aan door lid te worden van de Kultuurkamer. Er zijn geen aanwijzingen dat dit voortkwam uit sympathie voor de Duitsers, eerder uit opportunisme (zo kwam zijn baan bij <i>De Telegraaf</i>  niet in gevaar) en gebrek aan politiek inzicht (net zo makkelijk schreef hij de inleiding voor het in 1943 illegaal verschenen <cite>Geuzenliedboek</cite>). Na de oorlog werd hem door de Eereraad voor de Letterkunde, onder voorzitterschap van schrijver-advocaat F. Bordewijk, een publicatieverbod opgelegd voor de duur van twee jaar. Een verzoekschrift van dertig kunstenaars zorgde er echter voor dat het vonnis hoger beroep werd gehalveerd.
+        </p>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="Jakobus Cornelis Bloem">
+            Benoemd tot griffier van het kantongerecht, kwam <writer name="jakobuscornelisbloem" data-writer="jakobuscornelisbloem">J.C. (Jakobus Cornelis) Bloem</writer>, dichter van gevleugelde versregels als <i>‘Denkend aan de dood kan ik niet slapen / En niet slapend denk ik aan de dood’, ‘Natuur is voor tevredenen  en legen. / En dan: wat is natuur nog in dit  land?’ en ‘Is dit genoeg: een stuk of wat gedichten,/ Voor de rechtvaardiging van een bestaan?’</i>, op 1 juli 1942 naar Zutphen. Het was er saai, schreef hij in een brief aan de dichter P.N. van Eyck, ‘maar in de grote steden is het ook zo prettig niet en aan voedsel is hier altijd nog iets minder moeilijk te komen dan daar.’
+            <br>
+            <img src="/images/" alt="">
+            Hij huurde kamers aan de IJsselkade 7, waar hij zijn omvangrijke bibliotheek onderbracht. Maar hij kwam er bijna nooit, ‘omdat ik in Warnsveld in pension ben’. Dit laatste, kan men zich zo voorstellen, omdat hij als alleenstaande man de zorg voor zijn zeventienjarige zoon Wim droeg. Het pension waar hij op doelde, was Pension Derkshof aan de Rijksstraatweg 130.
+            <br>
+            Bloems echtgenote (toen ex-), de dichteres <writer name="claraeggink" data-writer="claraeggink">Clara Eggink</writer>, schreef in haar bundel herinneringen <cite>Leven met J.C. Bloem</cite> (1976):
+            <br>
+            ‘Dat pension waar Jacques tot in het oneindige over gejammerd heeft, was in wezen heel aardig. Het werd gedreven door de drie zusters Bilderbeek en dat waren werkelijk niet de eersten de besten. De oudste was Jo, een gepensioneerde onderwijzeres, evenwichtig, rustig en wijsgerig, lang niet van humor ontbloot. De jongste was Willemien, nog bij het onderwijs werkzaam en de minst persoonlijke. De middelste was Truus en zij was het, die de geest van Derkshof bepaalde. Zij was kolossaal dik en had armen als dijen bij een normaal mens. Ze keek pienter uit een paar grote blauwe ogen. Ze had een klein haviksneusje en een wat laatdunkend mondje. Ze maakte de indruk helemaal van marsepein te zijn. Deze hele berg van vlees straalde van levenslust en van belangstelling. Ze borrelde van geest en van ironie en ze was belezen. Zij was het die het pension met stoere hand regeerde. Hoewel, niet helemaal, want zij was vatbaar voor de wijze dingen die haar zuster Jo in het midden bracht. Haar gasten koos zij uit de intellectuelen in de ruimste zin van het woord en zij verzorgde ze zo goed als dat in die oorlogstijd mogelijk was.’
+            <br>
+            Niettemin verhuisde Bloem met zijn zoon in 1944 naar Bonendaal 29, waar hij inwoonde bij de familie König. Eggink schreef te vermoeden dat een botsing tussen de dichter en Truus, ‘die beiden wat je noemt “characters” waren’, wellicht de oorzaak van deze verhuizing was.
+            <br>
+            <img src="/images/" alt="" class="float-right">
+            Na het eerste bombardement op Zutphen, in 1943, durfde Bloem  zijn bibliotheek niet langer aan de IJsselkade  te laten staan en daarom werd deze midden in de oorlog met veel moeite naar Warnsveld versleept en daar opgeslagen. In 1945 betrok Bloem samen met zijn ex-vrouw en zoon Wim een huis aan de Deventerweg 143. Eggink: ‘Nu stonden er langs de Deventerweg in Zutphen een aantal huizen waarvan de achterkanten vrijwel verdwenen waren omdat de Engelsen een munitietrein die op de spoorbaan achter de huizen stond, gebombardeerd hadden. Urenlang had die staan branden en ontploffen. Toen ik daar eens op onderzoek uitging, zag ik dat er een huis leegstond. De N.S.B.-er die er in had gewoond, was gevlucht. Ik ben toen naar de gemeentesecretaris gegaan van wie iedereen wist dat hij hielp wat hij maar kon en heb hem gevraagd of wij in dat huis mochten trekken. De Bruin heette hij en hij zei dat we onze gang maar moesten gaan.’
+            <br>
+            Bloem en zijn gezin maken aan de Deventerweg benauwde momenten mee. Opnieuw Eggink: ‘Er werd voortdurend gebombardeerd; de spoorbaan, de IJsselburg. Het afschuwelijkste was het afschieten van de V.I.’s bij Harfsen, een paar kilometer bij ons vandaan. Afgezien van de zenuwslopende herrie hadden die dingen een sterke neiging om te mislukken en achter ons huis in het ondergelopen land te vallen.’  Ook de bevrijding maakten ze in Zutphen mee. Bloem schreef er het gedicht ‘Aan de geallieerde vliegers’ over met de regels:
+        </p>
+<pre>
+Wij die in de sombere winternachten
+Slaven hokten in de besloten huizen
+Hoorden boven ’t nimmer te aanvaarden heden
+’t Ruisen der vrijheid.
+</pre>
+        <p>
+            Het is een van de negen gedichten die hij schreef tussen zomer 1945 en najaar 1946 en die samen de bundel <cite>Quiet though sad</cite> (1947) uitmaken. Het bekende – misschien wel zijn bekendste – gedicht ‘De Dapperstraat’ (<cite>‘Dit heb ik bij mijzelve overdacht, / Verregend, op een miezerige morgen, / Domweg gelukkig, in de Dapperstraat’</cite>) hoort hier ook bij. Hij schreef ze mogelijk in Zutphen en/of Warnsveld, want na de bevrijding keerde hij weer voor enige tijd terug naar Pension Derkshof. In een brief van 8 oktober 1945 aan P.N. van Eyck klaagde Bloem dat hij Zutphen ‘onuitstaanbaar vervelend’ vond. Het jaar daarop ging hij terug naar Amsterdam. Zijn bibliotheek verhuisde op een open vrachtwagen naar de zolders van uitgeverij Veen. J.C. Bloem (Oudshoorn, 10 mei 1887 – Kalenberg, 10 augustus 1966) werd in 1949 onderscheiden met de Constantijn Huygens-prijs, in 1952 met de P.C. Hooft-prijs en in 1965 met de Prijs der Nederlandse Letteren. Eggink (Utrecht, 18 april 1906 – Scheveningen, 3 maart 1991) en Bloem liggen naast elkaar begraven op de Algemene Begraafplaats in Paasloo, Overijssel.
+        </p>
+    </section>
+
+    <section>
+        <p>
+            -De dichter <writer name="hendrikjanvantienhoven" data-writer="hendrikjanvantienhoven">H.J. (Hendrik Jan) van Tienhoven</writer> (Nijmegen, 25 februari 1923 – Ellecom, 31 augustus 1990) zat tijdens de Tweede Wereldoorlog ondergedoken in Zutphen. Hij debuteerde in 1950 in de befaamde reeks De Windhoos, waarin veel Vijftigers zoals Remco Campert, Simon Vinkenoog en Gerrit Kouwenaar debuteerden, met de bundel <cite>Kristalkijken</cite>. Andere bundels zijn: <cite>Wichelroedelopen</cite> (1951), <cite>When the saints go marching in</cite> (1952), opgedragen aan de jazzpionier Bunk Johnson, <cite>Flessengroen</cite> (1958) en <cite>Neomagisch</cite> (1965). De laatste 25 jaar van zijn leven schreef Van Tienhoven nog wel maar publiceerde hij niets meer. Hij stierf als een totaal vergeten dichter. Er werd welgeteld één in memoriam aan hem gewijd, van de hand van zijn vriend en uitgever Ad den Besten, die hem had laten debuteren. De laatste dichtregels die Van Tienhoven had gepubliceerd, luiden:
+        </p>
+<pre>
+Is niet het doodgaan beter dan het woord,
+maar dan rechtop. Rechtop, de laatste ogen
+op een late zonsondergang gericht,
+dat bloedrood licht, een vriend van jarenher,
+en het hart bij de herten in het veld.
+</pre>
+        <p>
+            In 1998 verschenen zijn <cite>Verzamelde gedichten</cite>. Pieter van Wissing, oud stadsarchivaris van Zutphen, werkt aan Van Tienhovens biografie.
+        </p>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="Herman Snatager">
+            <writer name="hermansnatager" data-writer="hermansnatager">Herman Snatager</writer>, geboren 10 maart 1912 aan de Raadhuissteeg 8 in Zutphen, handelsreiziger van beroep, werd op 23 juli 1943 vermoord in Sobibor. Op 7 oktober 1941 was hij voor de Firma Snatager en Zn, een grossierderij in naaiartikelen, opgericht door zijn vader en na diens dood door hem voortgezet, op pad, toen hij van een klant in Wapenveld hoorde dat de Duitsers die nacht in Twente en de Achterhoek razzia’s zouden houden. Hij belde naar huis om te waarschuwen en te zeggen dat hij in Wapenveld zou blijven. In Zutphen werden acht Joodse mannen opgepakt, waarna ook Hermans jongere broer Eduard naar Wapenveld afreisde om daar onder te duiken. Eduard bleef tot de bevrijding in Wapenveld en overleefde de oorlog. Herman keerde in januari 1942 terug naar Zutphen en ging nadat de Duitsers zijn bedrijf onteigenden als knecht aan de slag in de bakkerij van oom David aan de Nieuwstad 16. Van hieruit schreef hij brieven aan zijn broer Eduard die in 1988 zijn uitgegeven onder de titel <cite>Zo gaan we allemaal. Brieven van een vervolgd man 1941-1943</cite>. Herman Snatager werd op 22 maart 1943 samen met zijn zeven maanden zwangere vrouw Betty opgepakt en gedeporteerd naar Westerbork. Op 9 mei 1943 werd in het kamp hun zoon geboren, maar de baby stierf 17 dagen later. Herman en Betty werden juli 1943 op transport gesteld naar Sobibor. Eduard Snatager verhuisde na de oorlog naar Tel Aviv en bewaarde de brieven van zijn broer. Voor de deur van Raadhuissteeg 8 ligt een stolperstein ter nagedachtenis van Herman Snatager.
+        </p>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="Urias Henricus Alphonsus Nooteboom">
+            De journalist-schrijver <writer name="uriashenricusalphonsusnooteboom" data-writer="uriashenricusalphonsusnooteboom">Uri (Urias Henricus Alphonsus) Nooteboom</writer>, geboren op 12 juli 1903 in Tilburg, bracht maar één keer in zijn leven een bezoek aan Zutphen, en dat ene bezoek werd hem fataal. Nooteboom, auteur van de tijdens de Tweede Wereldoorlog clandestien verschenen bundel <cite>Werken en dagen in Nederland</cite>, had tijdens de oorlog moeten onderduiken. Na de bevrijding van het Zuiden werd hij hoofdredacteur van <cite>De Gelderlander</cite> en zo kwam hij, werkend aan een reportage over het IJsselfront op 12 april 1945 in het net bevrijde Zutphen. Maar wat heet bevrijd? ‘Opeens viel er vanaf de onbevrijde zijde van de rivier een schot. We weten niet wie Uri Nooteboom neergeschoten heeft. Enkel dat hij dodelijk getroffen werd op de IJsselkade en binnen twee minuten overleed aan een slagaderlijke bloeding in de hals.’ Nooteboom, die als student onder het pseudoniem Uno gedichten schreef voor het Nijmeegse studentenblad Vox Carolina, liet de wereld naast journalistiek werk ook zijn jeugdherinneringen na: <cite>Jaren en jeugd in Brabant</cite> (1950), waaruit het hoofdstuk ‘Jeugd in een fabrieksstad’ in 1987 nog werd herdrukt.
+        </p>
+    </section>
+
+    <section>
+        <p>
+            <img src="/images/" alt="">
+            <writer name="horstborner" data-writer="horstborner">Horst Börner</writer>, geboren 1 september 1927 in Krempe (Sleeswijk-Holstein) als zoon van een overtuigd nationaal-socialist, werd op zijn zestiende opgeroepen als Wehrmachtsoldaat en kwam maart 1945 als parachutist in opleiding terecht in Zutphen. Enkele weken later stonden de geallieerden voor de deur. In zijn autobiografie <cite>Jahre der Unzeit</cite> (2007, vertaald als <cite>De heksenketel van Zutphen</cite>), die Börner als tachtigjarige publiceerde, doet hij verslag van de laatste oorlogsdagen in Zutphen.
+            <br>
+            De Duitsers verwachtten een geallieerde aanval vanuit het westen en werden verrast door de vanuit het oosten oprukkende Canadezen. Börner verschanste zich vlak bij Huis Den Dam, op de grens van Eefde en Zutphen, in een bietenkuil, samen met de zestienjarige rekruut Bode die net daarvoor gehoord had dat zijn vader aan het oostelijk front was gesneuveld en alleen maar kon huilen. Toen de Canadezen het vuur openden zocht het tweetal dekking onder een deur die de scherven van een afgevuurde granaat opving. Ze renden weg in de richting van de Heeckerenlaan, waar inmiddels hevig gevochten werd. Canadese troepen waren dicht genaderd. Duitse soldaten schoten terug vanuit de huizen. Börners geweer ging kapot, hij sprong ‘in het eenmansgat voor het huis. Met mijn kapotte geweer tussen mijn knieën, mijn armen daaromheen en mijn hoofd zo diep mogelijk gebogen, op de bodem van het gat, wachtend op het eind.’
+            <br>
+            Kort daarna gaf hij zich over. Hij werd krijgsgevangen gemaakt en naar Engeland afgevoerd. Mei 1948 keerde hij terug naar Duitsland. In 2007 bracht hij een bezoek aan Zutphen ter gelegenheid van de publicatie van zijn boek.
+        </p>
+    </section>
+</article>
