@@ -2,12 +2,12 @@
 	import '../app.css';
 	// import Links from '../../data/links.json'
 	import { ALPHABET } from '$lib/constants';
-	import { scrollToWriter } from '$lib/actions/scroll-to-writer';
+	import { pageScroll } from '$lib/actions/page-scroll';
 
 	let { children } = $props();
 </script>
 
-<svelte:window use:scrollToWriter></svelte:window>
+<svelte:window use:pageScroll></svelte:window>
 
 <header class="sticky border-b-4 border-red-800">
 	<h1 id="site-title">Literair Zutphen</h1>
