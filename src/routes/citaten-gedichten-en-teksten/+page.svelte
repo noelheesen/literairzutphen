@@ -1,6 +1,6 @@
 <h1>Zutphen in citaten, gedichten, teksten</h1>
 
-<section>
+<article>
     <p>
         -Aan een paal gebonden, werd hem de rechterhand waarmede hij de misdaad bedreven had, tusschen een gloeiend wafelijzer afgeschroeid, zonder dat hij eenig geluid liet hooren. Ja, hij maakte nog met de stomp een kruis en bewoog die, als wilde hij het volk daarmede zegenen. Even onbewogen liet hij toe, dat hem op zes plaatsen het vleesch met gloeiende tangen uit het lijf werd genepen. Daarna werd hij levend gevierendeeld, het hart hem uit het lijf gerukt en in het aangezicht geworpen, het hoofd afgehouwen en op een staak gezet achter ’s Prinsen woning; terwijl de vier deelen zijns lichaams op de bolwerken van vier der stadspoorten werden ten toon gesteld. Ook werden zijn goederen verbeurdverklaard. Dit alles was letterlijk volgens het vonnis. ’s Prinsen lijk werd terstond gebalsemd, en reeds den volgenden dag en nog twee dagen daarna, op een praalbed ten toon gesteld. Het geheele land was in rouw gedompeld; ja, zelfs de Spaansche legerbenden verfoeiden de misdaad; een Spaansch soldaat riep van den wal van Zutphen den onzen in de loopgraven toe: “Het was een schelmstuk, een schelm, die het aangeraden, volbracht en bevolen had, al kwam het ook van den Koning zelf.” – Bijna drie maanden lang bleef ’s Prinsen lijk boven aarde. Toen werd het met bijna koninklijke pracht ter aarde besteld.’ ‘Verhaal ons iets van die begrafenis vader!’ zeide Louise.
         <br />
@@ -12,9 +12,9 @@
         <br />
         <writer data-writer="pjandriessen">P.J. Andriessen</writer>, <cite>De zoon van den zeerover</cite>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <pre>–De vrolyke openhartige minnaar</pre>
     <p>
         Een kluchtig lied, van de Zutphenze meysjes en constapels in haar guarnizoen, klagende over den slegten knap en hovaardy, enz.
@@ -94,10 +94,10 @@ Zy hebben ’t zeer licht,
     En wel gedicht,
 Viva! Viva dan! Constapels van Mastricht.
     </blockquote>
-    <writer>Anoniem</writer>
-</section>
+    <i>Anoniem</i>
+</article>
 
-<section>
+<article>
     <p>
         -Uit 1591 komt ‘Een Loff-Liedt op de victorie van Zutfen ende Deventer’, dat is opgenomen in het Geuzenliedboek en gezongen kon worden ‘Op de wijse van een Meyliedt: Wilt nu met vreuchden leven, Droefheyt is, etc.’. Het memoreert onder meer hoe de schans bij Zutphen met een list op de Spanjaarden werd heroverd. Prins Maurits liet een aantal van zijn soldaten zich verkleden als boer en liet hen zogenaamd opjagen door zijn ruiterij, waardoor ze als vluchtelingen door de Spaanse troepen de schans in werden gelaten. Hierdoor konden de troepen in de schans overmeesterd worden.
     </p>
@@ -135,25 +135,25 @@ Als hadden sy als Boeren ghevlucht,
 Hy creech die Schans sonder gherucht.
     </blockquote>
     <writer>Anoniem</writer>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Ende als grave Otten eersten wijf gestorven was, nam hi te wijf grave Wijchmans eenige dochter van Zutphen, geheten Zophie; ende mit deser dochter quam dat lant van Zutphen an dat lant van Gelre.
         <br />
         <writer data-writer="corneliusaurelius">Cornelius Aurelius</writer>, <cite>Die cronycke van Hollandt, Zeelandt ende Vrieslant, met die cronike der biscoppen van Uutrecht</cite>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Door de introductie van de safety, een lage fiets met twee wielen, kreeg het begrip snelheid concrete betekenis. Twee jaar later fietste een deel van de hbs-leerlingen in Zutphen naar school. De directeur noemde hen ‘fietsheertjes’ in tegenstelling tot de ‘boeren’ of ‘kaffers’, waarmee jongens uit de omliggende dorpen werden aangeduid.
         <br />
         <writer data-writer="janbank">Jan Bank</writer> en <writer data-writer="maartenvanbuuren">Maarten van Buuren</writer>, <cite>1900. Hoogtij van burgerlijke cultuur</cite>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -‘De heer van Zuylichem’, zei hij, ‘heeft mij grof beleedigd.’
         <br />
@@ -165,9 +165,9 @@ Hy creech die Schans sonder gherucht.
         <br />
         <writer data-writer="willemhendrikdebeaufort">Willem Hendrik de Beaufort</writer>, <cite>Prins of koning?<cite>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Dagenlang hadden de mensen van Harreveld een onderwerp voor hun gesprekken, die weer begonnen met ‘ho is ’t mögeluk’ – ‘ho kan ’t bestaon’ – ‘wé zol dat edacht hebb’n’ en ‘onbegriepeluk’.
         <br />
@@ -175,17 +175,17 @@ Hy creech die Schans sonder gherucht.
         <br />
         <writer data-writer="benbekker">Ben Bekker</writer>, <i>De freule van Dorth</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -In het stadje Zutfen leefde eens een verliefde onderwijzeres. Het was wat men noemt een stille liefde. Niemand zou er daarom iets van te weten zijn gekomen, ware het niet dat er in Zutfen een mensenkenner woonde, en dat was het hoofd der school.
         <br />
         <writer data-writer="godfriedbomans">Godfried Bomans</writer>, <i>‘Juffrouw Prillewits’, Sprookjes</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         –Wat riep de Burgery tot Zutphen in de Poort?
         <br />
@@ -193,9 +193,9 @@ Hy creech die Schans sonder gherucht.
         <br />
         <writer data-writer="reinierdebont">Reinier de Bont</writer>, <i>Beleg en ontset der stadt Leyden</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Adeline behoorde tot een verarmd patriciërsgezin uit Zutphen, waar haar ouders leefden in een huis, zoowel te groot als te duur, te midden van de resten van een fraaien en kostbaren familieinventaris. De verkoop van een reeds eeuwen bestaande verzameling famille verte zou uitkomst hebben gebracht. Men deed het niet omdat men in zekere geslachten zekere dingen niet doet. Men pleegt liever zelfmoord, en, heeft men het toch gedaan, dan pleegt men den zelfmoord daarna.
         <br />
@@ -203,9 +203,9 @@ Hy creech die Schans sonder gherucht.
         <br />
         <writer data-writer="fbordewijk">F. Bordewijk</writer>, <i>Noorderlicht</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -‘Mijn arm vaderland! hoe gaat ge dus verloren?’ riep van Brakel op smartvollen toon.
         <br />
@@ -226,9 +226,9 @@ Hy creech die Schans sonder gherucht.
         <br />
         <writer data-writer="algbosboomtoussaint">A.L.G. Bosboom-Toussaint</writer>, <i>Leycester in Nederland</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Op de dag van vertrek uit Deventer is het koud, het regent en er staat een harde westenwind. De broeders in het gasthuis zeggen: ‘Blijf nog een paar dagen, Arnoldus, dit is geen weer om de lange reis te beginnen.’
         <br>
@@ -246,9 +246,9 @@ Hy creech die Schans sonder gherucht.
         <br>
         <writer data-writer="nannebosma">Nanne Bosma</writer>, <i>De troubadour van Carcassonne</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Beste mama! onze goede Johan heeft mij wel het een en ander van papa verteld, maar toch nooit zijn heelen levensloop. Och, lieve mama! leer ons dien toch eens kennen, dan kunnen we morgen de gedachtenis van vader veel beter vieren.
         <br>
@@ -260,25 +260,25 @@ Hy creech die Schans sonder gherucht.
         <br>
         <writer data-writer="jbrand">J. Brand</writer>, <i>Het overlevings-contract</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         Door het grote leeftijdsverschil trokken mijn zus en ik zelden samen op. Toen ik net in de eerste klas leerde lezen en schrijven, ging Marianne al naar het Stedelijk Lyceum in Zutphen. Terwijl zij in een Brigitte Bardot-jurk en op hakken naar feestjes ging, luisterde ik op de radio naar Paulus de Boskabouter.
         <br>
         <writer data-writer="janbrokken">Jan Brokken</writer> en <writer data-writer="petrakersten">Petra Kersten</writer>, <i>Johnny Remember Me. Zomer in Eerbeek, een geïllustreerde briefwisseling</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -In de meidagen van 1940 vocht Elburg, die in 1937 in militaire dienst gegaan was, mee bij de IJsselbrug bij Zutphen. Tegenover zijn legereenheid lag de Standarte Adolf Hitler. Elburg vertelde dat hij toen met enkele kameraden door een groepje Duitsers omsingeld werd en daarbij een schampschot kreeg. Elburg: ‘Op een gegeven moment voelde ik een schok en merkte ik dat er langzaam een vochtige plek ontstond. Ik dacht: “Ik ben gewond”, maar dat bleek helemaal niet het geval te zijn. Ze hadden mijn veldfles lek geschoten.’ Hij werd hierna krijgsgevangen gemaakt en in Pommeren in Duitsland bij een spoorlijn te werk gesteld. Begin juli 1940 kwam hij in Nederland terug.
         <br>
         <writer data-writer="pietcalis">Piet Calis</writer>, <i>De vrienden van weleer. Schrijvers en tijdschriften tussen 1945 en 1948</i>
     </p>
-</section>
+</article>
  
-<section>
+<article>
     <p>
         -’t Was in die dagen een voorrecht hem nog eens weer door een gesprek over zijn werk een oogenblik te kunnen opwekken, hem het gevoel te geven dat hij nog denken kon, nog spreken kon, misschien nog wel weer zou kunnen arbeiden, voltooien wat daar nog onvoltooid lag in zijn werkkamer. En wien dit voorrecht te beurt viel, die zal nooit vergeten den dank zijner omgeving, den handdruk van den lijder, die nog éénmaal, daar ginds, in het kalme hoekje der rustigste natuur, onder het zacht geruisch der zware eikenboomen, te midden van zijn schat van boeken, een uur lang de illusie kreeg en gaf van herlevende kracht, van mogelijk herstel.
         <br>
@@ -286,9 +286,9 @@ Hy creech die Schans sonder gherucht.
         <br>
         <writer data-writer="franscoenen">Frans Coenen</writer>, <i>Bleeke levens</i>
     </p>
-</section> 
+</article> 
 
-<section>
+<article>
     <p>
         -Ziezoo! u moet dan weten dat we van Doesborgh naar Zutphen zijn gegaan, bij een Neef en Nicht van Koendert die een kommenij hebben, zonder kinderen; meer om wat om handen te hebben dan om den broode, want Esboom heeft van UE weet wel, en Doortjenicht – een beste vrouw – kan er van haar zelves ook zijn. Wij waren er met veel plezier en zijn op een dag heen en weer naar Hetloo geweest in een knap wagentje en naar de Laatste Stuiver meer dan eens en ook naar het gesticht van Mettree. Zie mijnheer, het is misschien kinderachtig maar ik kreeg de tranen in de oogen toen ik al die spullen en die bloeien aanzag, die voor tijd en eeuwigheid worden behouden; ‘k ga graag naar een komedie en ook wel graag naar een paardenspul, maar ‘k verzie op dat Mettree nog liever een rijksdaalder dan in die spullen drie kwartjes. Ja, mijnheer, het is een mooi en heerlijk gesticht, zoo als ik wenschen zou dat er een paar dozijn in het land waren; maar ziet u, in Zutphen zelf is nog een ander gesticht dat ook heel nuttig en, helaas! ook ekstra noodig is, maar toch aan vreemdelingen, zoo als Koendert en ikke, een naren indruk geeft. Ik meen het onnoozelen- of krankzinnigenhuis. Esboom, woonde er dicht in de buurt, en zoo zagen wij alle dagen een heelen troep van die ongelukkige menschen voorbijkomen die, óf met geleiders gingen wandelen, óf van minder allooi, naar het land gingen werken, buiten de stad. Voor geen duizend gulden zou ik er alleen, zoo een zijn tegen gekomen.
         <br>
@@ -310,17 +310,17 @@ Hy creech die Schans sonder gherucht.
         <br>
         <writer data-writer="jjcremer">J.J. Cremer</writer>, <i>Brieven van Grietje Sluimer</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Haar taal was even keurig als haar verschijning en haar woorden schenen op straat nog deftiger te klinken dan in de winkel. Hij vroeg of zij, om te beginnen, een uurtje naar de Karseboom zouden gaan, buitengewoon gezellig en een keurige gelegenheid. Was hij waarachtig zelf de kale neet, die deze stadhuiswoorden sprak? Nou moest hij het toch ook niet te bruin bakken, want tenslotte, al zag zij er dan ook uit alsof zij helemaal door Hirsch was in elkaar gezet, was zij toch ook maar een gewone winkeljuffrouw. Noem jij een nicht van de baas maar gewoon, corrigeerde hij zichzelf. Hoe dan ook, hij had het zich nu aangehaald en hij moest zich er doorheen zien te slaan. Toen zij in de Kalverstraat liepen en de conversatie al wat vloter ging, werd hij opgewekter en durfde hij zelfs al een enkel klein grapje te maken. Alle begin was nu eenmaal moeilijk, maar als je ze aan het lachen kon krijgen, was je al een stuk opgeschoten. Een Griet bleef een Griet, al droeg zij dan ook vitrage voor haar gezicht en om haar polsen. Als hij maar eerst had uitgevist wat zij leuk vond, dan zou hij haar wel eens even laten zien wat voor een geschikte kerel hij was en dan ging alles verder als van een leien dakje. Toen zij in de Karseboom aankwamen, was hij al een stuk wijzer en wist hij dat zij uit Zutphen kwam, waar haar vader ambtenaar bij de belastingen was. Zij was nog niet zo lang in Amsterdam en woonde bij Akkermans. Het was niet om het geld dat zij voor winkeljuffrouw speelde maar zij wilde zelfstandig zijn, niet langer afhankelijk van haar ouders en bovendien verveelde Zutphen haar. Guus vertrouwde haar toe, dat ook hij het ouderlijk huis al vroeg verlaten had en daarbij dacht hij aan het kombofje van hun schuit, dat zo laag was, dat hij door het dak heen gegroeid zou zijn, als hij niet bijtijds was weg gegaan. Een mens moest jong de wereld in gaan, had zijn pa altijd gezegd, dan leerde je wat.
         <br>
         <writer data-writer="mauritsdekker">Maurits Dekker</writer>, <i>Het merkteken</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -IK zeg je, dat ’t advocaat Eigel is! En ik zeg, Pellewick, dat je ze allebei had moeten opvangen voor ze kans kregen een voet op de brug te zetten. Begrijp je ’t dan niet? Ben je dan zoo aartsdom, dat je ’t niet begrijpt? De Jonge Kreylhorst heeft den advocaat uit Zutphen gehaald en nou zijn we nog niet van dat zaakje hier af. Eigel is ’n slimmerd! Eigel is ’n oude rat. Eigel is….’
         <br>
@@ -330,17 +330,17 @@ Hy creech die Schans sonder gherucht.
         <br>
         <writer data-writer="nwvandiemendejel">N.W. van Diemen de Jel</writer>, <i>De heks van het Colenbargerbroek</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         Onder dit gesprek werd de kamerdeur geopend; de Vreemdeling tradt binnen, gekleed in krygsmans rouwgewaad, met een licht in de hand. Hy zette zich tegen over courtenay, in zulk een stand, dat het licht steeds op zyn gelaat scheen. Edward schrikte op die vertooning. – ‘Herinnert gy,’ sprak de Vreemdeling, ‘u den Officier niet, die aan uwe zyde gewond werd in den Slag by Zutphen?’ – ‘Myn god,’ riep Edward uit, ‘kan het Clifford weezen!’ – ‘Dezelfde, myn Vriend! dezelfde -’ was het antwoord, ‘schoon gemoedszwaarigheid de trekken des ouderdoms op myn gelaat gedrukt heeft. Gy ziet, Courtenay! den ongelukkigsten, den ellendigsten der menschen!
         <br>
         <writer data-writer="drdrake">Dr. Drake</writer>, <i>De Abdij van Clunedale</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>IJsselglijden</p>
     <blockquote>
 Aan boord van het motorpersoonschip Organza
@@ -361,9 +361,9 @@ lomen zich in en op en boven de wateren voort
     <p>
         <writer data-writer="bartfmdroog">Bart FM Droog</writer>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Eergister – Maandag 15 – sprak ik in Zutphen. Ik logeerde bij de familie Mulders. Een lief gezin, winkelier in luxe-artikelen – vijf kinderen. De man zeer ontwikkeld en beschaafd. Van goeden smaak, collectioneur van oude boeken en teekeningen. De vrouw een zeldsaam mooye blondine, nog jong, ondanks de vijf kinderen. En zij huisden in een kamer waar nooit een zonnestraal in doordrong. En de kinderen speelden op een plaatsje met grind, waar ook nooit zonlicht in viel.
         <br>
@@ -373,9 +373,9 @@ lomen zich in en op en boven de wateren voort
         <br>
         <writer data-writer="frederikvaneeden">Frederik van Eeden</writer>, <i>Dagboek 1922</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Van morgen was ik drie uuren in Zutphen en zag de stad en de kerk. Ik verheugde mij er oover dat deeze kerk ten minste goed onderhouden werd en niet zoo schandelijk bedorven als veele protestantsche kerken. Ik zag de teekening van de plattegrond in de vorm van een mensch, en de plaats van de preekstoel oovereen koomend met de plaats van het hart, onder de linkerarm. Want de godsdienst moet uit het hart koomen, niet uit het hoofd. ▫
         <br>
@@ -387,25 +387,25 @@ lomen zich in en op en boven de wateren voort
         <br>
         <writer data-writer="frederikvaneeden">Frederik van Eeden</writer>, <i>Dagboek 2 maart 1917</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Over het algemeen moet men zeggen, dat Napoleon zich wel eenige moeite gaf, om een goeden indruk bij de Hollanders achter te laten. Op de audiëntiën sprak hij tot personen en commissiën op welwillenden schoon altijd wat brusken toon, en scheen naar al hetgeen hem in het belang van ’s lands welvaart of ter bevordering van kunst en wetenschap aanbevolen werd met belangstelling te luisteren. Alleen den Generaal Kraijenhoff, dien hij wist, dat op het einde van Lodewijks regering tot wederstand tegen Frankrijk en zelfs tot gewapende verdediging van Amsterdam aangedrongen had, bejegende hij aanvankelijk met groote ruwheid; gelijk hij reeds vroeger tegen de Katholijke geestelijkheid in Noord-Brabant hevig uitgevaren was, omdat deze het onnoodig geacht had in plechtig ambtsgewaad vóór hem te verschijnen1). In de meeste steden, waar hij zich een poos ophield of ook zelfs bloot doortrok, schonk hij niet onaanzienlijke giften aan de armbesturen en werden op zijn bevel levensbehoeften en wijn bij wijze van loterij aan de behoeftigen uitgedeeld. Reeds bij de eerste intrede in het land deed hij aan een paar arme visschers, die hem met zijn gevolg over ’t Zwin gebracht hadden en die één gulden voor de persoon als veergeld eischten, honderd Napoleons uitreiken en verleende hun bovendien een jaarlijksch pensioen van driehonderd franken. Zulk een weldadigheid werd natuurlijk door de dagbladen breed uitgemeten. Slechts één enkelen nacht vertoefde hij in den Haag, dat sedert Lodewijks verwijdering meer en meer in verval was geraakt, en waar de volksgeest jegens den overheerscher ook alles behalve gunstig gestemd was. Het veroorzaakte den armen Stassard vrij wat zweetdroppelen om ook dáár den uiterlijken schijn van toejuiching te voorschijn te roepen. Niet minder moeite en zorg moest het bestuur in sommige steden zich getroosten, waar men in het onzeker verkeerde of de Keizer er zich al of niet vertoonen zou. De ijverige Maire van Zutphen met zijn adjuncten en gemeenteraad had te dien einde gedurende twee dagen en twee nachten post gevat op de grenzen zijner gemeente, en had er dus overvloedig tijd om zijn sierlijke verwelkomingsrede van buiten te leeren, die echter ten slotte geheel niet uit zijn zak kwam.
         <br>
         <writer data-writer="awengelen">A.W. Engelen</writer>, <i>Uit de gedenkschriften van een voornaam Nederlandsch beambte</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Ik was met het gezelschap van Zutfen gekomen per rijtuig (de trein ging toen niet verder dan Arnhem) en had met mijne collega’s in een waggon 3de klasse plaats genomen. O, die 3de klasse met open wagens, door zeilen afgesloten als een tentwagen, zal ik niet licht vergeten.
         <br>
         <writer data-writer="rosierfaassen">Rosier Faassen</writer>, <i>Mijn leven</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Hoe gedragen zich advocaten in zulk een geval?
         <br>
@@ -449,9 +449,9 @@ lomen zich in en op en boven de wateren voort
         <br>
         <writer data-writer="samuelfalkland">Samuel Falkland</writer>, <i>Mr. Samuel Falkland, Schetsen</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -De nieuwe dijkweg komt uit op de Cortenoeverseweg. Noordwaarts liggen de uiterwaarden langs het pad Vogelensank met beken als Uitvliet en Oekensebeek. Onveranderlijk is het nog steeds het landschap van de IJssel met verspreide meidoorns en meidoornhagen, knotwilgen, waterlopen. Maar we maken hier de scherpe bocht naar rechts en nemen de brug van de provinciale weg N348 over de IJssel naar Zutphen. De torens, de kademuren en IJsselpakhuizen van de stad zijn al geruime tijd zichtbaar.
         <br>
@@ -459,10 +459,10 @@ lomen zich in en op en boven de wateren voort
         <br>
         <writer data-writer="kesterfreriks">Kester Freriks</writer>, <i>Langs de IJssel. Natuur en cultuur in de IJsselvallei</i>
     </p>
-</section>
+</article>
 
 
-<section>
+<article>
     <p>
         -In Arnhem aangekomen, had de Pen, zoals eens Anna moest hebben gedaan, willen uitzien naar een schuit die hem naar zijn bestemming aan de IJssel kon vervoeren. Toen hij aan wal stapte, werd hij echter aangehouden. Een tolbeambte vroeg om zijn paspoort.
         <br>
@@ -490,9 +490,9 @@ lomen zich in en op en boven de wateren voort
         <br>
         <writer data-writer="aartgroenewegen">Aart Groenewegen</writer>, <i>Memoires van een musketier</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Mijn ouders brachten hun geschoren zoon met de auto naar ***wijk. Er was nog tijd voor een kop koffie in een café waar handelsreizigers, knoeiend met uitsmijters, harde plekken in de imitatie-Perzische tapijtjes hadden achtergelaten.
         <br>
@@ -506,9 +506,9 @@ lomen zich in en op en boven de wateren voort
         <br>
         <writer data-writer="afthvanderheijden">A.F.Th. van der Heijden</writer>, <i>‘Dichters slaags. De lange mars langs de literaire cafés’</i>
     </p>
-</section> 
+</article> 
 
-<section>
+<article>
     <p>
         -Waar ligt Nederland?
         <br>
@@ -518,9 +518,9 @@ lomen zich in en op en boven de wateren voort
         <br>
         <writer data-writer="leoherberghs">Leo Herberghs</writer>, <i>Stukken maken</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Ten tweede zal ik nooit een voorbijgaand pleiziertje van een paar menschen bederven, maar als je te laat hoort van een vent, die eerst een meisje emancipeerende lectuur geeft (Ideeën van M. etc.), daarna ze overhaalt ze in praktijk te brengen langzamerhand, zich niet te storen aan racontars en met hem (hoewel getrouwd) afspraakjes te gaan maken, haar dus in een onvruchtbare complicatie brengt, zijn vrouw forceert haar te ontvangen, de vrouw loopt weg naar haar ouders met ’t kind, hij spiegelt het meisje een huwelijk voor, hij laat haar ondergáán, dat na klacht van de vrouw ze – het meisje – gemarteld wordt door standjes van autoriteiten van de Telegraaf, door negaties van haar vriendinnetjes en dat alles om niets, tenzij omdat ze wat geld heeft en hij werkelijk gaat hopen langzamerhand, dat hij zijn vrouw zal kwijtraken, dat het meisje ongeveer weggejaagd wordt uit haar kosthuis en je die vent kent als een koue, cynische kerel, dan wil je daar wel wat aan doen, hè, als ze zoolang met Marie gewoond heeft en ze verleden jaar (wel een leelijk karakter) maar eigenlijk nog maar een scholier van 20 jaar was. In ’t besef van haar krankzinnig onmogelijken toestand en altijd een 200 menschen die haar blameeren om haar heen (tenminste Zondags, in de week is ze op een bijkantoor) heeft ze hem willen forceeren met haar naar haar familie in Zutphen te gaan, wat hij haar beloofd zou hebben (zeker om doodgeslagen te worden) maar in elk geval zij is er heengegaan en van daag kwam bericht, dat ze ziek te Zutphen ligt, wat misschien is doordat haar vader haar achter slot en grendel houdt om een beetje van de stadslucht te bedaren.
         <br>
@@ -542,9 +542,9 @@ lomen zich in en op en boven de wateren voort
         <br>
         <writer data-writer="gerritjanhofker">Gerrit Jan Hofker</writer> <i>aan Willem Witsen, 8 december 1898</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -‘Dan moeten we nou nog bepalen, heeren, hoeveel reiskosten de juffrouwen moeten hebben (de boeren trekken een ernstig gezicht). Die uit Leeuwarden is de verste. Wat zou je denken, Berkhout, van tien gulden?’
         <br>
@@ -570,9 +570,9 @@ lomen zich in en op en boven de wateren voort
         <br>
         <writer data-writer="jhhooijer">J.H. Hooijer</writer>, <i>Een examen te Harder</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         Annie Feller kwam met een geopenden brief in de hand de studeerkamer binnen, waar haar man voor zijn bureau zat te schrijven.
         <br>
@@ -584,10 +584,10 @@ lomen zich in en op en boven de wateren voort
         <br>
         <writer data-writer="gorneliehuygens">Cornélie Huygens</writer>, <i>Hoogenoord</i>
     </p>
-</section>
+</article>
 
 
-<section>
+<article>
     <p>
         -Nu begon het op te schieten: 5 Augustus beëediging, audiëntie en lunch op Soestdijk, waar de Koningin verbleef. Na de beëediging 1½ uur met H.M. in Haar werkkamer gepraat. Maar het conflict bleef ook nu niet uit! Wij spraken over de politiek van De Graeff, ik betoogde daarbij, dat mij daarin niet hinderde zijn ethische en linksche neigingen, maar veeleer het in het gevlei komen van den inlander. Want, zeide ik, wij zijn tegenwoordig toch eigenlijk allemaal linksch vergeleken bij vroeger, Uwe Majesteit even goed als ik en iedereen. Dat was nu misschien niet voorzichtig gezegd, maar het was toch duidelijk een niets onbehoorlijks bedoelende gedachtenformuleering in een ernstig gesprek. Maar H.M. vloog op: Mijnheer De Jonge, ik verzoek U mij niet te qualificeeren; ik ben noch linksch, noch rechtsch; ik sta boven de partijen, ik heb geen meening enz. enz. Toe maar, dacht ik, daar krijgt de nieuwe G.G. een ongenadig katje; hoe dien tik behoorlijk terug te geven. Toen H.M. eindelijk zweeg, zei ik doodkalm: ‘Ja, als U.M. er geen meening op na houdt, dan is het vrij nutteloos hier staatszaken te zitten bespreken.’ Daarop ging H.M. uitleggen wat Zij eigenlijk bedoelde, wat ik natuurlijk best wist, maar ik kreeg nu de gelegenheid om op mijn beurt Haar uit te leggen, dat ik niet bedoelde Haar te qualificeeren. De conversatie kabbelde daarna weer door, maar wij zijn geen stap tot elkaar gekomen. Zij zond toch iemand uit voor 5 jaren om Haar te vertegenwoordigen op een zoo belangrijken post, maar geen woord van waardeering of aanmoediging; zoo koud als ijs.
         <br>
@@ -601,9 +601,9 @@ lomen zich in en op en boven de wateren voort
         <br>
         <writer data-writer="bcdejonge">B.C. de Jonge</writer>, <i>Herinneringen van Jhr. Mr. B.C. de Jonge</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Vrijdag 11 februari 1983
         <br>
@@ -611,9 +611,9 @@ lomen zich in en op en boven de wateren voort
         <br>
         <writer data-writer="wimkan">Wim Kan</writer>, <i>De dagboeken 1968-1983. De televisietijd</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Voor den grap wil ik je nog even de geschiedenis vertellen van mijn schilderijtje te Zutphen. Daar de Secretaris mij die briefjes schreef eén of twee dagen voor de sluiting der expositie en aan mijn oud adres, kwamen zij natuurlijk veel te laat te Londen en mijn antwoord dus niet bij tijds. Nu, de tentoonstelling moest worden gesloten en de Commissie moest besluiten. Ze hebben het uitblijven van mijn antwoord op hun bod voor eene weigering aangezien – en mijn schilderijtje voor den vollen prijs gekocht.
         <br>
@@ -623,9 +623,9 @@ lomen zich in en op en boven de wateren voort
         <br>
         <writer data-writer="johanneduardkarsen">Johann Eduard Karsen</writer> <i>aan Willem Witsen, juli 1889</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Nu waren Rudolfien en Frank alleen.
         <br>
@@ -641,17 +641,17 @@ lomen zich in en op en boven de wateren voort
         <br>
         <writer data-writer="truidakok">Truida Kok</writer>, <i>Rudi</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -In het voorjaar van 1690 begreep dokter Thomas dat zijn pupil nog een jaar bij Pieter Adriaansz wilde en kon blijven. Hij meende dat de leerling nu wel zoveel zou kunnen bijdragen aan de praktijk dat honderd gulden kostgeld voldoende was, maar Pieter Adriaansz vond dat te weinig. Hij schakelde Guenellon in, die aan Locke (inmiddels weer in Engeland) liet weten dat de bijdrage van de leerling niet overschat moest worden in een land waar de chirurgie praktisch alleen door de meester zelfwerd verricht. Pieter Adriaansz wilde minstens tweehonderd gulden hebben. Guenellon liet weten dat Thomas Davys zeer graag wilde blijven en dat hij na drie jaar zeker een volleerd chirurgijn zou zijn, want hij deed erg zijn best. Dokter Thomas ging akkoord. Naast de instructie van Pieter Adriaansz volgde Thomas Davys ’s winters steeds een college bij Guenellon. Eind 1691 vertrok hij uit Amsterdam. Hij ging eerst nog naar Zutphen, waar hij manuscripten van Pieter Adriaansz over bevallingen afleverde, alvorens terug te gaan naar Engeland. Guenellon verzekerde Locke dat de jongeman zeer veel had geleerd en dat er het nodige van hem viel te verwachten.
         <br>
         <writer data-writer="luuckooijmans">Luuc Kooijmans</writer>, <i>De doodskunstenaar. De anatomische lessen van Frederik Ruysch</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         Adonis
     </p>
@@ -678,9 +678,9 @@ de onderwereld van je huwelijk heb je nog.
     <p>
         <writer data-writer="antonkorteweg">Anton Korteweg</writer>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         Hulde aan Zutphen
     </p>
@@ -913,9 +913,9 @@ Schooner hulde, hooger lof!
     <p>
         <writer data-writer="bkoster">B. Koster</writer>, <i>1819</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Juist wilde hij het voetpad oploopen, toen Nico zei: ‘Jongens, ik krijg daar net een plan. Wat denken jelui ervan eens naar Zutphen te wandelen?’
         <br>
@@ -927,9 +927,9 @@ Schooner hulde, hooger lof!
         <br>
         <writer data-writer="charleskrienen">Charles Krienen</writer>, <i>De avonturen van vier pretmakers</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -‘Geeske, ik wou je vragen: Heb je nog een Zutphense almanak voor mij te koop? We kunnen de andere, die we afgelopen herfst reeds van je kochten, nergens terug vinden.’
         <br>
@@ -947,9 +947,9 @@ Schooner hulde, hooger lof!
         <br>
         <writer data-writer="hendriklansink">Hendrik Lansink</writer>, <i>Waar mens en koren rijpen</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Niet lang duurde het, of weder op het rijtuig gestapt, verlieten zij de stad Deventer, en zij bereikten, den bogtigen IJssel volgende, over Gorssel en Rijssel, ouder eene afwisseling van fraaije Geldersche gezigten, de stad Zutphen, even als Deventer, aan den regteroever van den IJssel liggende. Daar het voornemen was van vader Buisman, om nog dezen dag, al was het dan ook tegen den avond, de stad Arnhem te bereiken, kon hij niet dan zeer vlugtig de stad Zutphen bezigtigen. Bijzonder vestigde hij de aandacht van Hillegonda op het uitmuntend fraai klokkespel, dat zich van den toren bij het Wijnhuis liet hooren, en door den beroemden hemoni gegoten was, haar tevens aanwijzende, hoe het oude van het nieuwe gedeelte der stad, door het stroompje de Borkel gescheiden wordt. Ter loops herinnerde hij ook zijne dochter, hoe deze stad, herhaalde keeren, deerlijk van de woede der Spanjaarden had te lijden gehad, daar zij nu eens in de handen der Staten, dan in die der Spaanschen was, tot dat eindelijk in het jaar 1591, Prins Maurits voor haar met een leger kwam opdagen, die de stad tot eene spoedige overgaaf dwong. ‘Ik was toen nog zeer jong, zeide Buisman, maar het staat mij nog voor, welk eenen roep deze daad van den jongen Maurits door het land gaf, want men wist naauwelijks, dat Zutphen belegerd was, toen men te gelijk hoorde, dat het reeds zich aan zijne wapens had overgegeven.’
         <br>
@@ -957,9 +957,9 @@ Schooner hulde, hooger lof!
         <br>
         <writer data-writer="adriaanloosjespzn">Adriaan Loosjes Pzn.</writer>, <i>Het leven van Hillegonda Buisman</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Op het Koningsplein bevindt zich ook het station Weltevreden van den spoorweg, die van Tandjong Priok af, tot Batavia en verder naar den Préanger voert, ‘naar boven,’ zooals men gewoonlijk zegt. Door de verbazende grootte van het plein merkt men evenwel dat station ternauwernood op en ziet al wandelend, nu eens een detachement soldaten, die exerceeren, dan weer een afdeeling artillerie met kanonnen, oefening houdend, of eenige escadrons cavallerie ventre à terre rennend. Een eind verder grazen vreedzaam de sappies en wanneer men nog eenige minuten gewandeld heeft, ontwaart men een aantal jonge lui die lawn-tennis, cricket of football spelen bij een paar sierlijke club- of vereenigingshuisjes. En niemand hindert daar een ander. Al zouden er nog tal van clubs, ettelijke troepenmassa’s en stations bijkomen, er blijft altijd ruimte genoeg op het Koningsplein, dat, naar men mij verzekerde, een oppervlakte heeft zóó groot, dat men de stad Zutphen er op zou kunnen zetten en nog plaats overhouden voor een armee-corps.
         <br>
@@ -982,9 +982,9 @@ Schooner hulde, hooger lof!
         <br>
         <writer data-writer="justusvanmaurik">Justus van Maurik</writer>, <i>Papieren kinderen, Dirk de snorder</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Rijst de vraag waarom Niets te verliezen en toch bang juist zo tot stand heeft moeten komen; waarom de schrijfster-journaliste voor dit boek deze vorm koos, en niet, zoals bij al haar andere bundelingen, een selectie uit louter al verschenen stukken maakte.
         <br>
@@ -992,33 +992,33 @@ Schooner hulde, hooger lof!
         <br>
         <writer data-writer="ischameijer">Ischa Meijer</writer>, <i>De interviewer en de schrijvers</i>, in gesprek met Renate Rubinstein
     </p>
-</section> 
+</article> 
 
-<section>
+<article>
     <p>
         -Nou ’k hjirfan skreau, tink ik mei tankberens oan de famylje van Sytzama. Alde mefrou de Douairière van Sytzama, stjûrde mem wike yn wike út alle dagen bêst iten. Jonker Baron J.G.W.H. van Sytzama, troud mei freule S. de With fan Bûtenpost, wiene myn bêste buorlju en freonen, en dy freonskip bleau by alle wikseling sa lang bistean, ta de dea der in ein oan makke of makket. Jonker Mr. Sytzama it jit rjochter to Zutphen.
         <br>
         <writer data-writer="tgvandermeulen">T.G. van der Meulen</writer>, <i>In brulloft yn ’e Wâlden</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         Zou hij nog iets van die vroegere noodlotstijd weten? Zou hij, versuft op een vieze matras, wel weten dat de omstandigheden van zijn leven honderden jaren voor zijn geboorte begonnen zijn? Wie niet kan lezen en schrijven heeft vaak een pakhuis vol oude, erfelijke herinneringen tot zijn beschikking. Dat de verhalen hem zijn verteld weet ik zeker: heel lang geleden, Jannosch, heeft je familie al eens in deze streken rondgetrokken. Een van je betovergrootmoeders werd bijvoorbeeld in Zutphen opgehangen. Haar dochtertje van acht keek toe. Toevallig ken ik een paar details. Blijf maar liggen, ik vertel ze wel.
         <br>
         <writer data-writer="margrietdemoor">Margriet de Moor</writer>, <i>Hertog van Egypte</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Heden kreeg ik een brief van een uitgever te Zutphen die zich in de gunst rekommandeerde. Hoe de man my heeft uitgevonden weet de hemel, maar dat noem ik vigileeren.
         <br>
         <writer data-writer="multatuli">Multatuli</writer>, <i>Brieven</i>, Aan Mevr. Douwes Dekker-Van Wynbergen, 21 juni 1860
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -12 maart 1943
         <br>
@@ -1028,17 +1028,17 @@ Schooner hulde, hooger lof!
         <br>
         <writer data-writer="nescio">Nescio</writer>, <i>Natuurdagboek</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         Ik was eene weeze. Opgevoed in de hofstad, gevoelde ik mij diep ongelukkig bij het vooruitzigt de schoonste jaren van mijn leven te zullen moeten doorbrengen in het oud niet vrolijk kasteel van mijnen oom en voogd, hetwelk op drie uren afstands van Zutphen zoo eenzaam gelegen is.
         <br>
         <writer data-writer="anthonyengbertusvannoothoorn">Anthony Engbertus van Noothoorn</writer>, <i>De ridder van de klok. Door een neefje van Klikspaan</i>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         De Berkellisschen
     </p>
@@ -1091,9 +1091,9 @@ Ziet, gesmolten isse…
         <br>
         (NB Oldekamp en zijn gedicht zijn een mystificatie van de in Apeldoorn geboren Utrechter Arjaan van Nimwegen.)
     </p>
-</section>
+</article>
  
-<section>
+<article>
     <p>
         -Zutphen
         <br>
@@ -1254,9 +1254,9 @@ Ziet, gesmolten isse…
     <p>
         <writer data-writer="jlouispisuisse">J. Louis Pisuisse</writer> en <writer data-writer="maxblokzijl">Max Blokzijl</writer>, <cite>Avonturen als straatmuzikant</cite>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Lieve Vriend!
         <br>
@@ -1264,9 +1264,9 @@ Ziet, gesmolten isse…
         <br>
         <writer data-writer="ejpotgieter">E.J. Potgieter</writer>, <cite>Brieven aan Cd. Busken Huet 1870-1874</cite>, 22 augustus 1872
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Van alle kennissen en familieleden was reeds afscheid genomen, en den volgenden ochtend vertrokken Bertha en Mevrouw de Last per spoor naar Arnhem. Zij namen slechts één meid, Ant, mede, die reeds jaren bij de familie gediend had.
         <br>
@@ -1278,20 +1278,19 @@ Ziet, gesmolten isse…
         <br>
         <writer data-writer="arijprins">Arij Prins</writer>, <cite>Uit het leven</cite>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         ’s Anderendaags te A. terugkomende, wordt Joseph Marjan, de ronselaar of werver, opgezocht. Wezerman moet voor zes, Poland voor acht jaren – twee jaren op den groei – teekenen. Wezerman, die de behoorlijke lengte heeft, zal twee dukaten, en Poland maar zes gulden handgeld ontvangen. ’t Is niet om rijk van te worden, maar er blijft niet anders over. Den 3den Julij 1814 neemt Poland dus dienst als vrijwilliger bij het 15de Bat. Infanterie van linie, gekommandeerd door den kolonel Macleod. Hij wordt gemeten, gevisiteerd, goedgekeurd en geplaatst bij de 2de kompagnie, kapitein Holthof; hij wordt gekleed en gewapend, en vertoont zich daarna als soldaat aan zijne moeder wie hij tegelijker tijd zijn handgeld brengt. Niettegenstaande het engelsch geweer hem zwaar valt te hanteren, is hij in een maand afgeëxerceerd en doet zich als een net, ordelijk, ijverig soldaat kennen. Als een goed zoon deelt hij zijn traktement en zijn brood met zijne moeder, en zoekt van tijd tot tijd zijne brave grootmoeder op. Drie maanden later krijgt het Bataillon order om naar Zutphen te marcheren; men scheept zich in tjalken in, zeilt de Zuiderzee over en marcheert van Harderwijk naar Zutphen. Daar zijn de kasernen nog niet gereed en wordt men ingekwartierd bij de burgers. Poland komt bij Ganseboom, den slager, en heeft het er goed. ’t Is een stil plaatsje, dat Zutphen, maar toch geen slecht garnizoen. Waarschijnlijk bragt de nabijheid der Pruissische grenzen er toe bij, om de desertie daar in de mode te brengen. Geen nacht ging er voorbij zonder dat een, twee, tot vijf man deserteerden; het gebeurde dat manschappen die heden aangenomen en gekleed werden, den volgenden morgen met handgeld en kleeding verdwenen waren. Ook Wezerman werd door die desertie-épidémie aangetast en liet op zekeren dag Poland alleen achter.
         <br>
         <writer data-writer="wavanrees">W.A. van Rees</writer>, <cite>Indische typen</cite>
     </p>
-</section>
+</article>
 
-<section>
-    <pre>
+<article>
+<pre>
 –Hoe Jan van Wichmond en zin vrouw op de Zutphensche karmis kwammen (1856) en hoe Nel zin vrouw ut jaleorsche niedigheid op den kop van een leeuw in de dreimulle ging zitten
-
 
 Jan van Wichmond wou en zou
 voor zijn genoegen en dat zijner vrouw
@@ -1475,13 +1474,11 @@ ik heb oew de pret bedorven, ’t zal neêt weergebeuren, dus,
 wie ’t mien vergeven? geef mien un kus.’
 ‘Nelle met alle plezier
 neêt ééne, moar vier.’
-    </pre>
-    <p>
-        <writer data-writer="hermanrevelman">Herman Revelman</writer>
-    </p>
-</section>
+</pre>
+    <p><writer data-writer="hermanrevelman">Herman Revelman</writer></p>
+</article>
 
-<section>
+<article>
     <blockquote>
 –De vaendelen gevult, de lening’ wel betalet,
     Een wijs en snel beleyt: dit’s daermen eer mee halet.
@@ -1489,12 +1486,10 @@ Wat dunckt u? hebben wy niet cloeckelijck de schans
     Van Zutphen, en van daech slech met tien duysent mans
 De Stat oock overheert?
     </blockquote>
-    <p>
-        <writer data-writer="jacobusrevius">Jacobus Revius</writer>, <cite>Over-Ysselsche sangen en dichten</cite>
-    </p>
-</section>
+    <p><writer data-writer="jacobusrevius">Jacobus Revius</writer>, <cite>Over-Ysselsche sangen en dichten</cite></p>
+</article>
 
-<section>
+<article>
     <p>
         -Wolfardus:
         <br>
@@ -1522,28 +1517,26 @@ Nu heb ik by deze gelegentheid dit toeval tot myn voordeel genomen,
     En daar zes dnyzend guldens schade, op myn winst en verlies, voor gezet.
 Zoo dat ‘er dat jaar verloren is zeven en dertig honderd gulden, net.
     </blockquote>
-    <p>
-        <writer data-writer="fransrijk">Frans Rijk</writer>, <cite>De hedendaagsche bankroetier achterhaalt</cite>
-    </p>
-</section>
+    <p><writer data-writer="fransrijk">Frans Rijk</writer>, <cite>De hedendaagsche bankroetier achterhaalt</cite></p>
+</article>
 
-<section>
+<article>
     <p>
         -’s Ochtends om 8 uur stond ik op de Mitropa te wachten, die vanaf Noord-Duitsland over Oldenzaal, Hengelo, Zutphen en Arnhem naar Wenen en verder ging. Een grote internationale trein met een grote jumbo-locomotief ervoor. Het was een prachtig gezicht om die trein de wissel te zien nemen alvorens het station Brummen te passeren. Stoppen deed ie niet. Hij raasde voort met zo’n kleine honderd kilometer per uur, met zijn blauwe en gele D-treinwagons en een rode restauratiewagen, waarin je mensen kon zien zitten ontbijten. Een wereld op zich zelf en heel snel. Vol illusie van vreemde verre landen en wonderlijke andere mensen.
         <br>
         <writer data-writer="bertschierbeek">Bert Schierbeek</writer>, <cite>Oom Hebbo & Tante Ant</cite>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Ik ga terug over Zutphen en zie de huizen aan de IJsselkade, waar ik met tante Daatje in een portiek op een bus stond te wachten. Het was donker en het regende. Uit het huis achter ons klonk muziek en lawaai, tienvoudig versterkt opeens toen de deur openging en een dronken Canadees naar buiten zwalkte en tante Daatje omhelsde. Ik voelde haar angst: wat ging die man met ons doen?
         <br>
         <writer data-writer="martinschouten">Martin Schouten</writer>, <cite>Hotel Terminus</cite>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         Binnenschip
         <br>
@@ -1551,9 +1544,9 @@ Zoo dat ‘er dat jaar verloren is zeven en dertig honderd gulden, net.
         <br>
         <writer data-writer="alsnijders">A.L. Snijders</writer>, <cite>Bordeaux met ijs</cite>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Glas-schrift. Tot een Waart, te Zutphen:
     </p>
@@ -1579,9 +1572,9 @@ Van vyftig qualik een, daar mangelt dit en dat:
     <p>
         <writer>Hieronymus Sweerts</writer>, <cite>Koddige en ernstige opschriften, op luyffens, wagens, glazen, uithangborden en andere taferelen. Van langerhand by een gezamelt en uitgeschreven, door een liefhebber der zelve</cite>
     </p>
-</section> 
+</article> 
 
-<section>
+<article>
     <p>
         -De binnengetredene, de theologiae studiosus Hendrik Rudolf Marx, een rijzig jongeling, met een schrander gelaat en een ironiesch lachjen om de lippen zag minachtend op hen neêr.
         <br>
@@ -1597,25 +1590,25 @@ Van vyftig qualik een, daar mangelt dit en dat:
         <br>
         <writer data-writer="cterburch">C. Terburch</writer>, <cite>Willem Norél</cite>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -In mijn pleidooi voor den arbeider Derksen, te Zutphen, wederom naar aanleiding van het lastig vallen van onderkruipers, zeide ik o.a.: ‘En wanneer politie en justitie dan tegen de georganiseerde arbeiders optreden, moeten zij niet denken het zedelijk recht aan hun zijde te hebben. Neen, het zedelijk recht is aan den kant der werkstakers. De justitie wordt hier uitgenoodigd den oppermachtigen kapitalist in zijn stelsel van uitbuiting te helpen tegen de verongelijkte werkers door wier arbeid de kapitalist rijk is geworden. De wetten, door de kapitalistenklasse gemaakt, heeft zij te handhaven.’ Dergelijke beschouwingen konden den aangeklaagde meestal niet helpen, maar zij gaven aan de processen een groote propagandistische waarde.
         <br>
         <writer data-writer="pieterjellestroelstra">Pieter Jelles Troelstra</writer>, <cite>Gedenkschriften. Deel II. Groei</cite>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Een van de meest intrigerende ervaringen tijdens onze taalkundige bezigheden van het afgelopen anderhalve decennium is dat onder de klankverschijnselen klemtoon bij een groot publiek tot de verbeelding spreekt. Internationaal gezien is het al zeker vijftig jaar een van de meest vooraanstaande onderzoeksgebieden in zowel de fonetiek als de fonologie, op congressen trekken lezingen over klemtoon opvallend veel aandacht van specialisten net zo goed als niet-specialisten, studenten vinden het een leuk onderwerp voor werkgroepen en scripties, en leken blijken het bijzonder op prijs te stellen als je hen kunt vertellen waar in een gegeven woord nu eigenlijk de klemtoon ‘hoort’ te liggen. We hebben (zoals iedereen) de middelbare schoolleraar meegemaakt die door de klas brulde dat Jansen ‘op de klemtónen’ moest letten. We zijn in een radioprogramma van de Wereldomroep geweest om op verzoek van een enigszins boze heer Bos uit Senegal uit te leggen waarom de klemtonen van werkgelégenheid en kinderbíjslag zo gek nog niet zijn, om een aantal jaren later een ingezonden brief in de Volkskrant te zien van meneer Jansen uit Zutphen die zich ‘gruwelijk ergert aan de verkeerde klemtoon bij de uitspraak van Nederlandse woorden’, en werkgelégenheid als voorbeeld noemt.
         <br>
         <writer data-writer="mieketrommelen">Mieke Trommelen</writer> en <writer data-writer="wimzonneveld">Wim Zonneveld</writer>, <cite>Klemtoon en metrische fonologie</cite>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Het was op een avond in het voorjaar van 1642, dat twee vreemdelingen door de straten van Zutphen zwierven. Ze kwamen aan de oever van de IJssel en keken naar het kleurenspel dat de laagstaande zon in de wolken toverde. Er stond een stevige westenwind die hun in het gezicht blies, en die de schuimkopjes van het water tegen de beschoeiing opjoeg.
         <br>
@@ -1625,17 +1618,17 @@ Van vyftig qualik een, daar mangelt dit en dat:
         <br>
         <writer data-writer="erikuyldert">Erik Uyldert</writer>, <cite>Het geheim van de Hemony’s</cite>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Kin it wêze dat mem ek in eachje op de flamboyante, mar folle jongere Jan Vermeulen hie? ‘Ik denk het wel en ik wist best dat hij meer vrouwen had, mar ik hield nu eenmaal van die man.’ En dus reizgje se him nei. Heit, doe baas fan it stasjon yn Zutphen, ferbriek it kontakt. Earst yn de hjerst fan 1945 liet er wer fan him hearre. Hy stjoerde har in boek, Stiefmoeder Aarde fan Theun de Vries. En mei styfmem Hiltsje kaam it yn dat euforise tiidrek fan nei de befrijing ek wer goed. ‘Ik heb haar nog geld gestuurd, want ze had maar 65 gulden pensioen per maand en wy hadden het toen in Ruslând veel beter.’
         <br>
         <writer data-writer="rinkvandervelde">Rink van der Velde</writer>, <cite>Sa wie ’t sawat</cite>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -Haar zoon Hans is over uit Groningen. Liesbeth, haar jongste spruit, heeft tijdens het eten gevraagd of Riek vanmiddag even mee de stad in gaat. Ze wil graag een nieuwe trui. Het is volop opruiming. Daar moeten moeder en dochter van profiteren. Hoe vreemd het ook klinkt, Riek moet zuinig zijn. Sinds een paar weken is ze bijstandsmoeder. Ze was de vrouw van een bekend accountant in Zutphen.
         <br>
@@ -1643,9 +1636,9 @@ Van vyftig qualik een, daar mangelt dit en dat:
         <br>
         <writer data-writer="gerryvelemadrent">Gerry Velema-Drent</writer>, <cite>Geen ander voor jou</cite>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <blockquote>
 –Gelijck d’ervarenheyd beschrijft den Russen beer,
     Die, siende te gemoet het strenge winterweer,
@@ -1667,9 +1660,9 @@ Waer dolheyds lemmer blinckt, daer moet ’t ploegyser roesten
     <p>
         <writer data-writer="joostvandenvondel">Joost van den Vondel</writer>, <cite>Verovering van Grol</cite>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <blockquote>
 –Hun kussen dan, klonken als wijde sprongen,
     door lange witte vrouwen flink gedaan,   
@@ -1679,17 +1672,17 @@ en soms als Morse, door een mondje meel gezongen,
     <p>
         <writer data-writer="leovroman">Leo Vroman</writer>, <cite>Twee gedichten, ‘Ballade’</cite>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -19/29 maij woensdach iss S.H. om acht uir van Swol gevaeren en om 12 uir te Deventer gekomen, wedrom wel getracteert geweest en ontfangen, om de stadt gereden, om drie uir van Deventer gevaeren en te ses uir te Zutphen gekomen, alwaer S.H. niet verwacht wierdt voor donderdach, doch de heeren die quaemen alle collegeswijse bij S.H.; hij sach de troupes marcheren, adt des avontz niet, had groote pijn in ’t hooft van de deboche en niet gespeult te hebben.
         <br>
         <writer data-writer="willemfrederik">Willem Frederik</writer>, <cite>Gloria parendi. Dagboeken van Willem Frederik, stadhouder van Friesland, Groningen en Drenthe, 19/29 mei 1647</cite>
     </p>
-</section>
+</article>
 
-<section>
+<article>
     <p>
         -François en ik zijn tegenwoordig aan ’t schieten met Flaubert buks – hij schiet heel goed – beter dan ik. Beb, je moet zien al die wapens hangen boven m’n hoofd boven de hoek bank – al die oude dingen uit m’n jongenstijd – ’t staat wezenlijk heel aardig.
         <br>
@@ -1703,4 +1696,4 @@ en soms als Morse, door een mondje meel gezongen,
         <br>
         <writer data-writer="willemwitsen">Willem Witsen</writer> aan Elizabeth van Vloten, 28 augustus 1891
     </p>
-</section>
+</article>

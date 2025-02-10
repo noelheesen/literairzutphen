@@ -5,54 +5,69 @@
 	--line-height: 154%;
 }
 
-body {
-	/* background-color: #eae7e1; */
-	background-color: #eeebe5;
-	color: #151515;
-	max-width: 100svw;
+nav {
+	list-style: none;
 }
 
-body > div > aside {
-	position: fixed;
+body,
+#site-header {
+	background-color: #eeebe5;
+}
+
+body {
+	color: #151515;
 }
 
 main {
-	@apply mt-12;
+	@apply pt-14;
 	@apply break-words;
 	max-width: 64rem;
 	margin: auto;
 	font-size: 112%;
 	line-height: 154%;
-	/* font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
 	font-family: 'Sitka Text', 'Open Sans', 'Helvetica Neue', 'Segoe UI', Roboto, Ubuntu, sans-serif;
-	/* color: #2a2a2a; */
 }
 
-#site-title {
-	@apply font-semibold;
+main h1:first-of-type {
 	@apply text-3xl;
 	@apply mt-12 mb-6;
+	@apply font-semibold;
+}
+
+main a {
+	@apply text-blue-900;
+
+	&:hover {
+		@apply underline;
+	}
 }
 
 main > article {
-	margin: auto 5%;
+	@apply flow-root;
+	@apply my-5 py-2;
 }
 
-article > section {
-	@apply my-4;
-	display: flow-root;
+main > article p + p {
+	@apply mt-3;
 }
 
-main section img {
+main > footer {
+	@apply mt-4 mb-8;
+}
+
+main article img {
 	@apply float-left;
 	@apply mr-2 mb-1;
 }
 
-section:not(:first-of-type) {
-	@apply pt-4;
-}
+blockquote,
+pre {
+	@apply my-4;
+	@apply text-wrap;
 
-p {
+	&:last-child {
+		@apply mb-0;
+	}
 }
 
 blockquote {
@@ -60,12 +75,22 @@ blockquote {
 	@apply border-red-800;
 	@apply whitespace-pre-wrap;
 	@apply pl-3 py-1;
-	@apply my-3;
 
 	@apply italic;
 	line-height: 170%;
 }
 
+pre {
+	@apply font-mono italic;
+	font-size: 92%;
+}
+
 writer {
-	@apply font-bold;
+	@apply inline;
+	@apply font-semibold;
+}
+
+.scroll-lock {
+	scrollbar-gutter: stable;
+	overflow: hidden;
 }
