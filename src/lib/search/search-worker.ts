@@ -14,19 +14,16 @@ addEventListener('message', async (event) => {
 			flexIndex.add(index, writer.slug);
 		});
 
-		console.log('ready', writers, map);
 		postMessage({ type: 'ready' });
 	}
 
 	if (type === 'query') {
-		const { query } = payload;
-
-		const foundIndexes = flexIndex.search(query);
+		const foundIndexes = flexIndex.search(payload);
 		const results = foundIndexes.map((index) => map.get(index as number));
 
 		postMessage({
 			type: 'results',
-			payload: { results }
+			payload: results
 		});
 	}
 });

@@ -77,3 +77,28 @@ export function trapfocus(el: HTMLElement, options?: { resetFocus?: boolean }) {
 		}
 	};
 }
+
+export function keyboardnavigation(el: HTMLElement) {
+	function onKeyDown(e: KeyboardEvent) {
+		if (e.key === 'ArrowUp' || e.key === 'ArrowDown') {
+			e.preventDefault();
+
+			const children = getFocusableChildren(el);
+			const selector = 'a, input';
+
+			if (e.key === 'ArrowDown') {
+				children.next(selector);
+			} else {
+				children.prev(selector);
+			}
+		}
+	}
+
+	el.addEventListener('keydown', onKeyDown);
+
+	return {
+		destroy() {
+			el.removeEventListener('keydown', onKeyDown);
+		}
+	};
+}

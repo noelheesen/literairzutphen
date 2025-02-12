@@ -1,5 +1,5 @@
 {
     "[svelte]": {
-        "editor.defaultFormatter": null
+        "editor.defaultFormatter": "svelte.svelte-vscode"
     }
 }

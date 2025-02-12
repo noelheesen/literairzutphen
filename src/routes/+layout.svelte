@@ -1,16 +1,16 @@
-<script lang=ts>
+<script lang="ts">
 	import '../app.css';
-	import Links from '../data/links.json'
+	import Links from '../data/links.json';
 	import { hashscroll } from '$lib/actions/scroll';
 	import SearchDialog from '$lib/search/search-dialog.svelte';
 
 	let { children } = $props();
 
-	let opened = $state(false)
-	let searchdialog: SearchDialog
+	let opened = $state(false);
+	let searchdialog: SearchDialog;
 </script>
 
-<svelte:window use:hashscroll></svelte:window>
+<svelte:window use:hashscroll />
 
 <header id="site-header">
 	<h1 id="site-title">Literair Zutphen</h1>
@@ -24,24 +24,56 @@
 		</div>
 	</form> -->
 
-	<button id="search-activator" aria-label="search activator" onclick={() => searchdialog?.show() }>
-		<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
-			<path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0"/>
+	<button id="search-activator" aria-label="search activator" onclick={() => searchdialog?.show()}>
+		<svg
+			xmlns="http://www.w3.org/2000/svg"
+			width="14"
+			height="14"
+			fill="currentColor"
+			class="bi bi-search"
+			viewBox="0 0 16 16"
+		>
+			<path
+				d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0"
+			/>
 		</svg>
 		<span class="placeholder">zoeken</span>
-		<span class="kbd-keys"><kbd>{navigator.userAgent.includes('Mac') ? 'Cmd' : 'Ctrl'}</kbd> <kbd>K</kbd></span>
+		<span class="kbd-keys"
+			><kbd>{navigator.userAgent.includes('Mac') ? 'Cmd' : 'Ctrl'}</kbd> <kbd>K</kbd></span
+		>
 	</button>
-	<button id="az-activator" onclick={() => searchdialog?.show() }>A – Z</button>
-	<button id="nav-toggle" onclick={() => {
-		opened = !opened
-	}}>
+	<button id="az-activator" onclick={() => searchdialog?.show()}>A – Z</button>
+	<button
+		id="nav-toggle"
+		onclick={() => {
+			opened = !opened;
+		}}
+	>
 		{#if opened}
-			<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" fill="currentColor" class="bi bi-text-indent-left" viewBox="0 0 16 16">
-				<path d="M2 3.5a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5m.646 2.146a.5.5 0 0 1 .708 0l2 2a.5.5 0 0 1 0 .708l-2 2a.5.5 0 0 1-.708-.708L4.293 8 2.646 6.354a.5.5 0 0 1 0-.708M7 6.5a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5m0 3a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5m-5 3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5"/>
+			<svg
+				xmlns="http://www.w3.org/2000/svg"
+				width="34"
+				height="34"
+				fill="currentColor"
+				class="bi bi-text-indent-left"
+				viewBox="0 0 16 16"
+			>
+				<path
+					d="M2 3.5a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5m.646 2.146a.5.5 0 0 1 .708 0l2 2a.5.5 0 0 1 0 .708l-2 2a.5.5 0 0 1-.708-.708L4.293 8 2.646 6.354a.5.5 0 0 1 0-.708M7 6.5a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5m0 3a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5m-5 3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5"
+				/>
 			</svg>
 		{:else}
-			<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" fill="currentColor" class="bi bi-text-indent-right" viewBox="0 0 16 16">
-				<path d="M2 3.5a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5m10.646 2.146a.5.5 0 0 1 .708.708L11.707 8l1.647 1.646a.5.5 0 0 1-.708.708l-2-2a.5.5 0 0 1 0-.708zM2 6.5a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5m0 3a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5m0 3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5"/>
+			<svg
+				xmlns="http://www.w3.org/2000/svg"
+				width="34"
+				height="34"
+				fill="currentColor"
+				class="bi bi-text-indent-right"
+				viewBox="0 0 16 16"
+			>
+				<path
+					d="M2 3.5a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5m10.646 2.146a.5.5 0 0 1 .708.708L11.707 8l1.647 1.646a.5.5 0 0 1-.708.708l-2-2a.5.5 0 0 1 0-.708zM2 6.5a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5m0 3a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5m0 3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5"
+				/>
 			</svg>
 		{/if}
 	</button>
@@ -67,16 +99,19 @@
 	<h4>Links</h4>
 	<ul>
 		{#each Links as link}
-			<li><a href={link.url} target="_blank" rel="noopener noreferrer" title={link.title}>{link.text}</a></li>
+			<li>
+				<a href={link.url} target="_blank" rel="noopener noreferrer" title={link.title}
+					>{link.text}</a
+				>
+			</li>
 		{/each}
 	</ul>
 </aside>
 
 <main>{@render children()}</main>
 
-<!-- svelte-ignore a11y_no_static_element_interactions, a11y_click_events_have_key_events -->
-<div id="dialog-portal" onclick={() => {  }}>
-	<SearchDialog bind:this={searchdialog} modal/>
+<div id="dialog-portal">
+	<SearchDialog bind:this={searchdialog} modal />
 </div>
 
 <style lang="postcss">
@@ -181,12 +216,8 @@
 		@apply flex items-center justify-center;
 		@apply pointer-events-none;
 
-		&:not(:empty) {
-			background-color: hsla(0, 0%, 0%, 0.4);
-			@apply pointer-events-auto;
-			@apply cursor-pointer;
-		}
-
-		> :global(*) { cursor: initial; }
+		/* > :global(*) {
+			cursor: initial;
+		} */
 	}
 </style>
