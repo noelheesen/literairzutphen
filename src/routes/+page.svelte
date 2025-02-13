@@ -2,7 +2,7 @@
 
 <article>
     <p>
-        <img src="/images/" alt="">
+        <img src="/images/pg_wodehouse.jpg" alt="P.G. Wodehouse" class="image-size-7">
         De Brits-Amerikaanse humoristische schrijver <writer name="pgwodenhouse" data-writer="pgwodenhouse">P.G. Wodehouse</writer> (Guildford, Engeland, 15 oktober 1881 – Southampton, Verenigde Staten, 14 februari 1975) is de schepper van het duo Bertie Wooster en zijn butler Jeeves, de hoofdpersonages van een groot aantal van zijn boeken. Verrassend genoeg wordt Zutphen in Wodehouse’ boeken, zoals zijn Nederlandse vertaler Leonard Beuger (zie daar) opmerkte, op achttien plaatsen genoemd. De naam Zutphen blijft weliswaar onvermeld, maar Wodehouse verwijst maar liefst 18 maal naar Sir Philip Sidney (zie daar), die in 1586 dodelijk gewond raakte bij de verdediging van Zutphen tegen de Spanjaarden, en naar de beroemde woorden die hij sprak toen hij de gewonde soldaat die naast hem lag hem zijn veldfles aanbood: ‘Thy necessity is greater than mine.’
         <br>
         Beuger: ‘Op zijn kostschool is de jonge Wodehouse en alle andere leerlingen, aan het eind van de 19e eeuw, regelmatig het ridderlijk gedrag van Sir Philip tot voorbeeld gesteld, en zijn leven lang is dat hem bijgebleven. Niet tot in detail, want waar Sidney nu precies sneuvelde was hem ontgaan, zoals blijkt uit deze passage uit de roman <cite>The Mating Season</cite> (<cite>Jeeves en de Liefde</cite>). Waar in het Nederlands ‘de slag bij weet-ik-het’ staat, stond in het Engels ‘the battle of somewhere’ – de reden waarom de leden van de Zutphense afdeling van de P.G. Wodehouse Society altijd tegen hun buitenlandse vrienden zeggen dat ze uit Somewhere in Holland komen…’
@@ -13,6 +13,7 @@
 
 <article>
     <p>
+        <img src="/images/spaarbank.jpg" alt="Spaarbank" class="image-size-8">
         <b>Literaire spaarbank</b>
         <br>
         In 1819 verscheen – anoniem – het werkje <cite>Willem Klaarkop, of de spaarbank te Zutphen</cite>. Het behelst een uitvoerig gesprek tussen een personage genaamd Steven Oudgeest en de titelheld en het begint zo:
@@ -29,7 +30,7 @@
 
 <article>
     <p>
-        <img src="/images/" alt="">
+        <img src="/images/de_matroos_uit_ouderliefde.jpg" alt="De Matroos uit Ouderliefde" class="image-size-9">
         <writer name="matroosbernardusbade" data-writer="matroosbernardusbade">Matroos Bernardus Bade</writer>
         <br>
         In 1782 verscheen bij Pieter van Dyk, boekverkoper te Rotterdam, anoniem het toneelspel <cite>De matroos uit ouderliefde, of de jongeling van Zutphen</cite>. De personages zijn: Barent Bade, zijn vrouw Maria, hun zoons Bernardus en Jan, de geestelijke Eelhart, Bernardus vriend Jakob, Maria’s nicht Willemina, ‘Patria, de vrije Tuinmaagd van Nederland’ en ‘Usipetis, de Stedemaagd van Zutphen’.
@@ -141,8 +142,8 @@ Wat leert ons zijne blijmoedigheid in zijn ongeluk?
 
 <article>
     <p>
-        <img src="/images/" alt="">
-        <writer name="poesjkin" data-writer="poesjkin">Poesjkin</writer>
+        <img src="/images/aleksandr_poesjkin.jpg" alt="Aleksandr Poesjkin" class="image-size-10">
+        <writer name="aleksandrpoesjkin" data-writer="aleksandrpoesjkin">Poesjkin</writer>
         <br>
         Als Jacob Derk Burchard Anne van Heeckeren tot Enghuizen getrouwd was geweest, had de geschiedenis mogelijk geen andere loop genomen, maar was de naam van Zutphen in de Russische bellettrie beslist niet zo besmeurd geweest. Maar Van Heeckeren wás niet getrouwd.
         <br>
@@ -154,25 +155,25 @@ Wat leert ons zijne blijmoedigheid in zijn ongeluk?
 
 <article>
     <p>
-        <img src="/images/" alt="">
+        <img src="/images/polyhymnia.jpg" alt="Polyhymnia" class="image-size-7">
         <writer name="polyhymnia" data-writer="polyhymnia">Polyhymnia</writer>
         Midden negentiende eeuw ontstonden overal in Nederland rederijkerskamers, verenigingen die zich bezig hielden met poëzie en toneel, voordrachtskunst en welsprekendheid. Zo ook in Zutphen, waar de leden van Rederijkerskamer Polyhymnia, opgericht op 23 november 1850, elke twee weken (behalve ’s zomers) op de dinsdagavond bijeenkwamen om, gekleed in rokkostuum, proza- en dichtstukken voor te dragen en zo ‘de beoefening der uiterlijke welsprekendheid” te bevorderen. Er werd voorgedragen uit eigen werk en uit dat van dichters als Vondel, Hooft, Bilderdijk, Tollens. De avonden begonnen om 19.30 uur en het programma bestond uit twee vrije opdrachten en één opgegeven voordracht.
     </p>
     <p>
-        <img src="/images/" alt="">
+        <img src="/images/polyhymnia-wet.jpg" alt="Polyhimnia Wet" class="image-size-3">
         De vereniging kende werkende leden, die deelnamen aan de voordrachten, niet-werkende leden, die niet zelf voordroegen maar wel recht van ballotage hadden, buitenleden, zowel werkende als niet-werkende leden die de gemeente ‘met der woon verlaten hebben’, en ereleden. De uitvoerige reglementen waren vastgelegd in een heuse ‘Wet’.
     </p>
 </article>
 
 <article>
     <p>
-        <img src="/images/" alt="Johannes Antonius Vrugtman">
+        <img src="/images/johannes_antonius_vrugtman.png" alt="Johannes Antonius Vrugtman" class="image-size-10">
         Oprichter en drijvende kracht achter Polyhymnia was <writer name="johannesantoniusvrugtman" data-writer="johannesantoniusvrugtman">Johannes Antonius Vrugtman</writer>, geboren op 4 februari 1823 in Zutphen. Van zijn achttiende tot zijn drieëntwintigste had hij in Warnsveld voor de klas gestaan, maar zijn ambitie reikte verder dan het lager onderwijs. Hij vertrok naar Amsterdam om zich te laten scholen ‘in den zang en de uiterlijke welsprekendheid’. In 1850 kwam hij terug naar Zutphen, waar hij als declamator grote bekendheid genoot. Hij woonde aan de Oudewand 6.
         <br>
         Vrugtman stuwde Polyhymnia op tot grote hoogte. Tot de leden behoorden vooraanstaande Zutphenezen als raadslid, wethouder en Tweede Kamerlid Jacob Dam, de schilder Jan Jans Haak, horlogemaker B. Makkink Jr., gasfabrikant J.P.J. Heintz, boekhouder H. Smit Gzn., meelfabrikant D. van Elk, schilder-tekenleraar Dirk Gerard Ezerman en houthandelaar David Evekink. In 1882 telde de vereniging 17 werkende leden (er was een maximum van 20), 160 niet-werkende leden en 50 buitenleden.
     </p>
     <p>
-        Dat alleen mannen lid konden worden, was soms lastig. Zoals die keer in 1864, toen men onder leiding van de bekende letterkundige Johannes van Vloten, hoogleraar Nederlandse taal- en letterkunde aan het Atheneum Illustre te Deventer en erelid van Polyhymnia (zie diploma), Onno Zwier van Harens toneelstuk <cite>Willem de Eerste</cite> (1773) wilde opvoeren. In dit stuk, over de moord op Willem van Oranje door Balthasar Gerards, komt ook Willems echtgenote Louise de Coligny voor. Zij was getuige geweest van de moord. Maar er was dus niemand die haar rol kon spelen. Hoe losten de Polyhymnasiasten dit op? Door de scènes met De Coligny eenvoudigweg te schrappen. Wat je op zichzelf ook weer een vorm van moord kunt noemen.
+        Dat alleen mannen lid konden worden, was soms lastig. Zoals die keer in 1864, toen men onder leiding van de bekende letterkundige Johannes van Vloten, hoogleraar Nederlandse taal- en letterkunde aan het Atheneum Illustre te Deventer en erelid van Polyhymnia (zie diploma), Onno Zwier van Harens toneelstuk <cite>Willem de Eerste</cite> (1773) wilde opvoeren. <img src="/images/willem_van_oranje.jpg" alt="Willem van Oranje" class="image-size-10"> In dit stuk, over de moord op Willem van Oranje door Balthasar Gerards, komt ook Willems echtgenote Louise de Coligny voor. Zij was getuige geweest van de moord. Maar er was dus niemand die haar rol kon spelen. Hoe losten de Polyhymnasiasten dit op? Door de scènes met De Coligny eenvoudigweg te schrappen. Wat je op zichzelf ook weer een vorm van moord kunt noemen.
         <br>
         Polyhymnia was niet alleen lokaal actief. Zo berichtte de <cite>Heldersche en Nieuwedieper Courant</cite> op 22 september 1871 dat ‘de zevende bijzondere en zesde algemeene vergadering van het Nederl. Rederijkers–Verbond […] jl. Maandag te Dordrecht plaats [had] gehad. Vertegenwoordigd waren 10 kamers, als: <i>Polyhymnia</i> van Zutphen, <i>Aurora</i> v. Kinderdijk, <i>N. Beets</i> v. Utrecht, <i>Eloquentia</i> v. Arnhem, <i>Boogaers</i> v. Koog en Zaandijk, <i>Cicero</i> v. Krimpen a/d Lek, <i>St. Joris</i> v. Ridder-kerk, <i>Jan van Beers</i> v. Utrecht, <i>Borger</i> v. Leiden en <i>Kunstmin</i> v. Dordrecht. Als voorzitter trad op de 1ste voorzitter, de heer Doressen, van Utrecht. Als plaats der bijeenkomst in het volgende jaar is Zutphen gekozen.’
         <br>
@@ -184,23 +185,25 @@ Wat leert ons zijne blijmoedigheid in zijn ongeluk?
 
 <article>
     <p>
-        <img src="/images/" alt="">
+        <img src="/images/george_w_bush.jpg" alt="George W. Bush" class="image-size-8">
         <writer name="georgewbush" data-writer="georgewbush">George W.</writer>
+        <br>
         Het is een goed bewaard geheim dat <writer name="wilhelmusbaudartius" data-writer="wilhelmusbaudartius">Wilhelmus Baudartius</writer> (Deinse 1565 – Zutphen 1640) een voorvader is van de Amerikaanse presidenten George Walker Bush en diens vader George Herbert Walker Bush. Hoe zit dat? Baudartius’ dochter Marie Baudartius (1600-1630) huwde in Nederland met Hendrik Beekman. Hun zoon Willem (1623-1707) week met Peter Stuyvesant uit naar Nieuw Amsterdam (het latere New York) en de familie Beekman werd er één van de belangrijkste families. De Beekstreet, die Wallstreet kruist, is naar hen genoemd. Willem Beekmans kleindochter Cornelia Beekman (1693-1742) huwde met Gilbert Livingston, zoon van een voormalige Schotse minister. Gilberts achterkleinkind Judith Livingston (1785-1858) huwde met Samuel Herrick Butler. Hun kleindochter trouwde met Robert Emmet Sheldon (1845-1917) en hun dochter Flora Sheldon (1872-1920) huwde met Presscott Bush (1863-1948), de grootvader van president Bush Senior en de overgrootvader van George W.
     </p>
 </article>
 
 <article>
     <p>
-        <img src="/images/" alt="">
+        <img src="/images/olympische_spelen_1928.jpg" alt="Olympische Spelen 1928" class="image-size-10">
         <b>Brons voor epiek</b>
-        Aan de Olympische Spelen van 1928 in Amsterdam was ook een kunstwedstrijd verbonden. Indachtig de bedoeling van grondlegger Baron Pierre de Coubertin, voor wie sport en kunst een twee-eenheid vormden, waren er dus niet alleen gouden, zilveren en bronzen medailles te winnen voor boksen, kogelstoten, gewichtheffen, verspringen, zwemmen, schermen enzovoort, maar ook op de onderdelen architectuur, beeldhouwen, compositie, toneelstuk, roman en dergelijke. Om deze kunstwedstrijden goed te laten verlopen, werd er een speciale organisatie in het leven geroepen, onder voorzitterschap van de heer Baard, directeur van het Stedelijk Museum in Amsterdam. Op 12 juli 1928 werd in aanwezigheid van minister Waszink, van Onderwijs, Kunsten en Wetenschappen, en andere hoogwaardigheidsbekleders een tentoonstelling geopend die bestond uit 1150 kunstwerken, waaronder 450 architecturale modellen, tekeningen en foto’s, 255 beelden en 460 schilderijen, tekeningen en grafische werken, afkomstig uit 18 landen. De literatuurwedstrijd bestond uit 40 ‘deelnemers’ uit 10 landen, te weten 20 dichtwerken, 5 toneelstukken en 15 epische werken. In de categorie muziek waren er 22 inzendingen uit 9 landen: 5 vocale composities, 9 orkestrale en 8 voor één instrument. Op het onderdeel ‘epiek’ haalden <writer name="margoschartenantink" data-writer="margoschartenantink">Margo Scharten-Antink</writer> (Zutphen, 1869) en haar man Carel een eervolle bronzen plak met hun <cite>De nar uit de Maremmen</cite>. Goud was er voor de Nederlanders Jan Wils op het onderdeel ‘architectonisch ontwerp’ voor zijn ontwerp van het Olympisch Stadion in Amsterdam, en voor Isaäc Israels, op het onderdeel ‘schilderij’, voor ‘Ruiter met de rode jas’.
+        <br>
+        Aan de Olympische Spelen van 1928 in Amsterdam was ook een kunstwedstrijd verbonden. Indachtig de bedoeling van grondlegger Baron Pierre de Coubertin, voor wie sport en kunst een twee-eenheid vormden, waren er dus niet alleen gouden, zilveren en bronzen medailles te winnen voor boksen, kogelstoten, gewichtheffen, verspringen, zwemmen, schermen enzovoort, maar ook op de onderdelen architectuur, beeldhouwen, compositie, toneelstuk, roman en dergelijke. Om deze kunstwedstrijden goed te laten verlopen, werd er een speciale organisatie in het leven geroepen, onder voorzitterschap van de heer Baard, directeur van het Stedelijk Museum in Amsterdam. Op 12 juli 1928 werd in aanwezigheid van minister Waszink, van Onderwijs, Kunsten en Wetenschappen, en andere hoogwaardigheidsbekleders een tentoonstelling geopend die bestond uit 1150 kunstwerken, waaronder 450 architecturale modellen, tekeningen en foto’s, 255 beelden en 460 schilderijen, tekeningen en grafische werken, afkomstig uit 18 landen. De literatuurwedstrijd bestond uit 40 ‘deelnemers’ uit 10 landen, te weten 20 dichtwerken, 5 toneelstukken en 15 epische werken. <img src="/images/scharten_+_antink.gif" alt="Scharten & Antink" class="image-size-5"> In de categorie muziek waren er 22 inzendingen uit 9 landen: 5 vocale composities, 9 orkestrale en 8 voor één instrument. Op het onderdeel ‘epiek’ haalden <writer name="margoschartenantink" data-writer="margoschartenantink">Margo Scharten-Antink</writer> (Zutphen, 1869) en haar man Carel een eervolle bronzen plak met hun <cite>De nar uit de Maremmen</cite>. Goud was er voor de Nederlanders Jan Wils op het onderdeel ‘architectonisch ontwerp’ voor zijn ontwerp van het Olympisch Stadion in Amsterdam, en voor Isaäc Israels, op het onderdeel ‘schilderij’, voor ‘Ruiter met de rode jas’.
     </p>
 </article>
 
 <article>
     <p>
-        <img src="/images/" alt="">
+        <img src="/images/martin_bril.jpg" alt="Martin Bril" class="image-size-7">
         <writer name="martinbril" data-writer="martinbril">Martin Bril</writer>
         Op 16 maart 2006 was Volkskrant-columnist Martin Bril in Zutphen, op zoek naar sporen van <writer name="jcbloem" data-writer="jcbloem">J.C. Bloem</writer>. Bril: ‘Ik moest hieraan denken toen ik gisteren langs die voormalige rechtbank in de Hofstraat liep. Er schuin tegenover zag ik ineens het oude, verweerde uithangbord van wat een winkel in klokken, pendules en horloges zijn geweest. De zaak zelf was er al lang niet meer, maar de naam was aan de gevel nog goed te zien: Firma J.A. Nijland. Ik stelde me voor hoe Bloem wandelend naar zijn vreselijke werk vaak dralend bij Nijland in de etalage had staan kijken. Een man die het tijdloze nastreefde in zijn gedichten moet toch een zwak voor uurwerken hebben gehad, al was het maar omdat ze het zinloze zo subliem symboliseerden. Of ben ik nu niet meer te volgen?
         <br>
@@ -215,7 +218,7 @@ Wat leert ons zijne blijmoedigheid in zijn ongeluk?
 
 <article>
     <p>
-        <img src="/images/" alt="">
+        <img src="/images/librije.jpg" alt="Librije" class="image-size-8">
         <b>Librije</b>
         <br>
         De Zutphense Librije, gehuisvest in de Walburgkerk, is een van de drie nog bestaande kettingbibliotheken – de andere zijn in Cesena (Italië) en Hereford (Groot-Brittannië) – die op hun oorspronkelijke plaats worden bewaard. De bibliotheek werd in 1561 gesticht om de opmars van het protestantisme te stuiten. Wie wilde kon zo lang de kerk open was in de librije lezen of studeren. Op de lessenaars is plaats voor 300 boeken, de catalogus bevat ongeveer 750 titels. De collectie omvat uitgaven van kerkvaders, middeleeuwse bijbelcommentaren, verzamelingen heiligenlevens, diverse uitgaven van grote werken op het gebied van kerkelijk en wereldlijk recht, natuurkunde en geneeskunde. Ook de klassieke auteurs zijn vertegenwoordigd: Vergilius, Horatius, Homerus, Boëtius en historici als Herodotus en Flavius Josefus. In de collectie bevinden zich enkele handschriften en tachtig incunabelen of wiegedrukken: boeken die zijn gedrukt in de beginperiode van de boekdrukkunst, die loopt van 1450, toen Gutenberg de boekdrukkunst uitvond, tot 1500. De Librije speelt een voorname rol in <cite>Jaromir te Zutphen</cite> van de dichter <writer name="acwstaring" data-writer="acwstaring">A.C.W. Staring</writer> en in de novelle <cite>Een Italiaan in Zutphen</cite> van <writer name="hctenberge" data-writer="hctenberge">H.C. ten Berge</writer>.
@@ -224,7 +227,7 @@ Wat leert ons zijne blijmoedigheid in zijn ongeluk?
 
 <article>
     <p>
-        <img src="/images/" alt="">
+        <img src="/images/maerlanthandschrift.png" alt="Maerlanthandschrift" class="image-size-7">
         <b>Maerlanthandschrift</b>
         <br>
         Van rond 1340 dateert een handschrift dat bekend is komen te staan als het Zutphens-Groningse Maerlanthandschrift. Het telt 235 bladen en bevat een aantal gedichten van de Vlaamse dichter Jacob van Maerlant. Het langste stuk is de <cite>Rijmbijbel</cite>; verder zijn opgenomen een deel van de <cite>Spiegel historiael</cite> en de meeste van Maerlants ‘strofische gedichten’, zoals de ‘Drie Martijns’ en ‘Van den lande van overzee’. Enkele van deze gedichten zijn alleen bekend gebleven omdat ze in dit boek zijn opgenomen. Dit bijzondere handschrift is gedecoreerd met rijk versierde initialen, enkele miniaturen en een randversiering.
@@ -235,7 +238,7 @@ Wat leert ons zijne blijmoedigheid in zijn ongeluk?
 
 <article>
     <p>
-        <img src="/images/" alt="">
+        <img src="/images/maatschappelijk_nederlandsche_letterkunde.gif" alt="Maatschappelijk Nederlandsche Letterkunde" class="image-size-5">
         <b>Evangelie in plat Zutphens</b>
         <br>
         In de jaarvergadering van de Maatschappij der Nederlandsche Letterkunde van 1859 meldde bibliothecaris J. te Winkel tevreden dat de ‘Boek- en Zegelverzameling’ van de Maatschappij dankzij tal van schenkingen weer flink was gegroeid. Onder de leden die bedankt werden voor hun donatie bevond zich Ludolf Anne Frederik Hendrik baron van Heeckeren (Zutphen, 9 juli 1817 – 3 december 1889), en onder de 32 titels die Van Heeckeren had geschonken bevond zich het manuscript van een door hemzelf gemaakte vertaling van het ‘Evangelie van Johannes’ in… het plat Zutphens! De baron sprak in een begeleidend schrijven de hoop uit dat de Maatschappij ‘er eenig nut van moge trekken’. Het manuscript, te vinden in de collectie van de Universiteitsbibliotheek van Leiden, is nooit uitgegeven.
@@ -255,7 +258,7 @@ En de vader zei tegen ’m: kind! i bint altiid bi miin en al ’t mine is ’t 
 
 <article>
     <p>
-        <img src="/images/" alt="">
+        <img src="/images/ida_gerhardt_poezieprijs.gif" alt="Ida Gerhardt Poezieprijs" class="image-size-4">
         <b>Ida Gerhardt Poëzieprijs</b>
         <br>
         De naar <writer name="idagerhardt" data-writer="idagerhardt">Ida Gerhardt</writer> vernoemde poëzieprijs, in 1998 ingesteld door de gemeente Zutphen ter ere van de dichteres wier literaire nalatenschap zich bevindt in het Stadsarchief van Zutphen, wordt uitgereikt aan de dichter van de beste Nederlandstalige dichtbundel van de afgelopen twee jaar. De winnaar van de prijs ontvangt een geldbedrag van € 2.500. De prijs is achtereenvolgens toegekend aan: Kees ’t Hart (2000) voor de bundel <cite>Kinderen die leren lezen</cite>, Anneke Brassinga (2002) voor <cite>Verschiet</cite>, Lloyd Haft (2004) voor <cite>Psalmen</cite>, Astrid Lampe (2006) voor <cite>Spuit je ralkleur</cite>, Nachoem M. Wijnberg (2008) voor <cite>Liedjes</cite>, Alfred Schaffer (2010) voor <cite>Kooi</cite>, Henk van der Waal (2012) voor <cite>Zelf worden</cite>, Pieter Boskma (2014) voor <cite>Mensenhand</cite>, Peter Verhelst (2016) voor <cite>Wij totale vlam</cite>.
@@ -264,7 +267,7 @@ En de vader zei tegen ’m: kind! i bint altiid bi miin en al ’t mine is ’t 
 
 <article>
     <p>
-        <img src="/images/" alt="">
+        <img src="/images/een_kalme_ziel.jpg" alt="Een Kalme Ziel" class="image-size-12">
         <b>Kus des doods</b>
         <br>
         Jacob van den Hoorn Czn. (1823-1884) was al ‘geëxamineerd catechiseermeester en krankenbezoeker’ in Ridderkerk en Hattem geweest, voor hij – juni 1864 – naar Zutphen kwam. Daar preekte hij elke zondag tweemaal in de ‘klompenkerk’, de kerk van de Stichting Bethel. Deze stichting was twee jaar eerder opgericht om de lagere standen binnen de Hervormde Gemeente van Zutphen godsdienstig en zedelijk te vormen. Dat was nodig, want met het kerkbezoek in de Polsbroek, de wijk waar die lagere standen woonden, was het erbarmelijk gesteld.

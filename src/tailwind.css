@@ -3,47 +3,47 @@
 @import 'tailwindcss/utilities';
 
 @layer components {
-    .image-lines-3 {
-        height: 4.924rem;
-    }
+	.image-size-3 {
+		height: 4.924rem;
+	}
 
-    .image-lines-4 {
-        height: 6.899rem;
-    }
+	.image-size-4 {
+		height: 6.65rem;
+	}
 
-    .image-lines-5 {
-        height: 8.374rem;
-    }
+	.image-size-5 {
+		height: 8.374rem;
+	}
 
-    .image-lines-6 {
-        height: 10.098rem;
-    }
+	.image-size-6 {
+		height: 10.098rem;
+	}
 
-    .image-lines-7 {
-        height:11.823rem;   
-    }
+	.image-size-7 {
+		height: 11.823rem;
+	}
 
-    .image-lines-8 {
-        height: 13.547rem;
-    }
+	.image-size-8 {
+		height: 13.55rem;
+	}
 
-    .image-lines-9 {
-        height: 15.272rem;
-    }
+	.image-size-9 {
+		height: 15.272rem;
+	}
 
-    .image-lines-10 {
-        height: 16.997rem;
-    }
+	.image-size-10 {
+		height: 17rem;
+	}
 
-    .image-lines-11 {
-        height: 18.721rem;
-    }
+	.image-size-11 {
+		height: 18.721rem;
+	}
 
-    .image-lines-12 {
-        height: 20.446rem;
-    }
+	.image-size-12 {
+		height: 20.446rem;
+	}
 
-    .image-lines-13 {
-        height: 22.17rem;
-    }
+	.image-size-13 {
+		height: 22.17rem;
+	}
 }
