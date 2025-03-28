@@ -1,0 +1,93 @@
+@import './tailwind.css';
+
+:root {
+	--background-color: #eeebe5;
+	--text-color: #151515;
+	--font-size: 114%;
+	--line-height: 154%;
+}
+
+nav {
+	list-style: none;
+}
+
+body,
+#site-header {
+	background-color: var(--background-color);
+	color: var(--text-color);
+}
+
+main {
+	font-family: 'Sitka Text', 'Open Sans', 'Helvetica Neue', 'Segoe UI', Roboto, Ubuntu, sans-serif;
+	font-size: var(--font-size);
+	line-height: var(--line-height);
+}
+
+main a {
+	@apply text-blue-900;
+}
+
+main a:hover {
+	@apply underline;
+}
+
+main > h1:first-of-type {
+	@apply text-3xl;
+	@apply mt-12 mb-6;
+	@apply font-semibold;
+}
+
+main > article {
+	@apply break-words;
+	@apply flow-root;
+	@apply my-6 py-4;
+}
+
+main > article img {
+	@apply float-left;
+	@apply mr-2 mb-1;
+}
+
+main > article p + p,
+main > article blockquote + p {
+	@apply mt-3;
+}
+
+main > footer {
+	@apply mt-4 mb-8;
+}
+
+blockquote,
+pre {
+	@apply my-4;
+	@apply text-wrap;
+
+	&:last-child {
+		@apply mb-0;
+	}
+}
+
+blockquote {
+	@apply border-l-2;
+	@apply border-red-800;
+	@apply whitespace-pre-wrap;
+	@apply pl-3 py-1;
+
+	@apply italic;
+	line-height: 170%;
+}
+
+pre {
+	@apply font-mono italic;
+	font-size: 88%;
+}
+
+writer {
+	@apply inline;
+	@apply font-semibold;
+}
+
+.scroll-lock {
+	scrollbar-gutter: stable;
+	overflow: hidden;
+}

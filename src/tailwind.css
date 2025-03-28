@@ -1,0 +1,49 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@layer components {
+	.image-size-3 {
+		height: 4.924rem;
+	}
+
+	.image-size-4 {
+		height: 6.65rem;
+	}
+
+	.image-size-5 {
+		height: 8.374rem;
+	}
+
+	.image-size-6 {
+		height: 10.098rem;
+	}
+
+	.image-size-7 {
+		height: 12.036rem;
+	}
+
+	.image-size-8 {
+		height: 13.792rem;
+	}
+
+	.image-size-9 {
+		height: 15.547rem;
+	}
+
+	.image-size-10 {
+		height: 17.302rem;
+	}
+
+	.image-size-11 {
+		height: 18.721rem;
+	}
+
+	.image-size-12 {
+		height: 20.813rem;
+	}
+
+	.image-size-13 {
+		height: 22.17rem;
+	}
+}

@@ -1,0 +1,481 @@
+
+<h1>1700-1800</h1>
+
+<article>
+    <p>
+        <img src="/images/berendina_van_rensinck.jpg" alt="Berendina van Rensinck" class="image-size-6">
+        De dichteres <writer name="berendinavanrensinck" data-writer="berendinavanrensinck">Berendina van Rensinck</writer>, geboren in Zutphen en aldaar gedoopt op 13 februari 1704, was hard op weg een ouwe vrijster te worden, toen zij op haar 34ste alsnog trouwde. Dat deed zij met de Bennekomse predikant Henricus Hoffman, waarna zij naar Bennekom verhuisde. Ook na haar huwelijk bleef zij haar werk ondertekenen met haar meisjesnaam, zij het met de toevoeging ‘nu Hoffman’. Waarom zij Van Rensinck heet is mij trouwens een raadsel, want haar vaders naam was Lambertus van Rensen. Van haar gedichten zijn er zo weinig overgeleverd, dat ik ze maar allemaal noem.
+        <br>
+        Het vroegst bekende gedicht dateert van 1731. Het is een rouwzang op de dood van haar ‘ziel-vriendin’ Charlotta Amilia d’Outrein, dochter van de befaamde godgeleerde Johannes d’Outrein, die op 6 maart van dat jaar in Amsterdam overleden was. Een tweede rouwang stamt uit 1736 en geldt het overlijden van ‘den heere Laurentius le Brun getrou bedienaar van het h. euangelium in de gemeente te Zutphen’. In 1747 en 1750 schreef zij de als pamflet uitgegeven gedichten <cite>Op de aanstelling, van zyne vorstelyke en doorluchtige hoogheid den heere Willem Karel Henrik Friso, prinse van Oranje en Nassau […] tot stadhouder en Zegenwensch op den tweden verjaardag van zyne hoogvorstelyke doorluchtigheid, Willem den Vyfden, Prince van Oranje en Nassau</cite>. In 1756 publiceerde zij ‘Aan de welgebore jonkvrouw, Anna Lucretia van Zon; op de uitgave der digtwerken hares zusters Sara Maria van Zon’. Het werd opgenomen als zogeheten ‘drempelgedicht’ in het voorwerk van de <cite>Verzameling van stichtelijke gedichten</cite> van de een jaar tevoren overleden Utrechtse dichteres Sara Maria van Zon.
+        <br>
+        Naar aanleiding van het overlijden van haar man, in 1759, schreef zij een ‘Grafschrift op mynen Dierbaren Echtgenoot, den Wel Eerw. Heer Henricus Hoffman’, dat werd afgedrukt bij het overlijdensbericht in het tijdschrift <cite>Boekzaal</cite>:
+    </p>
+<blockquote>
+Hier rust mijn Echtgenoot, of liefst zijn overschot;
+    Hoe wordt mijn ziel vertroost door Hem omhoog te aanschouwen!
+Zijn heel oprechte geest en werk was trouw voor God:
+    Die Hem niet vrucht’loos deed als op een steengrond bouwen.
+Gereinigd door ’t geloof, bezield van ’s Heilands min,
+    Vloog Hij met alle spoed ten Starren Hemel in.
+</blockquote>
+    <p>
+        In 1764 verscheen het laatst bekende gedicht, een lofdicht op de eertijds bekende <cite>Stichtelyke gezangen</cite> van de predikant-dichter Rutger Schutte. Het werd gepubliceerd voorin het tweede deel van dit vierdelige werk. Berendina van Rensinck overleed op 24 mei 1780 in Tiel.
+    </p>
+</article>
+
+<article>
+    <p>
+        <img src="/images/godewardus_vrolikhert.png" alt="Godewardus Vrolikhert" class="image-size-6">
+        <writer name="godewardusvrolikhert" data-writer="godewardusvrolikhert">Godeward(us) Vrolikhert</writer> werd begin september 1716 geboren in Zutphen, waar zijn vader predikant was. Lang heeft hij er niet gewoond, want op zijn derde verhuisde het gezin naar Dordrecht. Vrolikhert studeerde godgeleerdheid in Utrecht en Leiden, waarna zijn verdere leven zich in Zeeland afspeelde. Hij was kort predikant in Oostkapelle en aanvaardde vervolgens, in 1740, een benoeming in Vlissingen. Daar vond hij de stof en de inspiratie voor zijn belangrijkste werk, de <cite>Vlissingsche Kerkhemel</cite>, of zoals de volledige titel luidt: <cite>Vlissingsche Kerkhemel, ofte Levensbeschr. van alle de Herv. Leeraren, die, sedert den afval van Spanjen in 1572, in de Ned. Kerke van Vliss. gearbeydt hebben, waar bij komen de lijsten van alle de Eng. en Walsche Leeraren dier stad; als ook der genen, die in alle de Zeeuwsche steden en te Dordrecht de Lat. tale onderwezen hebben</cite>. ‘Schoon de vorm aan de latere lezers ongewoon moge toeschijnen,’ heet het in een 19e-eeuws naslagwerk, is het ‘een geschrift van niet geringe historische waarde’. En bovendien van literaire waarde, voegen wij daaraan toe, omdat Vrolikhert regelmatig ‘de lier handteerde’.
+        <br>
+        Vrolikherts collega M. Smyttegelt beval het werk aan met het volgende vers:
+    </p>
+<pre>
+Neen, Jonker Kwikstaart neen, U dient dit boek gans niet;
+    Die al Uw tijd verkwist met in Romans te lezen
+En dapper draaft en slaaft, om een Roman te wezen
+    Waardoor ge een houding krijgt, dat ieder van U vliedt.
+
+’t Zijn andre Helden, die men hier den lezer biedt
+    Als wier gedrag en deugd bij U wordt hoog geprezen;
+’t Zijn Helden Gods, zowel die Vlissings kerk voor dezen
+    Beftuurden, als die Zij thans op Haar Kansel ziet.
+
+Weg met Uw vodderij van redeloze boeken!
+    Hier kan een vrome ziel zichzelve onderzoeken
+Hoeveel ze schiet tekort bij Leraars waard geacht.
+
+Ook ziet men hier de staat der Zeeuwse Scholen melden
+    En menigeen krijgt licht aangaande zijn Geslacht!
+Men plaatse Vrolikhert in ’t koor der Letterhelden.
+</pre>
+    <p>
+        Uit <cite>Vlissingsche Kerkhemel</cite> en dus afkomstig van de letterheld zelf zijn de volgende regels, die boven de poort van de Vlissingse Oostkerk waren uitgehouwen:
+    </p>
+<pre>
+Dus wort gelukkig uyt zyn asch dit Huys herboren
+    ’t Geen ongelukkig ging door ’t grimmig vuur verloren
+Zeestad, ’t nooyt u zy’ tot een verwyt voor God,
+    Dat ’t doorgaans ledig stont, der Wereld maar tot spot.
+Zeg nooyt tot ons, o God: dit Huys, ja de andere Huyzen,
+    Staan woest, als Silo; en tot woningen der struyzen.
+Dank hebb’ lievdadigheid, die zoo blymoedig schoot.
+    Uyt burgren schat, hetgeen vereyscht wiert in deez’ noot.
+</pre>
+</article>
+
+<article>
+    <p>
+        <img src="/images/hessel_vegelin_van_claerbergen-wapen.png" alt="Hessel Vegelin van Claerbergen" class="image-size-9">
+        <writer name="hesselvegelinvanclaerbergen" data-writer="hesselvegelinvanclaerbergen">Hessel Vegelin van Claerbergen</writer>, geboren in Joure op 3 oktober 1723, behoorde tot een oud Fries geslacht dat grietmannen en militairen voortbracht. Een van die militairen was een oom die als kolonel in Zutphen gelegerd was en bij wie Hessel een deel van zijn jeugd doorbracht.
+        <br>
+        Hij mislukte als student in Leiden, waarna hij de stad in 1743 ontvluchtte, maar schopte het desondanks tot lid van de Staten van Friesland en grietman van Hakerland.
+        <br>
+        Hoewel Hessel Vegelin van Claerbergen maar 26 werd – hij overleed op 12 juli 1750 in Ferwerd – liet hij zijn levensverhaal na in de vorm van een ruim 300 pagina’s tellend manuscript bevattend zijn autobiografie en dagboek. ‘Je ne scay quelle fantasie me prend de vouloir me mettre en idée d’écrire l’histoire de ma vie,’ noteert hij zoals het toen in zijn kringen hoorde in het Frans. ‘Ik weet niet welke fantasie me op het idee brengt om het verhaal van mijn leven willen te schrijven.’ In het eerste deel schrijft hij over zijn jeugd, het studentenleven met zijn ‘uitspattingen (‘débauches’), reizen die hij maakt, onder meer naar Keulen, zijn karaktereigenschappen, Friese bestuurlijke aangelegenheden, de Oranjebeweging en de internationale politiek. Het vervolg behelst voornamelijk een politiek dagboek over de periode 7 maart 1746 – 6 juni 1749. Het manuscript wordt bewaard in het Rijksarchief Friesland.
+    </p>
+</article>
+
+<article>
+    <p>
+        <img src="/images/matthias_theodorus_peypers.jpg" alt="Matthias Theodorus Peypers" class="image-size-9">
+        <writer name="matthiastheodoruspeypers" data-writer="matthiastheodoruspeypers">Matthias Theodorus Peypers</writer>, geboren 28 juli 1750 in Zutphen, was ‘koopman en trafykant’ in ‘verf-, droogery- en kruideniers-waren’ in Rotterdam. En dichten deed hij ook. In 1787 was hij mede-oprichter van de ‘antidotale’ sociëteit  de ‘Oprechte Vaderlandsche’. Ook behoorde hij tot het ‘gezelschap van beminnaaren der dichtkunde’ dat in 1788 een <cite>Gedenkzuil, opgericht ter gedachtenis van Neêrlands Heil en Oranjes Zegepraal</cite> uitgaf. Hiervoor riep men vaderlandse dichters op om verzen te schrijven ter gelegenheid ‘der geduchte en zegenrijke omwending in dit dierbaar Vaderland’. Aan de inzendingen werden prijzen verbonden. Peypers nam de taak op zich om voor die Gedenkzuil een berijmde ‘Opdracht’ te vervaardigen: ‘Aan Willem V en diens gemalinne, Mevrouw Fredrika Sophia Wilhelmina’. Deze opdracht werd op 8 maart 1783 toegezongen aan het vorstenpaar. De lexicograaf A.J. van der Aa schrijft in zijn <cite>Nieuw biographisch, anthologisch en critisch woordenboek van Nederlandsche dichters</cite> weinig vleiend over Peypers: ‘Daar wij de Opdracht, waarin het aan geene rijmklanken ontbreekt, alles behalve dichterlijk vinden, zullen wij er niets uit mede deelen.’ In een bericht in de krant, waarin de bundel werd aangeprezen, werd Peypers omschreven als ‘den oprechten Vaderlandlievend, Konst- en Dichtlievenden heer M.T. Peypers, Lid van verscheiden Genootschappen en Directeur van de Oprechte Vaderlandsche Sociëteit te Rotterdam’. Peypers overleed op 24 juni 1790 in Rotterdam.
+        <br>
+        In het zelfde jaar waarin de Gedenkzuil verscheen, 1788, deed Peypers ook van zich spreken met zijn bijdrage aan de ‘Decoratiën en illuminatiën’. Op de verjaardagen van Willem V en zijn gemalin werden de puien van het Sociëteitsgebouw en van de woningen der directeuren versierd met platen en verlichting. Peypers woonde aan het Haringvliet, zuidzijde, en zijn huis was het indrukwekkendst verlicht van allemaal. Onder de toeschouwers bevond zich Thomas Jefferson, de latere Amerikaanse president en op dat moment ambassadeur in Frankrijk, die er enthousiast verslag van deed aan zijn secretaris: ‘The illuminations were the most splendid I had ever seen and the roar of joy the most universal I had ever heard.’
+    </p>
+</article>
+
+<article>
+    <p>
+        <img src="/images/barend_fremery.jpg" alt="Barend Fremery" class="image-size-6">
+        <writer name="barendfremery" data-writer="barendfremery">Barend Fremery</writer>, geboren in Zutphen op 25 maart 1750, was lid van het Rotterdamse dichtgenootschap Studium Scientiarum Genetrix en maakte in 1785 een ‘dichtmatige vertaling’ van <cite>Romeo en Julia</cite>, maar dan niet die van Shakespeare maar die van de Duitse toneeldichter Felix Christian Weisze. ‘De vriendelijke lof’ die hem hierop ten deel viel, van ‘een gunstig Publiek, maer vooräl’ van ‘een aental Lezeressen (die immers tot de fijngevoeligste, en dus, over onderwerpen van dezen aert, bevoegdstöordeelende helft van het menschelijke geslacht behooren)’ gaven Fremery de moed zich ‘andermael op het gladde veld der wetenschappen’ te wagen en een bundel prozateksten, minnedichten en mengelverzen te publiceren onder de titel <cite>Mijne offeranden aan Apollo en Hymen</cite> (1786-1790). Het zijn ‘uitvloeisels van zijnen zangerigen geest’, verklaart Fremery in zijn woord vooraf, die hij nog had liggen (‘bejaerde Stukjes’). Hij stelt de lezers nieuw werk in het vooruitzicht, maar hij ‘merkt deze zijne eerste Voortbrengsels zinnebeeldig aen als zoo vele heuveltjes, welke hij over moet, om in de welige landouw te komen, waer hij voedselrijker en aengenamer Lettervruchten planten en plukken kan. En hij gevoelt eene huiverigheid, om anderen dichtkundigen arbeid (ten zij van geen belang) te ontginnen, voordat hij zich van deze Beuzelingen (Popjes zijner jeugd) ontdaen hebbe.’ Als voorbeeld volgen hier de eerste regels van Fremery’s dolverliefde lofzang:
+    </p>
+<pre>
+Op de voetjes van Galathé
+
+Wat speltge, o blonde Galathé!
+    Uw blanke Voetjes in de zee?
+Of woudtge, o Leven van mijn Leven!
+    Hun nog een’ rijker’ luister geven?
+’k Bezweer u, dierbre Zielsvriendin!
+    Begeertge mij, door ’t vuur der min,
+Niet gansch tot asch te zien verteren,
+    Wil dan hun schoonheid niet vermeeren;
+Ze is immers, dat het fikscht penseel
+    Niets zoo aenminnigs, niets zoo heerlijks,
+Zoo fraeis, zoo vleijends, zoo begeerlijks,
+    Zou schildren, mijn begaefde Bruid!
+’k Bid, Galatheetje, scheid dan uit,
+    Met dus in’t vochtig wed te weien,
+En in den vloed te spelemeijen,
+    Indienge mij gelooven wilt,
+Is ’t enkel moeite en tijd verspild,
+    En kan al ’t hene- en wederzwaeijen
+Uw lieve Voetjes niet verfraeijen,
+    Zelfs zuiverer dan ’t blionkend nat,
+Dat golvende om uw beentjes spat,
+    Is ’t immers noodloos hen te waschen
+In Nereus brakke waterplassen.
+    En zwicht voor hunne blanke kleur,
+Van alle kleuren de eerste keur,
+    Niet al, wat schilders en poëten
+Betoovrend, schoon en schittrend heten?
+</pre>
+    <p>
+        In 1788 leverde Fremery bijdragen aan de <cite>Gemengde dichtproeven van eenige letterlievende vrienden</cite> en tien jaar later verscheen van zijn hand nog <cite>Mijn letterhof</cite>; <cite>Eerste afperking</cite>. Fremery overleed op 2 februari 1811 op landgoed Steenvoorde onder Rijswijk.
+    </p>
+</article>
+
+<article>
+    <p>
+        <img src="/images/pieter_bondam.png" alt="Pieter Bondam" class="image-size-7">
+        Bij de Latijnse school waren veel geleerden werkzaam die als het zo uitkwam ook meer of min verdienstelijk de dichtkunst beoefenden. Dat gebeurde – het zal u niet verwonderen – dan meestal in het Latijn. Dit geldt ook voor <writer name="pieterbondam" data-writer="pieterbondam">Pieter Bondam</writer>, geboren 26 december 1727 in Kampen, die gedurende één jaar (1762) rector in Zutphen, en daarna hoogleraar rechten in Harderwijk en Utrecht was, waar hij op 6 februari 1800 zijn laatste adem uitblies. Bondam was de auteur van, naast een stroom aan droge wetenschappelijke publicaties, in dichtvorm uitgestorte bijdragen aan het ‘album amicorum’ van menig oud-studievrindje.
+    </p>
+</article>
+
+<article>
+    <p>
+        <img src="/images/hendrik_johan_arntzenius.jpg" alt="Hendrik Johan Arntzenius" class="image-size-8">
+        <writer name="hendrikjohanartzenius" data-writer="hendrikjohanartzenius">Hendrik Johan Arntzenius</writer> was niet alleen een ‘schrander criticus’, maar tevens een ‘sierlijk dichter’, althans als wij de heren J.C. Kobus en W.G.H. de Rivecourt, samenstellers van een <cite>Biographisch woordenboek van Nederland, bevattende de levensbeschrijvingen van personen, die zich in Nederland op het gebied van de kunst, wetenschap en letteren; uitvindingen, ontdekkingen en belangrijke daden hebben bekend gemaakt</cite>, dat in de jaren 1854-1861 in drie delen bij de Zutphense uitgever Van Someren verscheen, mogen geloven – en waarom zouden we dat niet mogen? Ze voegen eraan toe dat hij een ‘fijn oordeel’ en ‘vlug vernuft’ had. Arntzenius, op 20 april 1734 geboren in Nijmegen, was van 1763-1774 rector, professor en bibliothecaris aan de Latijnse school in Zutphen. Als dichter zijn van hem bewaard gebleven de <cite>Epithalamia Latine et Belgica; Huwelyks-zangen voor den heer Everwyn Drabbe, bibliothekaris der Friesche Hooge Schoole te Franeker, en jongkvrouwe Joanna Cornelia Vriemoet, in den echt vereenigt den XXIsten van Lente-maand des jaars 1756</cite>. Jawel, gelegenheidsverzen dus. (Als u lust hebt ze te lezen, kunt u terecht bij de Koninklijke Bibliotheek in Den Haag.) Arntzenius overleed op 7 april 1797 in Utrecht, waar hij in 1788 hoogleraar Romeins recht en vaderlands recht was geworden.
+    </p>
+</article>
+
+<article>
+    <p>
+        <img src="/images/johan_willem_simon_van_haersolte.jpg" alt="Johan Willem Simon van Haersolte" class="image-size-11">
+        <writer name="johanwillemsimonvanhaersolte" data-writer="johanwillemsimonvanhaersolte">Johan Willem Simon van Haersolte</writer>, op 16 februari 1764 geboren in Zutphen als zoon van Coenraad Willem van Haersolte, lid van de Ridderschap van de Veluwe, en Luthera Anna Agatha van der Capellen, had om zo te zeggen al een heel leven achter zich toen hij op zijn 31ste in het huwelijk trad. Als luitenant bij de marine overleefde hij in 1783 een schipbreuk bij Boston om na terugkeer kapitein in het leger te worden. In 1787 nam hij als patriot de benen naar Frankrijk. Hij bleef daar tot 1793 en kon zijn geluk niet op toen de Fransen in 1795 naar Nederland kwamen en de Bataafsche Republiek werd uitgeroepen. Midden in het feestgedruis werd hij verliefd op de elf jaar jongere Anna Theresia Jacoba Bangeman en binnen vier maanden waren zij getrouwd.
+        <br>
+        Heel lang duurde de pret niet. Van Haersolte bekleedde tal van openbare functies – zo was hij onder meer burgemeester van Arnhem, lid van de eerste Nationale Vergadering en lid van de Nationale Rekenkamer – maar verkeerd uitgevallen beleggingen en een geldverslindend levenspatroon brachten hem aan de bedelstaf, en toen in 1810 zijn schuldeisers hem dreigden te laten arresteren, vluchtte hij naar Duitsland, met achterlating van vrouw en vijf kinderen. Na vier jaar keerde hij terug. Hij woonde onder zeer kommervolle omstandigheden in Maastricht, waar hij op 1 juli 1817, op 53-jarige leeftijd, overleed.
+        <br>
+        Toen hij zijn dood voelde naderen, schreef hij zijn autobiografie over de jaren 1801-1810, getiteld <cite>Verslag van een verslechterend huwelijksleven en benarde financiële situatie; overpeinzingen, merendeels in dichtvorm, over het verdwijnen van het huiselijk geluk</cite>.
+        <br>
+        Het is een aaneenschakeling van ellende, van kwaad tot erger. De eerste aantekening, van mei 1801, zet meteen de toon:
+    </p>
+<blockquote>
+Zeedert anderhalf jaar verkoelt in myn opzigt, in alles een zeer groote onverschilligheid, ja afkeer getoond, ik van myn kant tot op dit oogenblik aan haar in alles toegegeeven, haar in gevolgt, alles gedaan wat haar plaisier kon doen, ofschoon ik er in myn hart tegens was, alles toegestemd en gedaan, omtrent onse finantien en contanten, en effecten, wat haar behaagde, al was het volmaakt tegens myn begrip, de beheering van alles, zo van geld, als anders, aan haar overgelaten; de domestiquen geheel onder haar gelaten, ofschoon zy mij dikwerf brutaal hebben bejegent, het geen in geduldig verdragen heb, zonder dat het ooit door haar berispt is geworden; wij zyn overal in de groote wereld verscheenen, tegens myn zin, begrypende dat zulks onse zaak niet was, als veel geld aan kleederen, opschik en koetzen kostende, en ik er altyd een vyand van geweest ben, en nog was, om dat jonge vrouwen, en gelukkige echtgenoten, daar niets zagen, dat hyn huisselyk geluk kon vergrooten, maar wel kwaade voorbeelden, zo van mannen als vrouwen, dat hun naderhand ongelukkig maakte, juist het geen ik zogt te vermyden, tot ons eigen geluk, als dat alles door ondervind te wel kennende […]
+</blockquote>
+    <p>
+        Enzovoort.
+        <br>
+        Zoals zo vaak verdween deze autobiografie tussen de familiepapieren, maar in 2000 bezorgde Maria Leonie Hansen er een uitgave van onder de titel <cite>Verloren huiselijk geluk. Gedichten en overpeinzingen van Johan Willem Simon van Haersolte, 1795-1817</cite> (Overijsselse handschriften 8). Dankzij Hansen is er inmiddels een aardig Van Haersolte-biliotheekje beschikbaar. In 2005 verscheen van haar hand de biografie <cite>Akelige tijden : Johan Willem Simon baron van Haersolte en zijn nazaten 1764-1901</cite> en in 2009 bezorgde zij de uitgave van Van Haersoltes <cite>Een allerdroevigst treurtoneel : een mislukte reis naar Noord-Amerika</cite>, 1783.
+    </p>
+</article>
+
+<article>
+    <p>
+        <img src="/images/adam_leonard_kaldenbach.jpg" alt="A.L. (Adam Leonard) Kaldenbach" class="image-size-8">
+        <writer name="adamleonardkaldenbach" data-writer="adamleonardkaldenbach">A.L. (Adam Leonard) Kaldenbach</writer>, gedoopt 6 januari 1767 in Zutphen, waar zijn vader, J.A. Kaldenbach, die de titelplaten voor Martinets <cite>Katechismus</cite> (zie verderop) tekende, rector van de Latijnse school was. Adam Leonard werd zelf conrector in Hoorn en vervolgens rector in Breda, waar hij op 25 november 1830 overleed. Hij beoefende zowel de Latijnse als de Nederlandse dichtkunst en schreef: <cite>Het hoogste goed</cite> (1791), <cite>De vruchten mijner eenzaamheid</cite> (1798), <cite>Godsdienstige gezangen, romance</cite> (1800) en een <cite>Lierzang den vorst en het vaderland toegewijd</cite> (1814). In Zutphen debuteerde hij op zijn tweeëntwintigste met de bundel <cite>Mijne ledige uuren</cite> (1789). Aangezien hij van plan was in zijn leven nog veel ledige uren door te brengen afficheerde hij de bundel meteen maar als <cite>Eerste deel</cite>. De bundel bevat overigens tevens werk van de bevriende dichter <writer name="wvonk" data-writer="wvonk">W. Vonk</writer>, aan wie Kaldenbach ruimhartig 110 van de 250 pagina’s heeft afgestaan. Over deze Vonk ben ik helaas niets meer te weten gekomen dan wat Kaldenbach in zijn voorwoord over hem meedeelt, namelijk dat hij al zijn hele leven blind was, maar ‘door een gunstige verandering’ goede hoop had over niet al te lange tijd zijn gezichtsvermogen volledig terug te krijgen. Vonk nam, net als Kaldenbach, vol jongensachtige bravoure een voorschot op de toekomst door in zijn debuut meteen maar de titels van zijn achttien (!) volgende, nog te schrijven werken te noemen.
+        <br>
+        Kaldenbach besluit zijn voorwoord met de hoop uit te spreken dat ‘dit eerste Deel van myne Landgenooten gunstiglyk ontvangen worde’. Die hoop bleek ijdel. Het tijdschrift <cite>De Recensent</cite> noemde de bundel van het duo weinig genadiglijk een ‘misgeboorte’. Hierdoor ontmoedigd of niet, Kaldenbachs belofte dat nog dat jaar ‘het tweede of laatste Deel van Myne Ledige Uuren het licht zulle zien’, is hij niet meer nagekomen, zoals ook de achttien volgende boeken van vriend Vonk nooit tot ons zijn gekomen.
+        <br>
+        Om een indruk te krijgen van Kaldenbachs dichterlijke kwaliteiten volgt hier zijn ‘Minneklacht aan Margaretha’:
+    </p>
+<pre>
+Margaretha! Godsgezinde!
+    Pronkjuweel der frisse jeugd!
+Margeretha, mijn beminde!
+    Rijk in schoonheid, rijk in deugd!
+Hoe zou ik uw gaven loven?
+    U verheffen naar waardij?
+Ach gij klimt ’t bereik te boven
+    Van mijn lage poëzij!
+’k Zag U, en ik moest u minnen,
+    ’k Zag U nauw voor d’eerste maal!
+Of gij boog mijn ziel en zinnen
+    Voor u neer in zegepraal.
+Ja gij boog ze door ’t vermogen
+    Van het lieflijk flonk’rend licht
+Uwer zielbetov’rende ogen.
+    Licht! dat kuise stammen sticht;
+Licht! dat glans bij glans ontluistert;
+    Licht! waarin ik alles vind;
+Licht! dat hart en zinnen kluistert,
+    En met liefdekoorden bindt.
+Spaart, o Schone! uw maagdenlonken;
+    Sterrenboogjes, licht niet meer!
+Strooi niet langer liefdevonken!
+    Ach! z’ ontvlammen ’t hart te zeer.
+Staak, ai staak uw lieflijk staren!
+    Want uw staren kan in ’t hart
+Telkens nieuwe wonden baren
+    Tot vermeerd’ring van mijn smart.
+Maar zou ik die ogen vrezen
+    Waar ik deugd bij deugd in vond?
+Waar ik kuisheid in kan lezen,
+    Die gekuiste zielen wondt?
+Dan – helaas! – ik voel mij beven,
+    Daar mij ’t minnend hart ontdekt,
+Dat ik sterven kan noch leven,
+    Sinds g’ uw glans mijn oog onttrekt.
+’t Was mijn lot – wie kon hier tegen? -,
+    ’t Is mijn lot dat ik verkwijn!
+Ach wie kan mijn rampen wegen!
+    Ach wie peilt mijn liefdespijn!
+Kleed mij Flora! d’aard met bloemen
+    Nu het zonlicht koest’rend schijnt;
+’k Moet uw schoon een winter noemen,
+    Daar mijn ziel in ’t eenzaam kwijnt.
+Zuchtend moest ik u begeven,
+    En hier nam mijn heil een keer.
+’k Zie o leven van mijn leven!
+    Nooit een Margaretha weer.
+Ach! dat woord ontroert mijn zinnen;
+    Zou zij eeuwig ’t oog ontvlien?
+Zou ik haar zo teer beminnen
+    En op aard’ niet wederzien?
+Dan – gij zweeft in mijn gedachten,
+    Waar mij ’t wiss’lend lot ook leid’;
+’k Schrei naar U bij donk’re nachten!
+    ’k Zucht om U in d’eenzaamheid!
+Ja! – o Bloem der maagdenloten!
+    ’t Zielenstrelend honingzoet,
+Toen mijn oog U zag, genoten,
+    Blijft gehecht in ’t teer gemoed.
+Ja! – geen ramp, noch ongelukken,
+    Tijd, noch nijd, noch wreed geval,
+Zullen mij uw beeld ontrukken,
+    Dat mij troost in ’t tranendal.
+Margaretha, Godsgezinde!
+    Voorbeeld van gekieste deugd!
+Eeuwig blijft gij mijn beminde!
+    Eeuwig al mijn wereldvreugd!
+Nimmer zal ik u begeven;
+    Nee! – mijn hoop in kruis en rouw!
+In wat oord g’ omlaag moogt zweven,
+    ’t Hart blijft aan uw hart getrouw.
+Eer zal mij de Dood verslinden,
+    Eer uw beeld mijn ziel ontwijk’;
+’t Zal met mij ten Hemel zwinden –
+    Zweven boven ’t Sterrenrijk.
+</pre>
+    <p>
+        Kaldenbach bezweert overigens in zijn voorwoord dat de bezongen dame niet uit de dichterlijke duim gezogen was, maar echt bestond.
+    </p>
+</article>
+
+<article>
+    <p>
+        –<writer name="petrusdegrientdreux" data-writer="petrusdegrientdreux">Petrus de Grient Dreux</writer>, geboren 1746 in Rotterdam, werd in 1771 rector in Zutphen, waar hij op 13 november 1813 overleed. Als vrijetijdsdichter tekende hij voor een bundel <cite>Dichterlijke schakeringen</cite>.
+    </p>
+</article>
+
+<article>
+    <p>
+        <img src="/images/frederik_van_pallandt_van_keppel.jpg" alt="Frederik Willem Floris Theodorus baron van Pallandt van Keppel" class="image-size-9">
+        Dat <writer name="frederikwillemfloristheodorusbaronvanpallandtvankeppel" data-writer="frederikwillemfloristheodorusbaronvanpallandtvankeppel">Frederik Willem Floris Theodorus baron van Pallandt van Keppel</writer>, op 21 september 1772 geboren in Zutphen, in Leiden rechten studeerde en in 1793 promoveerde op niet minder dan 225 stellingen; dat hij datzelfde jaar nog werd benoemd tot burgemeester van Doetinchem en tot buitengewoon lid van de Staten-Generaal; dat hij een jaar later lid werd van de Ridderschap van het Graafschap Zutphen; en dat hij een aanzienlijk en invloedrijk man was in het maatschappelijke leven van zijn tijd, dat zult u vast onmiddellijk willen geloven. En zoniet, dan kunt u het op allerlei plaatsen nalezen. Dat daarnaast de dichtkunst in hem ‘een ijverigen beoefenaar’ vond, is een ander verhaal. Op gezag van het al eerder genoemde biographische woordenboek van de heren J.C. Kobus en W.G.H. de Rivecourt moeten we het aannemen, maar bevestigd zag ik het nergens, en het feit dat ‘er nooit eenige zijner verzen het licht zagen’, helpt in dat op zicht niet. Goed, bij deze heeft de baron, die op 14 februari 1853 in Den Haag overleed, dan toch zijn plekje in de rijen der dichters.
+    </p>
+</article>
+
+<article>
+    <p>
+        <img src="/images/johannes_florentius_martinet.gif" alt="Johannes Florentius Martinet" class="image-size-11">
+        De theoloog, natuurkundige en pedagoog <writer name="johannesflorentiusmartinet" data-writer="johannesflorentiusmartinet">Johannes Florentius Martinet</writer> (Deurne, 12 juli 1729 – Amsterdam, 4 augustus 1795) werd in 1775 predikant in Zutphen. Hij schreef er zijn beroemde 4-delige <cite>Katechismus der natuur</cite> (1777-1779), die hem tot een van de meest gelezen schrijvers van de 18e eeuw maakte. Dit werk, naar voorbeeld van Diderot en andere Verlichtingsschrijvers gegoten in een literaire dialoogvorm, bevat ‘zamenspraaken’ tussen een leermeester en een leerling op hun wandelingen in en om Zutphen, waarin de schepping wordt behandeld. God, aldus Martinet, leerde men het best kennen door Zijn werk, de natuur, te bestuderen. In 22 dialogen, verdeeld over evenzovele wandelingen, kwam alles aan bod: het heelal, zeeën en rivieren, het menselijk lichaam, planten, vogels, schelpen, vissen, bomen en bossen enzovoort. Martinets bewondering voor de wereld was tegelijkertijd bewondering voor de almacht van God die een ideaal masterplan had weten te ontwerpen, waarin elk dier zijn nut had. Zo waren de luizen geschapen om ervoor te zorgen dat ook luie en onhygiënische mensen zich wassen en verzorgen.
+        <br>
+        De eerste oplage bedroeg 1100 exemplaren, maar binnen een jaar waren er van het eerste deel al 6000 exemplaren verkocht. Het boek was zo populair, dat men ‘het schande [achtte], denzelven niet gelezen te hebben’. Er verschenen vertalingen in het Duits, Frans, Engels en Maleis – ja, er werd zelfs een Japanse vertaling gemaakt.
+        <br>
+        <img src="/images/johannes_florentius_martinet-katechismus.jpg" alt="Kleine katechismus der natuur voor kinderen" class="image-size-10">
+        Twee jaar later volgde nog een <cite>Kleine katechismus der natuur voor kinderen</cite> (1779), die zo mogelijk nog populairder werd en ook in de Verenigde Staten (<cite>The Catechism of Nature, for the Use of Children</cite>) gretig aftrek vond. Die kindereditie strookte geheel met de tijdgeest. Een jaar na de Katechismus verschenen bijvoorbeeld de eerste kindergedichten in Nederland: de <cite>Proeve van kleine gedigten voor kinderen</cite> van Hieronymus van Alphen. Samen met de Arnhemse dominee-dichter Ahasverus van den Berg gaf Martinet vanaf 1781 een serie kleine boekjes voor kinderen uit, <cite>Geschenk voor de jeugd</cite>, die als een voorloper van het kindertijdschrift kan worden beschouwd.
+        <br>
+        De <i>Katechismus</i> stimuleerde de belangstelling voor de natuur bij schrijvers en dichters als Elisabeth Maria Post en Rhijnvis Feith. Zo laat Post in de briefroman Het land (1788), haar hoofdpersoon Emilia gewapend met een exemplaar van ‘Martinet’ de natuur intrekken. In 1860 maakte de nonsensdichter Gerrit van der Linde in zijn beroemde <cite>De gedichten van den Schoolmeester</cite> tot driemaal toe melding van Martinet. In ‘De kat’ heet het:
+    </p>
+<blockquote>
+Een kat zijn éénig gebrek
+Bestaat, volgens Martinet, in een ongeneeslijken trek
+Naar zoetemelk en naar spek.
+</blockquote>
+    <p>
+        In <cite>De oude strijd om het bestaan</cite> (1924), een Zutphense roman van de schrijfster L.E. (zie verderop), komt Martinet voor als romanpersonage: ‘Er was geen geziener man in Zutphen dan Ds Johannes Florentius Martinet.’ Ook in H.C. ten Berges novelle <cite>Een Italiaan in Zutphen</cite> komt Martinet ter sprake:
+    </p>
+<blockquote>
+‘Tussen haakjes, zegt de naam Johannes Florentius Martinet jou iets?’
+‘Ja, wacht eens even. Natuurlijk zegt die mij iets. Hij is de filosoof die in dat koepeltje hier aan de IJssel heeft gewerkt. Ik heb eens iets van hem gelezen, de Katechismus der Natuur. Daarin stonden geprezen tussen een meester en zijn leerling opgetekend. Ik vond het een vervelende titel voor een werk van uitmuntend gehalte. Hij wist ongelooflijk veel van kruiden, planten, bloemen, noem maar op. Een man van de Verlichting, die Martinet, en ook een onbekrompen dominee als ik me niet vergis. Geloofde in de vooruitgang, de heilzame kracht van een gedegen opvoeding en zo. Dat deden vele van zijn tijdgenoten. Hij werd druk gelezen, overal verschenen vertalingen van zijn werk. In Frankrijk en Engeland is hij tamelijk populair geweest. Iemand vertelde me dat er zelfs een Japanse versie van zijn Katechismus bestaat. Nogal uitzonderlijk in de achttiende eeuw. Maar hij is nu toch wel vergeten, geloof ik. Waarom vraag je me naar die man?’
+</blockquote>
+    <p>
+        <img src="/images/martinet-boergonjetoren.jpg" alt="Huis van Martinet" class="image-size-7">
+        Martinet woonde in de Waterstraat (op nr. 881, later omgenummerd tot 29) en bezat daarnaast een buitenverblijf aan de overkant van de IJssel: huize ‘De Bruinvisch’. Hij schreef zijn Katechismus in de koepel op de Boergonjetoren, die daardoor ook bekend is als Martinetstoren. In 1888 werd een gedenksteen op Martinets huis aan de Waterstraat aangebracht. Het huis bestaat niet meer. Na de sloop verhuisde de gedenksteen naar de kelder van het Stedelijk Museum. De naam Martinet is in Zutphen bekend gebleven dankzij de Martinetsingel en de Martinetschool.
+    </p>
+</article>
+
+<article>
+    <p>
+        <img src="/images/harmen_thieden_ament.jpg" alt="Harmen Thieden Ament" class="image-size-11">
+        Omdat hij zijn zoon wilde laten opleiden tot de geestelijke stand verhuisde Michiel Ament in 1781 met zoon <writer name="harmenthiedenament" data-writer="harmenthiedenament">Harmen Thieden Ament</writer>, geboren in Amsterdam op 1 december 1768, naar Zutphen, vanwege de faam van de Latijnse school aldaar. Harmen genoot er ‘een genoeglijk leven en uitmuntend onderwijs’, maar bleek niet in de wieg te zijn gelegd om geestelijke te worden. ‘Door mijn karakter als vurig, driftig en ondernemend,’ schreef hij later, ‘wierd ik dikwils ingewikkeld in zodanige historien, welke men gemeenlijk met de naam van kattekwaad bestempeld en welke onder een massa van ruim 80 jongelieden van 14 tot 18 jaren, en welke met een ruime hand worden opgevoed, zoo veel voedzel vinden; daar bij vermeerderde de onlusten en daar door verminderde bij mij de lust tot studie…’ Liever werd hij militair, maar daarvoor ‘wilde mijn vader geen toestemming geven’. Wat dan? Ze werden het eens over apotheker.
+        
+        In 1783 kwam Harmen als leerling in huis en in de leer bij de apotheker G.J. Harmsen. Vader Michiel keerde met een gerust hart terug naar Amsterdam: wat kon er mis gaan met een apotheker! Harmsen was behalve ‘een alderbraafst godsdienstig man’ echter een vurig patriot en ‘tegenstander van alle overheersching’. Zijn pupil raakte al snel besmet door zijn denkbeelden en toen Nederland werd opgeroepen zich tegen de keizer van Oostenrijk te verzetten, pakte ook hij, 17 jaar oud, ‘door mijn patroon den heer Harmsen aangemoedigd’, de wapens op. Hij sloot zich aan bij de ‘kompagnie, staande onder commando van den baron van der Capellen tot Rijselt’.
+        
+        Toen Herman Thieden Ament op zijn oude dag zijn levensverhaal opschreef – hij was inderdaad apotheker geworden en vervolgens notaris en belastingontvanger – ruimde hij daarin de meeste pagina’s in voor zijn tijd onder de wapenen in de jaren 1786 en 1787. Ament overleed op 5 februari 1839 in Sneek. Pas in 1927 werd zijn verhaal, al die tijd bewaard in het familiearchief,  gepubliceerd onder de titel <cite>Herinneringen van den patriot H.T. Ament</cite>. Een Zutphens fragment – ‘burgemeester Zuideras’ is  August Robbert van Heeckeren (1743-1811), heer van Suideras :
+    </p>
+<blockquote>
+De gemoederen der Oranje- en tegengezinden wierden langs hoe meer tegen elkander verbitterd, waar toe het gedrag der regering het zijne mede bijbragt, zoo dat dikwils tusschen partijen klop- en vegt partijen plaats greepen en meestal de Oranje gezinden in het gelijk wierden gesteld, waar door dan ook de onderlinge wrevel en zelfs vijandelijke handelingen en oogmerken zich tusschen burgers en burgers vermeerderde. In een van zodanige vegtpartijen, waarin ik mede wierd ingewikkeld, ontving ik rijkelijk mijn deel, maar uit het gevegt ontkomende had ik over mijn hoofd een blauwe zogenaamde ruitermantel waarin armgaten zonder mouwen; ik kwam daar mede te huis en vernam aldaar dat dezelve was toebehorende aan onze naaste buurman de silversmid Zandbergen, een onberedeneerde voorstander van Oranje. Des anderdaags kreeg ik een bode om te elf uur op het stadshuis te komen, daar vond ik den burgemeester Zuideras en de silversmid Zandbergen; de 1e vroeg mij of ik ook een manteljas had welke Zandbergen toebehoorde. Mijn antwoord was, dat ik wel een manteljas had maar niet wist wie dezelve toebehoorde en niet anders verlangde dan dezelve weder aan de regte eigenaar te doen geworden. Toen moest ik verhalen hoe ik aan dezelve gekomen was, het welk gedaan hebbende, wierd Zandbergen gevraagd of zulks overeenkomstig de waarheid was; dan die wist door logens de zaak zodanig te verdrayen dat burgemeester, na mij vrij wat over de hekel gehaald te hebben, last gaf mij voor 3 dagen op water en brood te zetten. Ik protesteerde tegen die uitspraak en vorderde dat men de zaak de gewone weg van justitie zoude laten gaan en vroeg wie mijn aanklager was, Zandbergen of de burgemeester; dat zoo de eerste zulks was, dat er dan een regtbank bestond, waar voor hij mij konde roepen, en zoo de 2e zulks was, dat geen aanklager te gelijk regter konde zijn en ik in dat geval protesteerde van geweld. Burgemeester wierd vrij wat zachter, zoo zelf dat het met de terug gaaf der manteljas, welke Zandbergen moest laten te rug halen, afliep; ik spoede mij naar huis en, ten einde de manteljas een volgend zodanig geval te kunnen herkennen, besprenkelde ik dezelve met een veer met sterkwater, waar na Zandbergen dezelve liet halen, maar ik heb hem dezelve nimmer weer zien omtrekken.
+</blockquote>
+</article>
+
+<article>
+    <p>
+        Over <writer name="jandavidwolterbeek" data-writer="jandavidwolterbeek">Jan David Wolterbeek</writer> is weinig meer bekend dan dat hij uit een predikantenfamilie stamde maar zelf geen predikant was, dat hij in zijn jonge jaren een bandeloos, ontuchtig leven leidde en dat hij zijn berouw daarover uitstortte in een bundel <cite>Stichtelijke gedichten en gezangen</cite>, die in twee delen in 1783 en 1786 in Zutphen het licht zag. Boetedoening door het schrijven van lofzangen aan het Opperwezen!
+    </p>
+<pre>
+Verhef, mijn ziel! uw klanken;
+    Ge ontmoet hier juichensstof:
+Het past u God te danken:
+    Vermeld zijne eer en lof.
+o Heerlijk Opperwezen!
+    Wat zijt gij mild en goed!
+Wie, wie zou u niet vreezen,
+    Die ’t alles draagt en voedt?
+</pre>
+    <p>
+        In een voorwoord legt Wolterbeek uit hoe het zat: ‘in de dagen zijner blindheid’ had hij ‘het edele dichtvermogen misbruikt’ en aangewend ‘tot oneer’ van zijn ‘Schepper en Weldoener’. Hij heeft het over ‘de vuile tochten van dezen en die’ die hij heeft ‘gaande gemaakt’. Hij was al lang van plan geweest zijn boetgedichten uit te geven, maar was in dit streven ‘telkens wederhouden’ door zijn ‘zeer geringe vordering in de taalkunde’. Maar omdat ‘het getal der rechte kenners van poëzij zeer gering is’, besloot hij, ‘hoewel nog aarzelende en schoorvoetende,’ dan toch maar tot publicatie over te gaan, in de hoop de lezers ‘daarmede te stichten’ en in één moeite door ‘de zonden en ongeregtigheden zijner jeugd te doen vergeten, voor zoo ver hun die bekend waren’.
+        <br>
+        Zijn zoon Constantijn Johan, die het tot de rang van vice-admiraal schopte, was in 1766 geboren in Steenderen en was eigenaar van het onder Steenderen gelegen huis Bronkhorst.
+    </p>
+</article>
+
+<article>
+    <p>
+        <img src="/images/jan_hendrik_reisig.jpg" alt="Jan Hendrik Reisig" class="image-size-7">
+        <writer name="janhendrikreisig" data-writer="janhendrikreisig">J.H. (Jan Hendrik) Reisig</writer>, gedoopt op 3 juli 1749 in Amsterdam, was Luthers predikant. Hij woonde omstreeks 1786 in Zutphen, waar hij een prozavertaling van de eerste drie zangen van Milton’s <cite>Paradise Lost</cite> publiceerde: <cite>Milton’s Verlooren Paradijs</cite> (Zutphen 1791). In 1789 gaf hij ‘een bundeltje niet onbevallige dichtstukjes in het licht; doch niet belangrijk genoeg om hem eenigen naam te verwerven’. De titel van dit ‘bundeltje’, waarmee hij zich een patriot en een navolger van Rhijnvis Feith betoonde, was: <cite>Gedichten en Vertaaling</cite>.
+        <br>
+        Als proeve een strofe uit ‘Het graf’:
+    </p>
+<pre>
+Dáár ligt hij, die, door kruis en plagen,
+    Tot in het slot der levensdagen,
+Een speelbal van het noodlot was;
+    Doch ook, na lang en pijnlijk zwerven,
+Gevoelde hoe, bij ’t badrend sterven,
+    Eén troost zijn bloedend hart genas.
+Hoe rustig slaapt hij in dees dalen,
+    Waar niets zijn zachte sluimring stoort,
+Dan, als het stof zal zegepralen,
+    En de englenstem de zerk doorboort.
+</pre>
+    <p>
+        Later werd Reisig hoofdredacteur van de <cite>Schoonhovensche Courant</cite>. Hij overleed in Schoonhoven januari 1794.
+    </p>
+</article>
+
+<article>
+    <p>
+        <img src="/images/gerardus_wilhelmus_boot.jpg" alt="Gerardus Wilhelmus Boot" class="image-size-7">
+        <writer name="gerarduswilhelmusboot" data-writer="gerarduswilhelmusboot">Gerardus Wilhelmus Boot</writer>, geboren 21 mei 1763 in Leur, was praeceptor aan de Latijnse school en beoefende ‘voor eigen genoegen de Nederlandse dichtkunst, waarvan hij nu en dan een proeve aan een of ander tijdschrift ter plaatsing afstond, doorgaans alleen met zijn initialen onderteekend’. Meestal waren zijn gedichten ‘van luimigen aard’ en ‘schertsend’. Zo niet echter het in zijn nagelaten papieren aangetroffen, aandoenlijke vers ‘Bij de terugkomst van de begrafenis mijner dochter’, dat is gewijd aan de dood, op 22-jarige leeftijd, van zijn dochter Maria. De beginstrofes volgen hier:
+    </p>
+<pre>
+Zoo vergezelde ik dan met waggelende schreden,
+    Mijn lieve Mietje! uw lijk; en keer weemoedig weêr.
+’k Wensch U vergeefs terug…. hier geldt noch wensch noch beden;
+    Uw zacht, aanvallig oog ontmoet mijn oog nooit meer….
+
+Gekeerd tot mijn gezin, treft mij de klagt uws moeders;
+    Zij mist haar trouwe hulp, haar liev’ling aan haar zij’;
+Mij treft uws zusters rouw, ’t geschrei van uwe broeders,
+    Elk slaat uw dood ter neêr, en elk mist veel daar bij.
+
+Wij zien uw’ zitplaats leêg – Wij zien, den knop der bloemen,
+    Door uwe zorg gekweekt, zich op’nen na uw dood;
+Uw roosje, uw’ angelier, waarop we U hoorden roemen,
+    Zijn nog in bloei, nu gij reeds slaapt in ’s aardrijks schoot.
+</pre>
+    <p>
+        Boot zelf stierf op 6 september 1832 in Gorcum.
+    </p>
+</article>
+
+<article>
+    <p>
+        <img src="/images/wilhelm_broes.jpg" alt="Wilhelm Broes" class="image-size-7">
+        De hervormde predikant <writer name="wilhelmbroes" data-writer="wilhelmbroes">Wilhelm Broes</writer>, geboren op 19 oktober 1766 in Haarlem, kwam in 1797 naar Zutphen. Als schrijver hield hij er behalve een vreemde stijl ook een merkwaardige werkmethode op na. In zijn ‘Levensbericht’ lezen we: ‘Zat hij op de studeerkamer aan eenig opstel, zeker had hij er rijpelijk over nagedacht, eer hij de pen op het papier zette. Maar was die eenmaal in beweging gebragt, ik kan het mij niet anders voorstellen, of dan zweefde zij als op arendsvleugelen. Mij dunkt, ik zie het: groote denkbeelden, die zijne ziel doorkruisen, drijven haar onophoudelijk voort. Legt hij haar een oogenblik neder, het is om eenig nieuw licht, dat zich aan zijnen geest voordoet, te laten oprijzen, of aan de fakkel van anderen de zijne aan te steken. Valt hem onder het schrijven iets in, dat van de hoofdzaak afwijkt, en daarna weder iets, en vervolgens nog iets, hij neemt het aanstonds op, welke uitweidingen daardoor ook ontstaan. Het plan had hij in het hoofd, al lag er geene schets nevens hem. Doch dat plan was zoo naauw niet afgemeten, of het stond bloot voor allerlei wijzigingen. Zelfs gaf hij aan zijnen arbeid wel eens wijderen omvang, dan waarop die was aangelegd.’ En hierdoor bezitten we van hem niet twee delen <cite>Leerredenen</cite>, zoals de uitgever had aangekondigd, maar drie. In 1805 vertrok Broes naar Leiden, waar de welbekende ontploffing van het kruitschip op 12 januari 1807 zijn woning in puin legde, en ten slotte naar Amsterdam, waar hij op 7 januari 1858 overleed.
+    </p>
+</article>
+
+<article>
+    <p>
+        <img src="/images/quinten_maurits_rudolph_ver_huell.jpg" alt="Quinten Maurits Rudolph Ver Huell" class="image-size-8">
+        De zee-officier <writer name="quintenmauritsrudolphverhuell" data-writer="quintenmauritsrudolphverhuell">Q.M.R. (Quinten Maurits Rudolph) Ver Huell</writer> leidde een leven waar genoeg over te vertellen viel, en gelukkig deed hij dat ook, want hij was een goed verteller. Geboren in Zutphen op 11 september 1787 in een oud Gelders geslacht (zijn moeder was een Staring), lagen er twee wegen voor hem open: het openbaar bestuur (zijn vader was burgemeester van Doesburg) en de zeedienst (de broer van zijn vader was vlootvoogd). Maurits, zoals zijn roepnaam luidde, koos voor de zee en vocht in 1805 onder zijn oom Carel Hendrik Ver Huell, een persoonlijke vriend van Napoleon, tegen de Engelsen bij Kaap Gris Nez, waarbij hij zich kranig weerde.
+        <br>
+        Twee jaar later vertrok hij met de marinebrik ‘De Vlieg’  naar Indië. Het schip werd voor de Braziliaanse kust door Engelse schepen buitgemaakt, waarop Maurits noodgedwongen tweeënhalf jaar in Bahia doorbracht. In 1810 was hij terug in Nederland. Het verhaal van zijn lotgevallen beschreef hij in <cite>Mijne eerste zeereize</cite> (1842), dat lovend ontvangen werd: ‘Allen die dit boek gelezen hebben, zullen erkennen dat Ver Huell meesterlijk de pen voerde. Zijn stijl is eenvoudig, zijn verhaaltrant begrijpelijk, boeijend en onopgesmukt waar. Overal ontmoeten wij den beschaafden jeugdigen zeeman, die, ofschoon meermalen ontstemd wegens de verwijdering eener hem dierbare moeder, nogtans lagchend alle gevaren trotseert, zich uit alle vreemde avonturen uitmuntend weet te redden en zich blijmoedig ontberingen van allerlei aard getroost, die zijn deel waren, toen, door een onvoorzien noodlottig ongeval, het vaartuigje op een vreemde kust geworpen werd en hij aldaar, onder een bijgeloovig, moordzuchtig volk eenen geruimen tijd moest doorbrengen, zonder eenige gemeenschap met het vaderland.’
+        <br>
+        Zijn volgende reis, in 1816, bracht hem naar de Molukken om er het Nederlands gezag te herstellen. Ver Huell vertrok als eerste officier en keerde terug als commandant, als plaatsvervanger van de onderweg overleden kapitein-ter-zee. Lotgevallen waren er ook ditmaal genoeg, al was het maar doordat het schip in dusdanig slechte staat verkeerde dat het, kort nadat men in maart 1819 de thuisreis had aanvaard, in de Indische Oceaan zonk. De 340 opvarenden konden ternauwernood door een Amerikaans koopvaardijschip opgepikt en op het nabijgelegen koraaleiland Diégo Garçia aan land gezet worden. Van daaruit ging de reis via Mauritius en Elba – even Napoleon gedag zeggen – terug naar Nederland. <cite>Mijne herinneringen aan eene reis naar Oost-Indië</cite> (1836) luidt de titel droog, maar het reisverslag laat zich lezen als een spannende avonturenroman. Never a dull moment. Ver Huell:
+    </p>
+<blockquote>
+Wij ontdekten nu eene menigte krokodillen, die wij des ochtends niet gezien hadden. Een onzer officieren brandde een buks op een dezer dieren los, die gerust op den oever lag te slapen, en de Indianen verzekerden, met eenen uitroep van vreugde, dat het wel getroffen was. Wij pagaaiden naar den wal, en vonden het afzigtelijk monster, met vuil en groen bedekt, uitgestrekt liggen, sloegen het een eind touw om den hals, en namen het op sleeptouw. […] Op zijde van de Evertzen gekomen, hijschten wij den krokodil over, die op het halfdek ter bezigtiging uitgestrekt werd; doch op eens herleefde het dier, en begon vreesselijk met den staart te slaan. Alle nieuwsgierigen stoven verschrikt uit elkander. Eindelijk door eene menigte touwen in zijne bewegingen verhinderd vond het ondier eenen gewissen dood onder de scheepsbijl.
+</blockquote>
+    <p>
+        Daarna was het met reizen gedaan. Ver Huell werd onder-equipagemeester op de Rotterdamse marinewerf en klom daar in twintig jaar op tot directeur, een functie die hij tot zijn pensioen in 1850 bekleedde. Ver Huell overleed op 10 mei 1860 in Arnhem. In zijn nalatenschap zat een ruim negenhonderd pagina’s tellend manuscript, bestaand uit losse, niet genummerde pagina’s, waarop hij zijn memoires had geschreven. Zoals het met niet voor publicatie bestemde ego-documenten vaak gaat, zijn ook deze herinneringen zeer de moeite waard. Terecht is er daarom in 1966 door prof. dr. L. Turksma een mooie publicatie uit samengesteld onder de titel <cite>Levensherinneringen</cite> 1787-1812. Ook de jeugdjaren in Zutphen staan hierin beschreven. Maurits werd geboren in het huis van zijn grootouders, ‘op het Oudewand tegenover de pomp en het Huis met de Vazen’, en woonde – de reden hiervoor wordt niet duidelijk – lange tijd bij zijn grootouders, terwijl zijn vader en moeder met de andere kinderen in Doesburg woonden. (‘Van tijd tot tijd zag ik mijne ouders, zuster en broeder, waarvan ik bijna vervreemd was.’) Dit belette de jonge Maurits niet een uitermate gelukkige jeugd bij zijn grootvader, oud-burgemeester van Zutphen, en grootmoeder te hebben.
+        <br>            
+        Zo vertelt hij met veel smaak hoe hij als klein jochie ‘zekere Pleger, een verre neef van mijn grootmoeder’ een poets bakte. Ver Huell:
+    </p>
+<blockquote>
+Eindelijk begon mij die man te vervelen, omdat ik merkte dat mijne grootmoeder niet zeer met hem was ingenomen, omdat hij mijn grootvader steeds met advocatenzaken plaagde. Bij toeval had ik onder het speelgoed mijner moeder een zakje, met paardehaar gevuld, gevonden waarin een klein trompetje stak. Drukte men op dat zakje, gaf dat trompetje een geluid alsof er een ongeoorloofd windje ontsnapte. Op zekere middag, terwijl om half vier uren de thee gereed stond met pijpen, tabak, comfoor en kwispedoor, werd menheer Pleger aangekondigd. In een ogenblik lei ik het zakje ongemerkt onder het kussen van de stoel waarop de bezoeker gewoon was te gaan zitten. Na de gewone plichtplegingen nam hij met alle statigheid plaats. Preut, preut, klinkt het onder hem. Hij wordt bleek van schaamte en mijne grootmoeder rood tot over de oren.
+</blockquote>
+    <p>
+        Eén passage uit de jeugdherinneringen is van bijzonder literair-historisch belang. Ver Huell verhaalt hoe hij bij het tollen op de Boompjeswal per ongeluk zijn tol in ‘de zogenaamde moddergracht’ schiet. Als hij de tol eruit probeert te vissen, valt hij voorover in de gracht en zakt ‘over den middel met het hoofd naar beneden’ razendsnel weg in de zuigende modder. Van de vriendjes die erbij staan en het zien gebeuren, heeft er een de tegenwoordigheid van geest en de onverschrokkenheid om de kleine Maurits te hulp te schieten, en de kracht om hem er aan zijn benen weer uit te trekken. Dit vriendje werd later net als Ver Huell zee-officier en schrijver. Zijn naam was Isaac Petrus Marie Willinck (zie daar).
+        <br>
+        <img src="/images/alexander_ver_huell.jpg" alt="Alexander ver Huell" class="image-size-9">
+        Ver Huell, die tevens een gerespecteerd kenner en tekenaar – hij kreeg les van J.A. Kaldenbach (zie daar) – van insecten en vooral vlinders was, was de vader van de bekende humoristische tekenaar en schrijver <writer name="alexanderverhuell" data-writer="alexanderverhuell">Alexander Ver Huell</writer> (Doesburg, 7 maart 1822 – Arnhem, 28 mei 1897) was een zoon van Q.M.R. Ver Huell (zie daar). Hij die behoorde tot het clubje Leidse studievrienden van Nicolaas Beets (Hildebrand), Bernard Gewin (Vlerk), J.P. Hasebroek (Jonathan) en Johannes Kneppelhout (Klikspaan), wiens <cite>Studenten-typen</cite> (1839-1841) hij illustreerde. In zijn dagboek, in 1985 bezorgd door Jan Bervoets en <writer name="rodychamuleau" data-writer="rodychamuleau">Rody Chamuleau</writer> en door De Walburg Pers uitgegeven onder de titel <cite>Het dagboek van Alexander Ver Huell</cite> 1860-1865, komt Zutphen verscheidene keren ter sprake. Op 21 januari 1865 noteert hij:
+    </p>
+<blockquote>
+Van middag na den eten kreeg ik een brief uit Zutphen brak dien open, en las ‘Het is mij een behoefte U, zijn vriend, kennis te geven van het plotseling overlijden van den goeden Henri Engelberts.’ Ik schrok zoodanig dat het was alsof er iets in mijn hart brak en naauwlyks de kracht had om naar de kast te loopen om wat te drinken. Ik voelde mij zoo ziek dat ik naar bed moest en vomeerde. – Nu (9 uur) ben ik opgestaan om den brief uit te lezen en te weten of ik ook naar Zutphen moet. – Er staan echter alleen partikulariteiten over zijn korte ongesteldheid in en de reden van zijn sterven; een verlamming van het hart. –
+Van der Elst schrijft de goede Henri E. – en zoo iemand verdiende hij dien schoonen bijnaam. Van anderen kan de goedhartigheid zich een enkele maal verloochenen – van Henri nooit. – Braver zoon en vriend, braver echtgenoot en vader was er nimmer. Allen die hem kenden zullen zich bewijzen herinneren van zijn edel, loyaal en généreus karakter. – Zijne hoogbejaarde moeder, wiens éénig kind hij is zal radeloos wezen. Alle minder gefortuneerde leden zijner familie zullen oneindig veel aan hem verliezen; want zijn edelmoedigheid strekte zich uit over allen. – Voor mij sterft een der gelukkigste vooruitzichten van mijn volgend leven weg. – hoeveel genoegen had ik er mij van voorgesteld nu de trein tot Zutphen weldra zal doorlopen, met hem onze oude, dagenlange wandeltogten te hervatten.
+</blockquote>
+    <p>
+        En op 22 augustus van hetzelfde jaar:
+    </p>
+<blockquote>
+De droom van heden nacht trof mij te zeer om hem niet op te teekenen. Uren achtereen was ik met mijn overleden vriend Henri Engelberts. Over allerlei zaken spraken wij met elkander, ook over zijn ziekte en dood. (Hij ging te Zutphen veel naar diners, en sommigen meenden daarin de aanleiding van zijn kwaal en sterven te moeten zoeken.) Ook hiervoor spraken wij, en hij zeide me ‘zoo ik anders geleefd had, zoû ik veel langer en veel meer geleden hebben.’ Ook vroeg ik hem, half schertsende ‘Maar ben je wel gestorven?’ hij zag mij ernstig aan, en antwoordde niet, waarop ik zeide ‘Ik geloof dat God het ons, onze innige vriendschap, veroorloofd heeft nog eenmaal te zamen te zijn.’ Wij namen afscheid onder het storten van tranen, hij kuste mij de hand en ik riep uit ‘nu, Adieu mijn beste, goede, edele Henri!’ Kort daarop ontwaakte ik.
+</blockquote>
+    <p>
+        In de novelle <cite>De juwelen haarkam</cite> (1956) van Maria Dermoût, over de zogenaamde ‘pacificatie’ van de Molukken in 1817, treedt Q.M.R. Ver Huell op als de hoofdpersoon Quirien.
+        <br>
+        <cite>Mijn herinneringen aan een reis naar Oost-Indië</cite> werd in 2008, aangevuld met een serie van ruim honderd Indische aquarellen van Ver Huells hand, herdrukt door de Walburg Pers als deel 107 in de onvolprezen maritieme reeks ‘Werken van de Linschoten-Vereniging’.
+    </p>
+</article>
+
+<article>
+    <p>
+        <img src="/images/isaac_petrus_marie_willinck.jpg" alt="Isaac Petrus Marie Willinck" class="image-size-9">
+        Bij mijn weten heeft Boudewijn Büch het nooit over <writer name="isaacpetrusmariewillinck" data-writer="isaacpetrusmariewillinck">Isaac Petrus Marie Willinck</writer> gehad, maar het zou beslist een man naar zijn hart zijn geweest. Willinck was namelijk schrijver én de ontdekker van een eiland! Jawel. Geboren in Zutphen op 25 augustus 1786 – hij was dus één jaar ouder dan zijn vriendje Maurits Ver Huell –, was hij de eerste Nederlander na 150 jaar die, als bevelhebber van het oorlogskorvet ‘De Lynx’, de aarde omzeilde. Hij verbeterde de zeekaarten aanmerkelijk en ontdekte en passant het eiland Marianne. Voor wie de kennis der topografie wat is weggezakt: Marianne heeft een oppervlakte van ± 96 hectare en is dicht begroeid met palmen; zij ligt op 6 km van La Digue en op 59,2 km van Mahé, en behoort dus tot de ten oosten van Afrika gelegen, uit 115 eilanden bestaande eilandengroep de Seychellen. Willinck overleed op 2 april 1835 in Zutphen. Postuum verscheen het verslag van zijn reis om de wereld: Reize om <cite>Kaap Hoorn, langs de Westkust van Zuid-Amerika, door de Stille Zuidzee naar de Philippijnsche eilanden en verder door de Chinese Zee naar Batavia, gedaan in de jaren 1823 en 1824</cite> (1836), dat in 1989 opnieuw werd uitgegeven door de Walburg Pers in de reeks ‘Werken van de Linschoten-Vereniging’, onder de titel <cite>Het korvet ‘Lynx’ in Zuid-Amerika, de Filippijnen en Oost-Indië, 1823-1825. De Koninklijke Marine als instrument van het ‘politiek systhema’ van koning Willem I</cite>.
+    </p>
+</article>
+
+<article>
+    <p>
+        <img src="/images/barthold_hendrik_lulofs.png" alt="Barthold Hendrik Lulofs" class="image-size-8">
+        <writer name="bartholdhendriklulofs" data-writer="bartholdhendriklulofs">B.H. (Barthold Hendrik) Lulofs</writer>, geboren in Zutphen op 22 maart 1787. Zijn familie bezat een steenfabriek even buiten de stad. Lulofs de Latijnse school in Zutphen doorlopen te hebben, studeerde hij rechten in Groningen en werd hij ‘pleitbezorger bij de schepensbank’ en vervolgens substituut-officier in Zutphen tot hij in 1815 tot hoogleraar ‘Nederlandse taal- en letterkunde, Spraak- en Redekunst, Stijloefeningen en Uiterlijke welsprekendheid’ werd benoemd in Groningen. Deze functie vervulde hij tot zijn dood, op 20 juli 1849. Lulofs was een productief dichter en prozaschrijver, maar kon niet tegen kritiek, wat slecht uitkwam aangezien hij nogal wat kritiek te verduren kreeg. ‘Zijn prikkelbaar gemoed veroorzaakte hem geen gering lijden,’ lezen we, ‘waarvan de sporen in onze letterkundige geschiedenis nog merkbaar zijn.’ Zodra een tijdschrift het gewaagd had iets lelijks over hem te schrijven, verbrak Lulofs zijn banden met het blad. Na een jaar of tien was het dichtplezier hem dusdanig vergald dat hij besloot er de brui aan te geven. Enkele titels: <cite>Brieven op eene wandeling door een gedeelte van Duitschland en Holland</cite> (1810), <cite>Watersnood. Een gedicht</cite> (1820), <cite>Eenige Puntdichten in hexameters en pentameters</cite> (1826) en <cite>Reistogtje in 1826 met de stoomboot naar Hamburg</cite> (1827-’28). Ook maakte Lulofs vertalingen van Schiller, Goethe en Victor Hugo. Twee jaar na zijn overlijden verschenen de <cite>Gedichten van Mr. B.H. Lulofs</cite>, bezorgd door de Groningse dichter Hajo Albert Spandaw. Hieruit de eerste strofe van Lulofs ‘Schaatsenrijderslied’:
+    </p>
+<blockquote>
+Hollands lust sinds grijze tijden,
+    Nooit volprezen schaatsenrijden,
+Pijlsnel lopen, rennen, glijden,
+    Luchtig klieven en doorsnijden
+Van het fonklend spiegelijs,
+    Als we op ’t ijz’ren schoeisel draaijen,
+Zwieren, zweven, zwenken, zwaaijen:
+    Dat voor u het loflied rijz’.
+</blockquote>
+</article>
+
+<article>
+    <p>
+        <img src="/images/hendrik_paul_kretschmer-zelfportret.jpg" alt="Hendrik Paul Kretschmer" class="image-size-5">
+        <writer name="hendrikpaulkretschmer" data-writer="hendrikpaulkretschmer">Hendrik Paul Kretschmer</writer> werd geboren in Zutphen op 27 september 1790, en daar stierf hij ook: op 31 januari 1827. Hij wilde militair worden, moest daar door zijn slechte gezondheid van afzien, werd toen maar landmeter, tot ook dat te zwaar viel, en werd daarom ten slotte van armoe maar leraar (wis-, natuur- en aardrijkskunde), welk bestaan hij opfleurde met het schrijven van ‘bijdragen in proza en poëzie over allerlei onderwerpen’. Wat vond Kretschmer (zie ook onder Jacob van Lennep) van zijn dichtkunst?
+    </p>
+<pre>
+’k Ben slechts een Dichtertje, want (entre nous soit dit)
+    Men noemt zichzelf nooit groot doch ’k weet mij te taxeren.
+’k Ben slechts een klein Poëet, als Vondel zing ik niet,
+    En zal het op zijn best als Loots en Tollens leeren.
+</pre>
+</article>
+
+<article>
+    <p>
+        <img src="/images/anthonie_van_deinse.jpg" alt="Anthonie van Deinse" class="image-size-3">
+        –<writer name="anthonievandeinse" data-writer="anthonievandeinse">Anthonie van Deinse</writer> (Sluis, 11 mei 1764 – Middelburg, 19 november 1829) was van 1792 tot 1797 predikant in Zutphen. Van Deinse was lid van het vermaarde Haagse dichtgenootschap ‘Kunstliefde Spaart Geen Vlijt’ en stond bekend als ‘een niet onverdienstelijk dichter’. Zijn poëtische meesterproef, geschreven op zijn achttiende, was <cite>Vervolgingen der waldenzeren</cite> (1782).
+    </p>
+</article>
+
+<footer>
+    <nav>
+        <a href="/tijdvak/1800-1900">naar het volgende tijdvak</a>
+    </nav>
+</footer>

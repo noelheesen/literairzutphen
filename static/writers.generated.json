@@ -1,0 +1,27 @@
+[
+    {
+        "slug": "pgwodehouse",
+        "fullname": "P.G. Wodehouse",
+        "displayname": "",
+        "imagepath": "/images/pgwodehouse.png",
+        "refs": ["/tijdvak/voor-1500"]
+    },
+    {
+        "slug": "matroosbernardusbade",
+        "fullname": "Matroos Bernardus Bade",
+        "imagepath": "/images/matroosbernardusbade.png",
+        "refs": ["/tijdvak/voor-1500"]
+    },
+    {
+        "slug": "poesjkin",
+        "fullname": "Poesjkin",
+        "imagepath": "/images/poesjkin.png",
+        "refs": ["/tijdvak/voor-1500"]
+    },
+    {
+        "slug": "wilhelmusbaudartius",
+        "fullname": "Wilhelmus Baudartius",
+        "imagepath": "/images/wilhelmusbaudartius.png",
+        "refs": ["/tijdvak/voor-1500"]
+    }
+]

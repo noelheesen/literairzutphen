@@ -1,0 +1,11 @@
+<h1>Colofon / Contact</h1>
+
+<p>
+    Literair Zutphen is het resultaat van twintig jaar liefdewerk, enkele eeuwen oud papier en een paar jaar nieuwe media. De bijeenvergaarde informatie is afkomstig uit archieven en bibliotheken, waarvan er drie met name moeten worden bedankt, te weten de <a href="https://www.kb.nl/" target="_blank">Koninklijke Bibliotheek</a> en het <a href="https://literatuurmuseum.nl" target="_blank">Literatuurmuseum</a> in Den Haag en het <a href="https://erfgoedcentrumzutphen.nl/regionaal-archief-zutphen" target="_blank" >Regionaal Archief Zutphen</a>.
+    <br />
+    <br />
+    Om de teksten te verlevendigen en de belangstelling voor de beschreven auteurs te vergroten zijn er waar mogelijk portretfoto’s toegevoegd. Indien u, hetzij als geportretteerde hetzij als fotograaf, bezwaar heeft tegen plaatsing van een foto, hoor ik het graag: dan zal ik de foto verwijderen en proberen te vervangen door een andere.
+    <br />
+    <br />
+    Ik heb niet de illusie volledig te zijn. Aanvullingen, verbeteringen en tips zijn van harte welkom. U kunt deze sturen naar <a href="mailto:hans.heesen@gmail.com">hans.heesen@gmail.com.</a>
+</p>
