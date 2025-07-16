@@ -22,6 +22,8 @@
 {/if}
 
 <style lang="postcss">
+    @reference "tailwindcss";
+    
     button {
         @apply fixed bottom-2 right-2;
         color: rgb(153 27 27 / var(--tw-border-opacity, 1));

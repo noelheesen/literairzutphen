@@ -114,6 +114,7 @@
 </div>
 
 <style lang="postcss">
+	@reference "tailwindcss";	
 	main {
 		@apply pt-14 pb-6;
 		margin: 0 6svw;

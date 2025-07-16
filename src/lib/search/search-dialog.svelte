@@ -142,6 +142,7 @@
 {/if}
 
 <style lang="postcss">
+	@reference "tailwindcss";
 	:global(#search-dialog) {
 		@apply fixed top-2;
 		@apply flex flex-col;

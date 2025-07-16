@@ -62,6 +62,7 @@
 {/if}
 
 <style lang="postcss">
+	@reference "tailwindcss";
 	div[role='dialog'] {
 		@apply pointer-events-auto;
 	}
